@@ -2278,6 +2278,131 @@ ea_volunteer
  
    No  Yes  N/A <NA> 
  1025  390  237  187 
+ea_volunteer x non-profit
+ea_volunteer ### employment_status == "Employed by a non-profit organization" (nas removed)
+      
+        FALSE   TRUE
+   No  0.7562 0.7217
+   Yes 0.2438 0.2783
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1354, df = 3, p-value < 2.2e-16
+ 
+ea_volunteer x ETG
+ea_volunteer ### ea_career_type == "Earning to give" (nas removed)
+      
+        FALSE   TRUE
+   No  0.6724 0.7580
+   Yes 0.3276 0.2420
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2080, df = 3, p-value < 2.2e-16
+ 
+volunteer or non-profits x AI
+cause_import_ai_b ### ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" (nas removed)
+     
+       FALSE   TRUE
+   :( 0.6325 0.4638
+   :) 0.3675 0.5362
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1778, df = 3, p-value < 2.2e-16
+ 
+volunteer non-profits x poverty
+cause_import_poverty_b ### ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" (nas removed)
+     
+       FALSE   TRUE
+   :( 0.1766 0.3220
+   :) 0.8234 0.6780
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1782, df = 3, p-value < 2.2e-16
+ 
+volunteer non-profits x AR
+cause_import_animal_welfare_b ### ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" (nas removed)
+     
+       FALSE   TRUE
+   :( 0.7095 0.5032
+   :) 0.2905 0.4968
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1782, df = 3, p-value < 2.2e-16
+ 
+volunteer non-profits x environment
+cause_import_environmentalism_b ### ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" (nas removed)
+     
+       FALSE   TRUE
+   :( 0.5811 0.6573
+   :) 0.4189 0.3427
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1754, df = 3, p-value < 2.2e-16
+ 
+volunteer non-profits x cause pri
+cause_import_cause_prioritization_b ### ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" (nas removed)
+     
+       FALSE   TRUE
+   :( 0.5542 0.3463
+   :) 0.4458 0.6537
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1754, df = 3, p-value < 2.2e-16
+ 
+volunteer non-profits x new to EA?
+ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" ### which_year_EA %in% c("2016", "2017") (nas removed)
+        
+          FALSE   TRUE
+   FALSE 0.4549 0.5080
+   TRUE  0.5451 0.4920
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 58.676, df = 1, p-value = 1.859e-14
+ 
+volunteer non-profits x education
+ea_volunteer == "Yes" | employment_status == "Employed by a non-profit organization" ### education (nas removed)
+        
+         Doctoral postgraduate degree (e.g. PhD) High school or lower
+   FALSE                                  0.5872               0.6379
+   TRUE                                   0.4128               0.3621
+        
+         Master’s degree Professional postgraduate degree
+   FALSE          0.4954                           0.4667
+   TRUE           0.5046                           0.5333
+        
+         Undergraduate degree (bachelor’s)
+   FALSE                            0.4872
+   TRUE                             0.5128
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1640, df = 6, p-value < 2.2e-16
+ 
 ea_career
 ea_career
  
@@ -2459,6 +2584,26 @@ donate_2016_c ### ea_career_type == "Earning to give"
    (143 observations deleted due to missingness)
  Multiple R-squared:  0.00794,	Adjusted R-squared:  0.006061 
  F-statistic: 4.226 on 1 and 528 DF,  p-value: 0.04031
+ 
+age x ETG
+age ### ea_career_type == "Earning to give"
+ # A tibble: 2 x 5
+   `ea_career_type == "Earning to give"`     N     mean median        sd
+                                   <lgl> <int>    <dbl>  <dbl>     <dbl>
+ 1                                 FALSE   594 29.60101     26 10.263841
+ 2                                  TRUE   389 28.22879     27  7.995591
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -2.3475, df = 951.93, p-value = 0.0191
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -2.5193660 -0.2250706
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            28.22879            29.60101 
  
 total donations x ETG 2015
 # A tibble: 3 x 3
