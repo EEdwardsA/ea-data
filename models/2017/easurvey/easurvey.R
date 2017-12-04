@@ -112,6 +112,14 @@ Ramd::define("referrers", "simple_referrers", "cities",
 					}
 					df
         }
+      , "Write and drop comments" = function(df) {
+        write_comments <- resource("lib/write_comments")
+        write_comments(df, "data/2017/2017-survey-comments.txt")
+        for (var in get_vars(df, "comment")) {
+          df[[var]] <- NULL
+        }
+        df
+      }
     )
 
     , analyze = list(

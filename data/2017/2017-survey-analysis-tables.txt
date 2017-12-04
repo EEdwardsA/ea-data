@@ -1167,7 +1167,9 @@ race_asian
    No  N/A <NA>  Yes 
  1023  554  187   75 
 multi-racial
-< table of extent 0 >
+
+   0   1   2   3 
+ 621 994  36   1 
 politics
 politics
  
@@ -1201,14 +1203,14 @@ left x city
 left ### city (nas removed)
            
             Boston / Cambridge London New York City  Other Oxford SF Bay
-   Left                 0.7500 0.8200        0.6364 0.7598 0.7500 0.8333
-   Non-Left             0.2500 0.1800        0.3636 0.2402 0.2500 0.1667
+   Left                 0.7500 0.8269        0.6364 0.7591 0.7500 0.8333
+   Non-Left             0.2500 0.1731        0.3636 0.2409 0.2500 0.1667
  
  
  	Pearson's Chi-squared test
  
  data:  x and y
- X-squared = 1600, df = 327, p-value < 2.2e-16
+ X-squared = 1594, df = 322, p-value < 2.2e-16
  
 left x Bay
 left ### city == "SF Bay" (nas removed)
@@ -1240,14 +1242,14 @@ race x city
 race_white ### city (nas removed)
       
        Boston / Cambridge London New York City  Other Oxford SF Bay
-   No              0.1081 0.1077        0.2821 0.1322 0.0625 0.1429
-   Yes             0.8919 0.8923        0.7179 0.8678 0.9375 0.8571
+   No              0.1053 0.1194        0.2821 0.1315 0.0625 0.1429
+   Yes             0.8947 0.8806        0.7179 0.8685 0.9375 0.8571
  
  
  	Pearson's Chi-squared test
  
  data:  x and y
- X-squared = 1916, df = 375, p-value < 2.2e-16
+ X-squared = 1908, df = 368, p-value < 2.2e-16
  
 race x NYC
 race_white ### city == "New York City" (nas removed)
@@ -1311,9 +1313,9 @@ city
                                                             SF Bay 
                                                                 79 
                                                             London 
-                                                                69 
+                                                                71 
                                                 Boston / Cambridge 
-                                                                43 
+                                                                44 
                                                      New York City 
                                                                 43 
                                                             Oxford 
@@ -1364,6 +1366,8 @@ city
                                                                  6 
                                                          Stockholm 
                                                                  6 
+                                                                   
+                                                                 5 
                                                          Baltimore 
                                                                  5 
                                                           Brisbane 
@@ -1402,7 +1406,7 @@ city
                                                                  4 
                                                          Princeton 
                                                                  4 
-                                                         São Paulo 
+                                                          Tübingen 
                                                                  4 
                                                           Waterloo 
                                                                  4 
@@ -1432,6 +1436,8 @@ city
                                                                  3 
                                                             Madrid 
                                                                  3 
+                                                         Newcastle 
+                                                                 3 
                                                           Portland 
                                                                  3 
                                                     Salt Lake City 
@@ -1441,8 +1447,6 @@ city
                                                          Sheffield 
                                                                  3 
                                                          Singapore 
-                                                                 3 
-                                                          Tübingen 
                                                                  3 
                                                               York 
                                                                  3 
@@ -1470,8 +1474,6 @@ city
                                                                  2 
                                                           Brooklyn 
                                                                  2 
-                                                        Canterbury 
-                                                                 2 
                                                           Coventry 
                                                                  2 
                                                              Davis 
@@ -1498,6 +1500,8 @@ city
                                                                  2 
                                                        Jersey City 
                                                                  2 
+                                                    Kongens Lyngby 
+                                                                 2 
                                                          Leicester 
                                                                  2 
                                                            Leipzig 
@@ -1513,8 +1517,6 @@ city
                                                          New Haven 
                                                                  2 
                                                        New Orleans 
-                                                                 2 
-                                                         Newcastle 
                                                                  2 
                                                              Paris 
                                                                  2 
@@ -1622,7 +1624,7 @@ city
                                                                  1 
                                                Cedaredge, Colorado 
                                                                  1 
-              Čerčany is definitely not what you could call a city 
+                                                           Čerčany 
                                                                  1 
                                                        Chapel Hill 
                                                                  1 
@@ -1648,8 +1650,6 @@ city
                                                                  1 
                                                           columbus 
                                                                  1 
-                                                       Concord, MA 
-                                                                 1 
                                                          Corvallis 
                                                                  1 
                                                          Cupertino 
@@ -1673,8 +1673,6 @@ city
                                                            Durango 
                                                                  1 
                                                         Düsseldorf 
-                                                                 1 
-                                                        East COast 
                                                                  1 
                                                      Eatontown, NJ 
                                                                  1 
@@ -1764,7 +1762,7 @@ city
                                                                  1 
                                                        Holyoke, MA 
                                                                  1 
-                                 Huntly (not a city) Aberdeenshire 
+                                                            Huntly 
                                                                  1 
                                                          Huonville 
                                                                  1 
@@ -1789,8 +1787,6 @@ city
                                                      Knoxville, tn 
                                                                  1 
                                                            Kolkata 
-                                                                 1 
-                                                    Kongens Lyngby 
                                                                  1 
                                                       Kristianstad 
                                                                  1 
@@ -1826,8 +1822,6 @@ city
                                                                  1 
                                                             Luanda 
                                                                  1 
-                                                            Lyngby 
-                                                                 1 
                                                               Lyon 
                                                                  1 
                                                          Maidstone 
@@ -1838,7 +1832,7 @@ city
                                                                  1 
                                                       Marble Falls 
                                                                  1 
-                                                           marburg 
+                                                           Marburg 
                                                                  1 
                                                       Marshall, MI 
                                                                  1 
@@ -1877,8 +1871,6 @@ city
                                                          New Delhi 
                                                                  1 
                                                         Newark, NJ 
-                                                                 1 
-                                               Newcastle upon Tyne 
                                                                  1 
                                                              Noank 
                                                                  1 
@@ -2023,8 +2015,6 @@ city
                                                             Toledo 
                                                                  1 
                                                           Toulouse 
-                                                                 1 
-                                                         Tuebingen 
                                                                  1 
                                                        Turlock, CA 
                                                                  1 
@@ -3510,12 +3500,12 @@ city ### member_gwwc
                      
                          N/A     No    Yes   <NA>
    Berlin             0.0000 0.0106 0.0210 0.0000
-   Boston / Cambridge 0.0000 0.0224 0.0336 0.0321
+   Boston / Cambridge 0.0000 0.0234 0.0336 0.0321
    Cambridge          0.0000 0.0064 0.0273 0.0107
    Chicago            0.0000 0.0096 0.0105 0.0000
-   London             0.0000 0.0394 0.0588 0.0214
+   London             0.0000 0.0394 0.0630 0.0214
    New York City      0.0000 0.0266 0.0294 0.0214
-   Other              1.0000 0.8009 0.7080 0.8235
+   Other              1.0000 0.7998 0.7038 0.8235
    Oxford             0.0000 0.0170 0.0336 0.0107
    Seattle            0.0000 0.0160 0.0021 0.0160
    SF Bay             0.0000 0.0426 0.0630 0.0481
@@ -3525,7 +3515,7 @@ city ### member_gwwc
  	Pearson's Chi-squared test
  
  data:  x and y
- X-squared = 2681, df = 389, p-value < 2.2e-16
+ X-squared = 2681, df = 383, p-value < 2.2e-16
  
 GWWC non-students donating >10% (2015)
 member_gwwc ### p_donate_2015 >= 0.1 (nas removed)

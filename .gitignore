@@ -4,10 +4,14 @@ data/2015/imsurvey2015-anonymized.csv
 data/2017/ea-survey-2017-confidential-no-anon.csv
 data/2017/ea-survey-2017-donations-only-confidential-no-anon.csv
 data/2017/imsurvey2017-anonymized.csv
+data/2017/2017-survey-comments.txt
+data/2017/2017-local-groups-survey-confidential-no-anon.csv
+data/2017/2017-local-groups-survey-parsed.csv
 data/2017/2017-ea-survey-sharable-data.csv
+data/2017/2017-lgs-comments.txt
+data/2017/2017-lgs-analysis-tables.txt
 data/2017/2017-survey-comments.txt
 data/2017/ea_comments.txt
 data/email_salt.txt
 data/2017/2017-local-groups-survey-confidential-no-anon.csv
 data/2017/2017-local-groups-survey-parsed.csv
-data/2017/2017-lgs-comments.txt

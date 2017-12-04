@@ -7,7 +7,7 @@ Ramd::define("variable_names", function(variable_names) {
   }, error = function(e) {
     stop("Loading 2017 data did not work. Note that this requires a confidential data ",
          "file to be installed in the `data/2017` folder. This file is something only ",
-         "members of the EA Survey team would have access to. However, the 2015 CSV ",
+         "members of the EA Survey team would have access to. However, the 2017 CSV ",
          "produced by this script is already available, so you do not need to be ",
          "able to run this script to do analysis.")
   })

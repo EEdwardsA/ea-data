@@ -1,0 +1,4217 @@
+first heard
+first_heard_EA (nas removed)
+                                               Slate Star Codex 
+                                                     96 (6.83%) 
+                                                   80,000 Hours 
+                                                     94 (6.69%) 
+                                             Giving What We Can 
+                                                     79 (5.62%) 
+                                                       TED Talk 
+                                                     74 (5.27%) 
+                                                       GiveWell 
+                                                     60 (4.27%) 
+                                                      EA Global 
+                                                      6 (0.43%) 
+                                                 Local EA group 
+                                                     47 (3.35%) 
+                                       Doing Good Better (Book) 
+                                                     44 (3.13%) 
+                                                       Facebook 
+                                                     37 (2.63%) 
+                           The Life You Can Save (organization) 
+                                                     28 (1.99%) 
+            Personal Contact (e.g. Friend, Colleague, Relative) 
+                                                   202 (14.38%) 
+                                                      LessWrong 
+                                                   199 (14.16%) 
+                                                  Search Engine 
+                                                     19 (1.35%) 
+                                    REG / EAF / The Swiss group 
+                                                     17 (1.21%) 
+                      Other (please specify in the comment box) 
+                                                   166 (11.81%) 
+ Book/article/blog post etc. (please specify which, if you can) 
+                                                    122 (8.68%) 
+ Animal Charity Evaluators (formerly Effective Animal Activism) 
+                                                     11 (0.78%) 
+                                               I don't remember 
+                                                     104 (7.4%) 
+first local
+first_local (nas removed)
+          TRUE         FALSE 
+    47 (3.35%) 1358 (96.65%) 
+involved_TLYCS
+involved_TLYCS (nas removed)
+           Yes            No 
+  144 (10.18%) 1271 (89.82%) 
+involved_local_EA
+involved_local_EA (nas removed)
+           Yes            No 
+  261 (18.45%) 1154 (81.55%) 
+involved_lesswrong
+involved_lesswrong (nas removed)
+           Yes            No 
+  315 (22.26%) 1100 (77.74%) 
+involved_givewell
+involved_givewell (nas removed)
+          No         Yes 
+ 883 (62.4%) 532 (37.6%) 
+involved_online_ea
+involved_online_ea (nas removed)
+           Yes            No 
+  329 (23.25%) 1086 (76.75%) 
+involved_personal_contact
+involved_personal_contact (nas removed)
+           No          Yes 
+ 973 (68.76%) 442 (31.24%) 
+involved_80K
+involved_80K (nas removed)
+           No          Yes 
+ 992 (70.11%) 423 (29.89%) 
+involved_GWWC
+involved_GWWC (nas removed)
+           Yes            No 
+  395 (27.92%) 1020 (72.08%) 
+involved EA Global
+involved_ea_global (nas removed)
+            No           Yes 
+ 1313 (92.79%)   102 (7.21%) 
+involved Book or Blog
+involved_book_blog (nas removed)
+           No          Yes 
+ 896 (63.32%) 519 (36.68%) 
+involved Swiss
+involved_swiss (nas removed)
+          Yes           No 
+    51 (3.6%) 1364 (96.4%) 
+member_ea_fb
+member_ea_fb (nas removed)
+          Yes           No 
+ 773 (54.63%) 642 (45.37%) 
+member_ea_forum
+member_ea_forum (nas removed)
+           Yes            No 
+  291 (20.57%) 1124 (79.43%) 
+member_gwwc
+member_gwwc (nas removed)
+           No          Yes 
+ 939 (66.36%) 476 (33.64%) 
+member_lw
+member_lw (nas removed)
+           Yes            No 
+  301 (21.27%) 1114 (78.73%) 
+ea social
+ea_social (nas removed)
+      90-100%       41-60%        1-20%           0%       61-80%       81-90% 
+    6 (0.64%)   46 (4.89%) 442 (47.02%) 275 (29.26%)   23 (2.45%)   21 (2.23%) 
+       21-40% 
+ 127 (13.51%) 
+would attend
+would_attend_local_group (nas removed)
+     I know that there is already and I do attend 
+                                     398 (28.55%) 
+                                              Yes 
+                                     358 (25.68%) 
+                                           Unsure 
+                                     325 (23.31%) 
+ I know that there is already and I do not attend 
+                                     176 (12.63%) 
+                                               No 
+                                      137 (9.83%) 
+ea_donate
+ea_donate (nas removed)
+            No           Yes 
+  406 (28.69%) 1009 (71.31%) 
+member local x ea social
+ea_social ### member_local_group (nas removed)
+          
+               No    Yes
+   0%      0.4312 0.0445
+   1-20%   0.4080 0.5816
+   21-40%  0.0846 0.2255
+   41-60%  0.0299 0.0831
+   61-80%  0.0182 0.0356
+   81-90%  0.0216 0.0237
+   90-100% 0.0066 0.0059
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1880, df = 8, p-value < 2.2e-16
+ 
+would attend x ea social
+would_attend_local_group ### ea_social (nas removed)
+                                                   
+                                                        0%  1-20% 21-40% 41-60%
+   I know that there is already and I do attend     0.0330 0.4041 0.5669 0.5652
+   I know that there is already and I do not attend 0.1172 0.1461 0.0945 0.1304
+   No                                               0.1612 0.0479 0.0079 0.0217
+   Unsure                                           0.3443 0.1689 0.1496 0.0870
+   Yes                                              0.3443 0.2329 0.1811 0.1957
+                                                   
+                                                    61-80% 81-90% 90-100%
+   I know that there is already and I do attend     0.4783 0.3810  0.1667
+   I know that there is already and I do not attend 0.0870 0.2381  0.6667
+   No                                               0.2609 0.0952  0.1667
+   Unsure                                           0.0870 0.2381  0.0000
+   Yes                                              0.0870 0.0476  0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1868, df = 11, p-value < 2.2e-16
+ 
+ea_donate x member local
+ea_donate ### member_local_group (nas removed)
+      
+           No    Yes
+   No  0.3105 0.2393
+   Yes 0.6895 0.7607
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 412.95, df = 1, p-value < 2.2e-16
+ 
+ea_donate x member EA Forum
+ea_donate ### member_ea_forum (nas removed)
+      
+           No    Yes
+   No  0.3007 0.2337
+   Yes 0.6993 0.7663
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 731.46, df = 1, p-value < 2.2e-16
+ 
+ea_donate x member EA FB
+ea_donate ### member_ea_fb (nas removed)
+      
+           No    Yes
+   No  0.3162 0.2626
+   Yes 0.6838 0.7374
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 83.686, df = 1, p-value < 2.2e-16
+ 
+ea_donate x involved local
+ea_donate ### involved_local_EA (nas removed)
+      
+           No    Yes
+   No  0.2903 0.2720
+   Yes 0.7097 0.7280
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 797.08, df = 1, p-value < 2.2e-16
+ 
+ea_donate x involved GWWC
+ea_donate ### involved_GWWC (nas removed)
+      
+           No    Yes
+   No  0.3422 0.1443
+   Yes 0.6578 0.8557
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 531.15, df = 1, p-value < 2.2e-16
+ 
+ea_donate x involved 80K
+ea_donate ### involved_80K (nas removed)
+      
+           No    Yes
+   No  0.2792 0.3050
+   Yes 0.7208 0.6950
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 483.78, df = 1, p-value < 2.2e-16
+ 
+ea_donate x involved GW
+ea_donate ### involved_givewell (nas removed)
+      
+           No    Yes
+   No  0.3715 0.1466
+   Yes 0.6285 0.8534
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 322.81, df = 1, p-value < 2.2e-16
+ 
+ea_donate x involved online
+ea_donate ### involved_online_ea (nas removed)
+      
+           No    Yes
+   No  0.2919 0.2705
+   Yes 0.7081 0.7295
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 653.58, df = 1, p-value < 2.2e-16
+ 
+ea_donate x involved book
+ea_donate ### involved_book_blog (nas removed)
+      
+           No    Yes
+   No  0.2980 0.2678
+   Yes 0.7020 0.7322
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 340.15, df = 1, p-value < 2.2e-16
+ 
+ea_donate x first local
+ea_donate ### first_local (nas removed)
+      
+        FALSE   TRUE
+   No  0.2850 0.2979
+   Yes 0.7150 0.7021
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2810, df = 3, p-value < 2.2e-16
+ 
+ea_donate x would attend
+ea_donate ### would_attend_local_group (nas removed)
+      
+       I know that there is already and I do attend
+   No                                        0.1985
+   Yes                                       0.8015
+      
+       I know that there is already and I do not attend     No Unsure    Yes
+   No                                            0.2500 0.2920 0.3231 0.3380
+   Yes                                           0.7500 0.7080 0.6769 0.6620
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1326.9, df = 4, p-value < 2.2e-16
+ 
+ea_donate x ea social
+ea_donate ### ea_social (nas removed)
+      
+           0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   No  0.3164 0.2443 0.2598 0.1957 0.2609 0.4286  0.6667
+   Yes 0.6836 0.7557 0.7402 0.8043 0.7391 0.5714  0.3333
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1880, df = 8, p-value < 2.2e-16
+ 
+ea_volunteer
+ea_volunteer (nas removed)
+           Yes            No 
+  390 (27.56%) 1025 (72.44%) 
+ea_volunteer x member local
+ea_volunteer ### member_local_group (nas removed)
+      
+           No    Yes
+   No  0.8553 0.4594
+   Yes 0.1447 0.5406
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 9.9168, df = 1, p-value = 0.001638
+ 
+ea_volunteer x member EA For
+ea_volunteer ### member_ea_forum (nas removed)
+      
+           No    Yes
+   No  0.7820 0.5017
+   Yes 0.2180 0.4983
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 18.572, df = 1, p-value = 1.636e-05
+ 
+ea_volunteer x member EA FB
+ea_volunteer ### member_ea_fb (nas removed)
+      
+           No    Yes
+   No  0.8723 0.6016
+   Yes 0.1277 0.3984
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 213.01, df = 1, p-value < 2.2e-16
+ 
+ea_volunteer x member GWWC
+ea_volunteer ### member_gwwc (nas removed)
+      
+           No    Yes
+   No  0.7913 0.5924
+   Yes 0.2087 0.4076
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 12.022, df = 1, p-value = 0.0005259
+ 
+ea_volunteer x involved local
+ea_volunteer ### involved_local_EA (nas removed)
+      
+           No    Yes
+   No  0.7730 0.5096
+   Yes 0.2270 0.4904
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 32.686, df = 1, p-value = 1.083e-08
+ 
+ea_volunteer x involved GWWC
+ea_volunteer ### involved_GWWC (nas removed)
+      
+           No    Yes
+   No  0.7225 0.7291
+   Yes 0.2775 0.2709
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 0.028206, df = 1, p-value = 0.8666
+ 
+ea_volunteer x involved 80K
+ea_volunteer ### involved_80K (nas removed)
+      
+           No    Yes
+   No  0.7339 0.7021
+   Yes 0.2661 0.2979
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 1.7672, df = 1, p-value = 0.1837
+ 
+ea_volunteer x involved GW
+ea_volunteer ### involved_givewell (nas removed)
+      
+           No    Yes
+   No  0.6795 0.7989
+   Yes 0.3205 0.2011
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 31.983, df = 1, p-value = 1.556e-08
+ 
+ea_volunteer x involved online
+ea_volunteer ### involved_online_ea (nas removed)
+      
+           No    Yes
+   No  0.7541 0.6261
+   Yes 0.2459 0.3739
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 6.7123, df = 1, p-value = 0.009575
+ 
+ea_volunteer x involved book
+ea_volunteer ### involved_book_blog (nas removed)
+      
+           No    Yes
+   No  0.7388 0.6994
+   Yes 0.2612 0.3006
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 26.553, df = 1, p-value = 2.564e-07
+ 
+ea_volunteer x first local
+ea_volunteer ### first_local (nas removed)
+      
+        FALSE   TRUE
+   No  0.7327 0.4468
+   Yes 0.2673 0.5532
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2810, df = 3, p-value < 2.2e-16
+ 
+ea_volunteer x would attend
+ea_volunteer ### would_attend_local_group (nas removed)
+      
+       I know that there is already and I do attend
+   No                                        0.4447
+   Yes                                       0.5553
+      
+       I know that there is already and I do not attend     No Unsure    Yes
+   No                                            0.8182 0.9270 0.9015 0.7374
+   Yes                                           0.1818 0.0730 0.0985 0.2626
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1560, df = 4, p-value < 2.2e-16
+ 
+ea_volunteer x ea social
+ea_volunteer ### ea_social (nas removed)
+      
+           0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   No  0.9091 0.6968 0.4173 0.3696 0.6087 0.5238  0.6667
+   Yes 0.0909 0.3032 0.5827 0.6304 0.3913 0.4762  0.3333
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1880, df = 8, p-value < 2.2e-16
+ 
+ea_career
+ea_career (nas removed)
+           Yes            No 
+  385 (27.21%) 1030 (72.79%) 
+ea_career x member local
+ea_career ### member_local_group (nas removed)
+      
+           No    Yes
+   No  0.7846 0.6132
+   Yes 0.2154 0.3868
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 11.284, df = 1, p-value = 0.0007818
+ 
+ea_career x involved local
+ea_career ### involved_local_EA (nas removed)
+      
+           No    Yes
+   No  0.7556 0.6054
+   Yes 0.2444 0.3946
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 30.347, df = 1, p-value = 3.613e-08
+ 
+ea_career x first local
+ea_career ### first_local (nas removed)
+      
+        FALSE   TRUE
+   No  0.7349 0.4681
+   Yes 0.2651 0.5319
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2810, df = 3, p-value < 2.2e-16
+ 
+ea_career x would attend
+ea_career ### would_attend_local_group (nas removed)
+      
+       I know that there is already and I do attend
+   No                                        0.6181
+   Yes                                       0.3819
+      
+       I know that there is already and I do not attend     No Unsure    Yes
+   No                                            0.7045 0.8540 0.8308 0.7123
+   Yes                                           0.2955 0.1460 0.1692 0.2877
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1566.1, df = 4, p-value < 2.2e-16
+ 
+ea_volunteer_hours
+ea_volunteer_hours (nas removed)
+       0 hours per month   1.1-3 hours per month  5.1-10 hours per month 
+            939 (69.35%)               84 (6.2%)              81 (5.98%) 
+   0.1-1 hours per month   3.1-5 hours per month over 20 hours per month 
+              78 (5.76%)              66 (4.87%)              55 (4.06%) 
+ 10.1-20 hours per month 
+              51 (3.77%) 
+ea_career x member local
+ea_career ### member_local_group (nas removed)
+      
+           No    Yes
+   No  0.7846 0.6132
+   Yes 0.2154 0.3868
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 11.284, df = 1, p-value = 0.0007818
+ 
+ea_career x involved local
+ea_career ### involved_local_EA (nas removed)
+      
+           No    Yes
+   No  0.7556 0.6054
+   Yes 0.2444 0.3946
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 30.347, df = 1, p-value = 3.613e-08
+ 
+ea_career x first local
+ea_career ### first_local (nas removed)
+      
+        FALSE   TRUE
+   No  0.7349 0.4681
+   Yes 0.2651 0.5319
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2810, df = 3, p-value < 2.2e-16
+ 
+ea_career x would attend
+ea_career ### would_attend_local_group (nas removed)
+      
+       I know that there is already and I do attend
+   No                                        0.6181
+   Yes                                       0.3819
+      
+       I know that there is already and I do not attend     No Unsure    Yes
+   No                                            0.7045 0.8540 0.8308 0.7123
+   Yes                                           0.2955 0.1460 0.1692 0.2877
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1566.1, df = 4, p-value < 2.2e-16
+ 
+ea_career x ea social
+ea_career ### ea_social (nas removed)
+      
+           0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   No  0.8545 0.7353 0.5669 0.3478 0.2174 0.3333  0.0000
+   Yes 0.1455 0.2647 0.4331 0.6522 0.7826 0.6667  1.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1880, df = 8, p-value < 2.2e-16
+ 
+ea_volunteer_hours
+ea_volunteer_hours (nas removed)
+       0 hours per month   1.1-3 hours per month  5.1-10 hours per month 
+            939 (69.35%)               84 (6.2%)              81 (5.98%) 
+   0.1-1 hours per month   3.1-5 hours per month over 20 hours per month 
+              78 (5.76%)              66 (4.87%)              55 (4.06%) 
+ 10.1-20 hours per month 
+              51 (3.77%) 
+vol hrs x member local
+ea_volunteer_hours ### member_local_group (nas removed)
+                          
+                               No    Yes
+   0 hours per month       0.8295 0.4213
+   0.1-1 hours per month   0.0465 0.0798
+   1.1-3 hours per month   0.0354 0.1153
+   10.1-20 hours per month 0.0144 0.0843
+   3.1-5 hours per month   0.0233 0.0998
+   5.1-10 hours per month  0.0321 0.1153
+   over 20 hours per month 0.0188 0.0843
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2708, df = 8, p-value < 2.2e-16
+ 
+vol hrs x involved local
+ea_volunteer_hours ### involved_local_EA (nas removed)
+                          
+                               No    Yes
+   0 hours per month       0.7547 0.4163
+   0.1-1 hours per month   0.0505 0.0898
+   1.1-3 hours per month   0.0559 0.0898
+   10.1-20 hours per month 0.0243 0.0980
+   3.1-5 hours per month   0.0361 0.1061
+   5.1-10 hours per month  0.0487 0.1102
+   over 20 hours per month 0.0298 0.0898
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2708, df = 8, p-value < 2.2e-16
+ 
+vol hrs x first local
+ea_volunteer_hours ### first_local (nas removed)
+                          
+                            FALSE   TRUE
+   0 hours per month       0.7021 0.4545
+   0.1-1 hours per month   0.0567 0.0682
+   1.1-3 hours per month   0.0628 0.0455
+   10.1-20 hours per month 0.0360 0.0909
+   3.1-5 hours per month   0.0482 0.0682
+   5.1-10 hours per month  0.0559 0.1818
+   over 20 hours per month 0.0383 0.0909
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2700, df = 8, p-value < 2.2e-16
+ 
+vol hrs x would attend
+ea_volunteer_hours ### would_attend_local_group (nas removed)
+                          
+                           I know that there is already and I do attend
+   0 hours per month                                             0.4099
+   0.1-1 hours per month                                         0.0862
+   1.1-3 hours per month                                         0.1123
+   10.1-20 hours per month                                       0.0914
+   3.1-5 hours per month                                         0.0914
+   5.1-10 hours per month                                        0.1227
+   over 20 hours per month                                       0.0862
+                          
+                           I know that there is already and I do not attend
+   0 hours per month                                                 0.7803
+   0.1-1 hours per month                                             0.0462
+   1.1-3 hours per month                                             0.0578
+   10.1-20 hours per month                                           0.0173
+   3.1-5 hours per month                                             0.0462
+   5.1-10 hours per month                                            0.0347
+   over 20 hours per month                                           0.0173
+                          
+                               No Unsure    Yes
+   0 hours per month       0.9179 0.8766 0.7047
+   0.1-1 hours per month   0.0224 0.0285 0.0731
+   1.1-3 hours per month   0.0149 0.0222 0.0643
+   10.1-20 hours per month 0.0000 0.0190 0.0205
+   3.1-5 hours per month   0.0149 0.0127 0.0497
+   5.1-10 hours per month  0.0075 0.0222 0.0585
+   over 20 hours per month 0.0224 0.0190 0.0292
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2696, df = 11, p-value < 2.2e-16
+ 
+vol hrs x ea social
+ea_volunteer_hours ### ea_social (nas removed)
+                          
+                               0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   0 hours per month       0.9373 0.6636 0.4048 0.3095 0.3478 0.4286  0.4000
+   0.1-1 hours per month   0.0221 0.0737 0.0794 0.0476 0.0435 0.0476  0.0000
+   1.1-3 hours per month   0.0221 0.0645 0.1111 0.1905 0.1304 0.1429  0.0000
+   10.1-20 hours per month 0.0074 0.0392 0.0635 0.1190 0.1304 0.0952  0.0000
+   3.1-5 hours per month   0.0074 0.0484 0.1111 0.1905 0.0000 0.0952  0.4000
+   5.1-10 hours per month  0.0037 0.0737 0.1270 0.0714 0.0870 0.0476  0.2000
+   over 20 hours per month 0.0000 0.0369 0.1032 0.0714 0.2609 0.1429  0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1844, df = 13, p-value < 2.2e-16
+ 
+ea_paid_hours
+ea_paid_hours (nas removed)
+                   60-89.9 160 or higher (full-time)                  90-119.9 
+                 6 (0.45%)                53 (3.97%)                 3 (0.22%) 
+                   0.1-9.9                   10-19.9                   40-59.9 
+                 24 (1.8%)                19 (1.42%)                14 (1.05%) 
+                   20-39.9                         0                 120-159.9 
+                13 (0.97%)             1201 (90.03%)                 1 (0.07%) 
+paid hrs x member local
+ea_paid_hours ### member_local_group (nas removed)
+                            
+                                 No    Yes
+   0                         0.8994 0.9020
+   0.1-9.9                   0.0169 0.0200
+   10-19.9                   0.0113 0.0200
+   120-159.9                 0.0011 0.0000
+   160 or higher (full-time) 0.0429 0.0334
+   20-39.9                   0.0102 0.0089
+   40-59.9                   0.0136 0.0045
+   60-89.9                   0.0045 0.0045
+   90-119.9                  0.0000 0.0067
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2668, df = 10, p-value < 2.2e-16
+ 
+paid hrs x involved local
+ea_paid_hours ### involved_local_EA (nas removed)
+                            
+                                 No    Yes
+   0                         0.9015 0.8952
+   0.1-9.9                   0.0184 0.0161
+   10-19.9                   0.0129 0.0202
+   120-159.9                 0.0000 0.0040
+   160 or higher (full-time) 0.0378 0.0484
+   20-39.9                   0.0101 0.0081
+   40-59.9                   0.0110 0.0081
+   60-89.9                   0.0055 0.0000
+   90-119.9                  0.0028 0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2668, df = 10, p-value < 2.2e-16
+ 
+paid hrs x first local
+ea_paid_hours ### first_local (nas removed)
+                            
+                              FALSE   TRUE
+   0                         0.9012 0.8889
+   0.1-9.9                   0.0187 0.0000
+   10-19.9                   0.0125 0.0444
+   120-159.9                 0.0008 0.0000
+   160 or higher (full-time) 0.0397 0.0444
+   20-39.9                   0.0093 0.0222
+   40-59.9                   0.0109 0.0000
+   60-89.9                   0.0047 0.0000
+   90-119.9                  0.0023 0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2660, df = 10, p-value < 2.2e-16
+ 
+paid hrs x would attend
+ea_paid_hours ### would_attend_local_group (nas removed)
+                            
+                             I know that there is already and I do attend
+   0                                                               0.8906
+   0.1-9.9                                                         0.0260
+   10-19.9                                                         0.0208
+   120-159.9                                                       0.0000
+   160 or higher (full-time)                                       0.0365
+   20-39.9                                                         0.0078
+   40-59.9                                                         0.0052
+   60-89.9                                                         0.0052
+   90-119.9                                                        0.0078
+                            
+                             I know that there is already and I do not attend
+   0                                                                   0.8480
+   0.1-9.9                                                             0.0234
+   10-19.9                                                             0.0117
+   120-159.9                                                           0.0058
+   160 or higher (full-time)                                           0.0819
+   20-39.9                                                             0.0117
+   40-59.9                                                             0.0117
+   60-89.9                                                             0.0058
+   90-119.9                                                            0.0000
+                            
+                                 No Unsure    Yes
+   0                         0.8923 0.9373 0.9062
+   0.1-9.9                   0.0000 0.0033 0.0264
+   10-19.9                   0.0077 0.0099 0.0147
+   120-159.9                 0.0000 0.0000 0.0000
+   160 or higher (full-time) 0.0615 0.0297 0.0235
+   20-39.9                   0.0154 0.0099 0.0088
+   40-59.9                   0.0154 0.0099 0.0147
+   60-89.9                   0.0077 0.0000 0.0059
+   90-119.9                  0.0000 0.0000 0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2658, df = 13, p-value < 2.2e-16
+ 
+paid hrs x ea social
+ea_paid_hours ### ea_social (nas removed)
+                            
+                                 0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   0                         0.9888 0.9421 0.8374 0.6364 0.5217 0.4762  0.1667
+   0.1-9.9                   0.0074 0.0185 0.0163 0.0909 0.0435 0.0000  0.0000
+   10-19.9                   0.0000 0.0093 0.0325 0.0227 0.0435 0.0000  0.1667
+   120-159.9                 0.0000 0.0000 0.0000 0.0000 0.0000 0.0476  0.0000
+   160 or higher (full-time) 0.0000 0.0208 0.0569 0.0909 0.3043 0.3810  0.5000
+   20-39.9                   0.0000 0.0023 0.0244 0.0455 0.0000 0.0000  0.1667
+   40-59.9                   0.0037 0.0023 0.0244 0.0682 0.0435 0.0476  0.0000
+   60-89.9                   0.0000 0.0046 0.0000 0.0455 0.0435 0.0000  0.0000
+   90-119.9                  0.0000 0.0000 0.0081 0.0000 0.0000 0.0476  0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1836, df = 15, p-value < 2.2e-16
+ 
+Welcoming
+ea_welcoming (nas removed)
+                       Unwelcoming                         Welcoming 
+                        48 (5.54%)                         407 (47%) 
+ Neither welcoming nor unwelcoming                  Very unwelcoming 
+                      255 (29.45%)                        23 (2.66%) 
+                    Very welcoming 
+                      133 (15.36%) 
+Welcoming x member local
+ea_welcoming ### member_local_group (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3529 0.2035
+   Unwelcoming                       0.0607 0.0472
+   Very unwelcoming                  0.0266 0.0265
+   Very welcoming                    0.1044 0.2301
+   Welcoming                         0.4554 0.4926
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x member GWWC
+ea_welcoming ### member_gwwc (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3346 0.2287
+   Unwelcoming                       0.0558 0.0549
+   Very unwelcoming                  0.0335 0.0152
+   Very welcoming                    0.1506 0.1585
+   Welcoming                         0.4257 0.5427
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x member EA Forum
+ea_welcoming ### member_ea_forum (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3410 0.1509
+   Unwelcoming                       0.0459 0.0849
+   Very unwelcoming                  0.0260 0.0283
+   Very welcoming                    0.1636 0.1226
+   Welcoming                         0.4235 0.6132
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x member EA FB
+ea_welcoming ### member_ea_fb (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.4156 0.2234
+   Unwelcoming                       0.0500 0.0586
+   Very unwelcoming                  0.0156 0.0330
+   Very welcoming                    0.1344 0.1648
+   Welcoming                         0.3844 0.5201
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x involved local
+ea_welcoming ### involved_local_EA (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3229 0.1980
+   Unwelcoming                       0.0523 0.0660
+   Very unwelcoming                  0.0284 0.0203
+   Very welcoming                    0.1420 0.1929
+   Welcoming                         0.4544 0.5228
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x involved GWWC
+ea_welcoming ### involved_GWWC (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3212 0.2328
+   Unwelcoming                       0.0613 0.0420
+   Very unwelcoming                  0.0298 0.0191
+   Very welcoming                    0.1540 0.1527
+   Welcoming                         0.4338 0.5534
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x involved 80K
+ea_welcoming ### involved_80K (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3097 0.2639
+   Unwelcoming                       0.0571 0.0521
+   Very unwelcoming                  0.0294 0.0208
+   Very welcoming                    0.1505 0.1597
+   Welcoming                         0.4533 0.5035
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x involved GW
+ea_welcoming ### involved_givewell (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.2930 0.2967
+   Unwelcoming                       0.0643 0.0415
+   Very unwelcoming                  0.0302 0.0208
+   Very welcoming                    0.1626 0.1395
+   Welcoming                         0.4499 0.5015
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x involved online
+ea_welcoming ### involved_online_ea (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3152 0.2407
+   Unwelcoming                       0.0640 0.0332
+   Very unwelcoming                  0.0288 0.0207
+   Very welcoming                    0.1632 0.1286
+   Welcoming                         0.4288 0.5768
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x involved book
+ea_welcoming ### involved_book_blog (nas removed)
+                                    
+                                         No    Yes
+   Neither welcoming nor unwelcoming 0.3161 0.2585
+   Unwelcoming                       0.0702 0.0308
+   Very unwelcoming                  0.0259 0.0277
+   Very welcoming                    0.1386 0.1785
+   Welcoming                         0.4492 0.5046
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x first local
+ea_welcoming ### first_local (nas removed)
+                                    
+                                      FALSE   TRUE
+   Neither welcoming nor unwelcoming 0.2964 0.2500
+   Unwelcoming                       0.0554 0.0556
+   Very unwelcoming                  0.0277 0.0000
+   Very welcoming                    0.1506 0.2222
+   Welcoming                         0.4699 0.4722
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1732, df = 6, p-value < 2.2e-16
+ 
+Welcoming x would attend
+ea_welcoming ### would_attend_local_group (nas removed)
+                                    
+                                     I know that there is already and I do attend
+   Neither welcoming nor unwelcoming                                       0.1759
+   Unwelcoming                                                             0.0456
+   Very unwelcoming                                                        0.0228
+   Very welcoming                                                          0.2345
+   Welcoming                                                               0.5212
+                                    
+                                     I know that there is already and I do not attend
+   Neither welcoming nor unwelcoming                                           0.2566
+   Unwelcoming                                                                 0.1062
+   Very unwelcoming                                                            0.0265
+   Very welcoming                                                              0.0796
+   Welcoming                                                                   0.5310
+                                    
+                                         No Unsure    Yes
+   Neither welcoming nor unwelcoming 0.4179 0.4750 0.3102
+   Unwelcoming                       0.0746 0.0625 0.0278
+   Very unwelcoming                  0.0746 0.0188 0.0185
+   Very welcoming                    0.1194 0.0750 0.1481
+   Welcoming                         0.3134 0.3688 0.4954
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1726, df = 9, p-value < 2.2e-16
+ 
+Welcoming x ea social
+ea_welcoming ### ea_social (nas removed)
+                                    
+                                         0%  1-20% 21-40% 41-60% 61-80% 81-90%
+   Neither welcoming nor unwelcoming 0.4265 0.2573 0.2339 0.3043 0.1429 0.0952
+   Unwelcoming                       0.0616 0.0388 0.0726 0.0870 0.1429 0.0952
+   Very unwelcoming                  0.0190 0.0316 0.0161 0.0000 0.0476 0.0952
+   Very welcoming                    0.1090 0.1578 0.1935 0.1957 0.1905 0.1905
+   Welcoming                         0.3839 0.5146 0.4839 0.4130 0.4762 0.5238
+                                    
+                                     90-100%
+   Neither welcoming nor unwelcoming  0.1667
+   Unwelcoming                        0.0000
+   Very unwelcoming                   0.1667
+   Very welcoming                     0.0000
+   Welcoming                          0.6667
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1682, df = 11, p-value < 2.2e-16
+ 
+EA NPS
+ea_nps (nas removed)
+          100            0         -100 
+  589 (42.9%) 422 (30.74%) 362 (26.37%) 
+EA NPS Score
+[1] 16.53314
+EA NPS x welcoming
+ea_nps ### ea_welcoming (nas removed)
+       
+        Neither welcoming nor unwelcoming Unwelcoming Very unwelcoming
+   -100                                79          23                4
+   0                                   91          11                4
+   100                                 84          14               15
+       
+        Very welcoming Welcoming
+   -100             10        66
+   0                31       135
+   100              92       204
+EA NPS x member local
+ea_nps ### member_local_group
+ # A tibble: 2 x 5
+   member_local_group     N      mean median       sd
+                <chr> <int>     <dbl>  <dbl>    <dbl>
+ 1                 No   910  2.197802      0 83.88008
+ 2                Yes   463 44.708423    100 68.76360
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 10.035, df = 1104.6, p-value < 2.2e-16
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  34.19896 50.82228
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+           44.708423            2.197802 
+ 
+EA NPS x member GWWC
+ea_nps ### member_gwwc
+ # A tibble: 2 x 5
+   member_gwwc     N      mean median       sd
+         <chr> <int>     <dbl>  <dbl>    <dbl>
+ 1          No   902  3.991131      0 83.52415
+ 2         Yes   471 40.552017    100 71.98488
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 8.4465, df = 1083.7, p-value < 2.2e-16
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  28.06768 45.05409
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+           40.552017            3.991131 
+ 
+EA NPS x member EA Forum
+ea_nps ### member_ea_forum
+ # A tibble: 2 x 5
+   member_ea_forum     N     mean median       sd
+             <chr> <int>    <dbl>  <dbl>    <dbl>
+ 1              No  1085 10.96774      0 82.39655
+ 2             Yes   288 37.50000    100 75.01452
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 5.2239, df = 487.03, p-value = 2.601e-07
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  16.55282 36.51169
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            37.50000            10.96774 
+ 
+EA NPS x member EA FB
+ea_nps ### member_ea_fb
+ # A tibble: 2 x 5
+   member_ea_fb     N      mean median       sd
+          <chr> <int>     <dbl>  <dbl>    <dbl>
+ 1           No   610 -10.81967      0 82.53566
+ 2          Yes   763  38.40105    100 73.93025
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 11.496, df = 1234.8, p-value < 2.2e-16
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  40.82099 57.62045
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            38.40105           -10.81967 
+ 
+EA NPS x involved local
+ea_nps ### involved_local_EA
+ # A tibble: 2 x 5
+   involved_local_EA     N     mean median       sd
+               <chr> <int>    <dbl>  <dbl>    <dbl>
+ 1                No  1116 11.11111      0 82.78895
+ 2               Yes   257 40.07782    100 71.73079
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 5.6632, df = 427.91, p-value = 2.73e-08
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  18.91325 39.02017
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            40.07782            11.11111 
+ 
+EA NPS x involved GWWC
+ea_nps ### involved_GWWC
+ # A tibble: 2 x 5
+   involved_GWWC     N     mean median       sd
+           <chr> <int>    <dbl>  <dbl>    <dbl>
+ 1            No   982 11.20163      0 83.35952
+ 2           Yes   391 29.92327      0 75.44565
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 4.0251, df = 787.33, p-value = 6.245e-05
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+   9.591386 27.851902
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            29.92327            11.20163 
+ 
+EA NPS x involved 80K
+ea_nps ### involved_80K
+ # A tibble: 2 x 5
+   involved_80K     N      mean median       sd
+          <chr> <int>     <dbl>  <dbl>    <dbl>
+ 1           No   956  9.518828      0 83.53059
+ 2          Yes   417 32.613909      0 74.62166
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 5.0821, df = 880.44, p-value = 4.561e-07
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  14.17588 32.01428
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+           32.613909            9.518828 
+ 
+EA NPS x involved GW
+ea_nps ### involved_givewell
+ # A tibble: 2 x 5
+   involved_givewell     N     mean median       sd
+               <chr> <int>    <dbl>  <dbl>    <dbl>
+ 1                No   854 14.16862      0 83.01584
+ 2               Yes   519 20.42389      0 79.13025
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 1.394, df = 1134.5, p-value = 0.1636
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -2.54878 15.05933
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            20.42389            14.16862 
+ 
+EA NPS x involved online
+ea_nps ### involved_online_ea
+ # A tibble: 2 x 5
+   involved_online_ea     N     mean median       sd
+                <chr> <int>    <dbl>  <dbl>    <dbl>
+ 1                 No  1047 11.65234      0 82.14291
+ 2                Yes   326 32.20859    100 77.89164
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 4.1067, df = 567.9, p-value = 4.603e-05
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  10.72464 30.38786
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            32.20859            11.65234 
+ 
+EA NPS x involved book
+ea_nps ### involved_book_blog
+ # A tibble: 2 x 5
+   involved_book_blog     N     mean median       sd
+                <chr> <int>    <dbl>  <dbl>    <dbl>
+ 1                 No   858 10.83916      0 82.04785
+ 2                Yes   515 26.01942      0 80.02115
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 3.3709, df = 1103.8, p-value = 0.0007751
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+   6.344256 24.016257
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            26.01942            10.83916 
+ 
+EA NPS x first local
+ea_nps ### first_local
+ # A tibble: 2 x 5
+   first_local     N     mean median       sd
+         <lgl> <int>    <dbl>  <dbl>    <dbl>
+ 1       FALSE  1322 15.96067      0 81.68008
+ 2        TRUE    46 32.60870     50 76.17042
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 1.4536, df = 48.67, p-value = 0.1525
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -6.371962 39.668022
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            32.60870            15.96067 
+ 
+EA NPS x would attend
+ea_nps ### would_attend_local_group
+ # A tibble: 5 x 5
+                           would_attend_local_group     N       mean median
+                                              <chr> <int>      <dbl>  <dbl>
+ 1     I know that there is already and I do attend   394  47.715736    100
+ 2 I know that there is already and I do not attend   173  -3.468208      0
+ 3                                               No   134 -34.328358   -100
+ 4                                           Unsure   313 -10.862620      0
+ 5                                              Yes   353  36.260623    100
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+ -147.72  -65.67   10.86   63.74  134.33 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                         47.716      3.837  12.435
+ yI know that there is already and I do not attend  -51.184      6.947  -7.368
+ yNo                                                -82.044      7.617 -10.771
+ yUnsure                                            -58.578      5.767 -10.157
+ yYes                                               -11.455      5.582  -2.052
+                                                   Pr(>|t|)    
+ (Intercept)                                         <2e-16 ***
+ yI know that there is already and I do not attend    3e-13 ***
+ yNo                                                 <2e-16 ***
+ yUnsure                                             <2e-16 ***
+ yYes                                                0.0404 *  
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 76.17 on 1362 degrees of freedom
+ Multiple R-squared:  0.1291,	Adjusted R-squared:  0.1265 
+ F-statistic: 50.47 on 4 and 1362 DF,  p-value: < 2.2e-16
+ 
+EA NPS x ea social
+ea_nps ### ea_social
+ # A tibble: 7 x 5
+   ea_social     N       mean median       sd
+       <chr> <int>      <dbl>  <dbl>    <dbl>
+ 1        0%   271  0.3690037      0 85.85007
+ 2     1-20%   438 25.7990868      0 76.21586
+ 3    21-40%   127 41.7322835    100 65.99777
+ 4    41-60%    46 54.3478261    100 72.13112
+ 5    61-80%    23 43.4782609    100 78.77521
+ 6    81-90%    21 61.9047619    100 66.90434
+ 7   90-100%     6 50.0000000    100 83.66600
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+      Min       1Q   Median       3Q      Max 
+ -161.905  -41.732   -0.369   74.201   99.631 
+ 
+ Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+ (Intercept)    0.369      4.715   0.078 0.937635    
+ y1-20%        25.430      5.999   4.239 2.47e-05 ***
+ y21-40%       41.363      8.347   4.956 8.57e-07 ***
+ y41-60%       53.979     12.377   4.361 1.44e-05 ***
+ y61-80%       43.109     16.857   2.557 0.010705 *  
+ y81-90%       61.536     17.581   3.500 0.000487 ***
+ y90-100%      49.631     32.035   1.549 0.121663    
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 77.62 on 925 degrees of freedom
+ Multiple R-squared:  0.04746,	Adjusted R-squared:  0.04128 
+ F-statistic: 7.682 on 6 and 925 DF,  p-value: 4.522e-08
+ 
+student
+student (nas removed)
+          No         Yes 
+ 673 (62.2%) 409 (37.8%) 
+student x member local
+student ### member_local_group (nas removed)
+      
+           No    Yes
+   No  0.6939 0.4853
+   Yes 0.3061 0.5147
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 2.4529, df = 1, p-value = 0.1173
+ 
+which year EA
+which_year_EA (nas removed)
+         2013         2012         2011         2016         2015  Before 2009 
+   93 (7.12%)   87 (6.66%)   45 (3.44%) 411 (31.45%)  345 (26.4%)   29 (2.22%) 
+         2010         2009         2014         2017 
+   28 (2.14%)   16 (1.22%) 148 (11.32%)  105 (8.03%) 
+which year EA x member local
+which_year_EA ### member_local_group (nas removed)
+              
+                   No    Yes
+   2009        0.0127 0.0113
+   2010        0.0243 0.0158
+   2011        0.0336 0.0360
+   2012        0.0718 0.0563
+   2013        0.0614 0.0901
+   2014        0.1031 0.1329
+   2015        0.2457 0.2995
+   2016        0.3244 0.2950
+   2017        0.0973 0.0473
+   Before 2009 0.0255 0.0158
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2614, df = 11, p-value < 2.2e-16
+ 
+GWWC member
+member_gwwc (nas removed)
+           No          Yes 
+ 939 (66.36%) 476 (33.64%) 
+GWWC member x student
+member_gwwc ### student (nas removed)
+      
+           No    Yes
+   No  0.6761 0.6015
+   Yes 0.3239 0.3985
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 1.4534, df = 1, p-value = 0.228
+ 
+GWWC member x member local
+member_gwwc ### member_local_group (nas removed)
+      
+           No    Yes
+   No  0.7434 0.5021
+   Yes 0.2566 0.4979
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 0.077888, df = 1, p-value = 0.7802
+ 
+GWWC member x member EA Forum
+member_gwwc ### member_ea_forum (nas removed)
+      
+           No    Yes
+   No  0.7215 0.4399
+   Yes 0.2785 0.5601
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 60.552, df = 1, p-value = 7.167e-15
+ 
+GWWC member x member EA FB
+member_gwwc ### member_ea_fb (nas removed)
+      
+           No    Yes
+   No  0.7928 0.5563
+   Yes 0.2072 0.4437
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 125.57, df = 1, p-value < 2.2e-16
+ 
+GWWC member x involved local
+member_gwwc ### involved_local_EA (nas removed)
+      
+           No    Yes
+   No  0.6924 0.5364
+   Yes 0.3076 0.4636
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 84.019, df = 1, p-value < 2.2e-16
+ 
+GWWC member x involved 80K
+member_gwwc ### involved_80K (nas removed)
+      
+           No    Yes
+   No  0.6694 0.6501
+   Yes 0.3306 0.3499
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 4.4081, df = 1, p-value = 0.03577
+ 
+GWWC member x involved GW
+member_gwwc ### involved_givewell (nas removed)
+      
+           No    Yes
+   No  0.6784 0.6391
+   Yes 0.3216 0.3609
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 4.6613, df = 1, p-value = 0.03085
+ 
+GWWC member x involved online
+member_gwwc ### involved_online_ea (nas removed)
+      
+           No    Yes
+   No  0.6713 0.6383
+   Yes 0.3287 0.3617
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 37.006, df = 1, p-value = 1.178e-09
+ 
+GWWC member x involved book
+member_gwwc ### involved_book_blog (nas removed)
+      
+           No    Yes
+   No  0.6830 0.6301
+   Yes 0.3170 0.3699
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 2.7342, df = 1, p-value = 0.09822
+ 
+GWWC member x first local
+member_gwwc ### first_local (nas removed)
+      
+        FALSE   TRUE
+   No  0.6672 0.5319
+   Yes 0.3328 0.4681
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 2810, df = 3, p-value < 2.2e-16
+ 
+GWWC member x would attend
+member_gwwc ### would_attend_local_group (nas removed)
+      
+       I know that there is already and I do attend
+   No                                        0.4749
+   Yes                                       0.5251
+      
+       I know that there is already and I do not attend     No Unsure    Yes
+   No                                            0.6591 0.8467 0.8123 0.6564
+   Yes                                           0.3409 0.1533 0.1877 0.3436
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1495.2, df = 4, p-value < 2.2e-16
+ 
+GWWC member x ea social
+member_gwwc ### ea_social (nas removed)
+      
+           0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   No  0.7455 0.6380 0.5118 0.5000 0.5217 0.4762  0.5000
+   Yes 0.2545 0.3620 0.4882 0.5000 0.4783 0.5238  0.5000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 1880, df = 8, p-value < 2.2e-16
+ 
+2016 Donate 1%?
+p_donate_2016 >= 0.01 (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        FALSE         TRUE 
+  60 (19.05%) 255 (80.95%) 
+2016 Donate 1%? x member local
+p_donate_2016 >= 0.01 ### member_local_group (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.2009 0.1648
+   TRUE  0.7991 0.8352
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x member EA Forum
+p_donate_2016 >= 0.01 ### member_ea_forum (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.1973 0.1739
+   TRUE  0.8027 0.8261
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x member EA FB
+p_donate_2016 >= 0.01 ### member_ea_fb (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.2113 0.1734
+   TRUE  0.7887 0.8266
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x involved local
+p_donate_2016 >= 0.01 ### involved_local_EA (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.1887 0.2000
+   TRUE  0.8113 0.8000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x involved 80K
+p_donate_2016 >= 0.01 ### involved_80K (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.1880 0.1975
+   TRUE  0.8120 0.8025
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x involved GW
+p_donate_2016 >= 0.01 ### involved_givewell (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.2197 0.1549
+   TRUE  0.7803 0.8451
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x involved online
+p_donate_2016 >= 0.01 ### involved_online_ea (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.1784 0.2297
+   TRUE  0.8216 0.7703
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x involved book
+p_donate_2016 >= 0.01 ### involved_book_blog (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.2019 0.1667
+   TRUE  0.7981 0.8333
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 1%? x would attend
+p_donate_2016 >= 0.01 ### would_attend_local_group (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+         I know that there is already and I do attend
+   FALSE                                       0.1098
+   TRUE                                        0.8902
+        
+         I know that there is already and I do not attend     No Unsure    Yes
+   FALSE                                           0.2200 0.2222 0.1875 0.2500
+   TRUE                                            0.7800 0.7778 0.8125 0.7500
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 624, df = 6, p-value < 2.2e-16
+ 
+2016 Donate 1%? x ea social
+p_donate_2016 >= 0.01 ### ea_social (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   FALSE 0.2069 0.1750 0.0909 0.2000 0.2500 0.5000  0.0000
+   TRUE  0.7931 0.8250 0.9091 0.8000 0.7500 0.5000  1.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 550, df = 8, p-value < 2.2e-16
+ 
+2016 Donate 10%?
+p_donate_2016 >= 0.1 (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        FALSE         TRUE 
+ 199 (63.17%) 116 (36.83%) 
+2016 Donate 10%? x member local
+p_donate_2016 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6696 0.5385
+   TRUE  0.3304 0.4615
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x member EA Forum
+p_donate_2016 >= 0.1 ### member_ea_forum (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6951 0.4783
+   TRUE  0.3049 0.5217
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x member EA FB
+p_donate_2016 >= 0.1 ### member_ea_fb (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.7535 0.5318
+   TRUE  0.2465 0.4682
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x involved local
+p_donate_2016 >= 0.1 ### involved_local_EA (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6377 0.6000
+   TRUE  0.3623 0.4000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x involved 80K
+p_donate_2016 >= 0.1 ### involved_80K (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6239 0.6543
+   TRUE  0.3761 0.3457
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x involved GW
+p_donate_2016 >= 0.1 ### involved_givewell (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6474 0.6127
+   TRUE  0.3526 0.3873
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x involved online
+p_donate_2016 >= 0.1 ### involved_online_ea (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6349 0.6216
+   TRUE  0.3651 0.3784
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x involved book
+p_donate_2016 >= 0.1 ### involved_book_blog (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             No    Yes
+   FALSE 0.6009 0.6961
+   TRUE  0.3991 0.3039
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 630, df = 3, p-value < 2.2e-16
+ 
+2016 Donate 10%? x would attend
+p_donate_2016 >= 0.1 ### would_attend_local_group (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+         I know that there is already and I do attend
+   FALSE                                       0.4512
+   TRUE                                        0.5488
+        
+         I know that there is already and I do not attend     No Unsure    Yes
+   FALSE                                           0.5400 0.7500 0.7375 0.7344
+   TRUE                                            0.4600 0.2500 0.2625 0.2656
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 624, df = 6, p-value < 2.2e-16
+ 
+2016 Donate 10%? x ea social
+p_donate_2016 >= 0.1 ### ea_social (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+        
+             0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   FALSE 0.7011 0.6083 0.4848 0.5333 0.6250 0.7000  0.0000
+   TRUE  0.2989 0.3917 0.5152 0.4667 0.3750 0.3000  1.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 550, df = 8, p-value < 2.2e-16
+ 
+2016 Donate
+         mean        median           min           max            sd 
+      21415.00       3943.74          0.00    1971868.02     131683.26 
+        length           sum        num_na num_over_zero 
+        317.00    6745724.44          2.00        294.00 
+2016 Donate x member local
+donate_2016_c ### member_local_group
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_local_group     N     mean  median        sd
+                <chr> <int>    <dbl>   <dbl>     <dbl>
+ 1                 No   224 25907.68 3286.45 155370.12
+ 2                Yes    91 10356.09 4247.08  22624.66
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.4604, df = 245.23, p-value = 0.1454
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -36525.940   5422.758
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            10356.09            25907.68 
+ 
+2016 Donate x member EA Forum
+donate_2016_c ### member_ea_forum
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_ea_forum     N     mean   median        sd
+             <chr> <int>    <dbl>    <dbl>     <dbl>
+ 1              No   223 15892.41 3500.000  83797.91
+ 2             Yes    92 34801.27 4418.245 206027.86
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.85172, df = 103.65, p-value = 0.3963
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -25117.88  62935.62
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            34801.27            15892.41 
+ 
+2016 Donate x member EA FB
+donate_2016_c ### member_ea_fb
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_ea_fb     N     mean  median       sd
+          <chr> <int>    <dbl>   <dbl>    <dbl>
+ 1           No   142 18199.42 2564.58 103721.0
+ 2          Yes   173 24054.38 4206.65 151068.9
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.40628, df = 303.99, p-value = 0.6848
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -22503.13  34213.04
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            24054.38            18199.42 
+ 
+2016 Donate x involved local
+donate_2016_c ### involved_local_EA
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_local_EA     N     mean median        sd
+               <chr> <int>    <dbl>  <dbl>     <dbl>
+ 1                No   265 24350.37 4000.0 143389.00
+ 2               Yes    50  5857.52 2517.7   7254.54
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -2.0854, df = 270.94, p-value = 0.03797
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -35951.530  -1034.172
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+             5857.52            24350.37 
+ 
+2016 Donate x involved 80K
+donate_2016_c ### involved_80K
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_80K     N     mean   median        sd
+          <chr> <int>    <dbl>    <dbl>     <dbl>
+ 1           No   234 25086.25 4259.785 151849.28
+ 2          Yes    81 10809.15 3000.000  27405.49
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.375, df = 271.9, p-value = 0.1703
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -34718.868   6164.665
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            10809.15            25086.25 
+ 
+2016 Donate x involved GW
+donate_2016_c ### involved_givewell
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_givewell     N     mean  median       sd
+               <chr> <int>    <dbl>   <dbl>    <dbl>
+ 1                No   173 23017.65 3500.00 152267.2
+ 2               Yes   142 19462.47 4405.54 101620.0
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.24726, df = 301.14, p-value = 0.8049
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -31850.27  24739.92
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            19462.47            23017.65 
+ 
+2016 Donate x involved online
+donate_2016_c ### involved_online_ea
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_online_ea     N     mean   median        sd
+                <chr> <int>    <dbl>    <dbl>     <dbl>
+ 1                 No   241 24364.27 4000.000 149854.55
+ 2                Yes    74 11809.93 2753.405  25226.35
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.2444, df = 278.54, p-value = 0.2144
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -32413.90   7305.22
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            11809.93            24364.27 
+ 
+2016 Donate x involved book
+donate_2016_c ### involved_book_blog
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_book_blog     N      mean   median        sd
+                <chr> <int>     <dbl>    <dbl>     <dbl>
+ 1                 No   213 27643.595 3943.740 159594.26
+ 2                Yes   102  8408.222 3615.095  13959.62
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.7451, df = 218.71, p-value = 0.08236
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -40958.750   2488.003
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            8408.222           27643.595 
+ 
+2016 Donate x would attend
+donate_2016_c ### would_attend_local_group
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 5 x 5
+                           would_attend_local_group     N      mean  median
+                                              <chr> <int>     <dbl>   <dbl>
+ 1     I know that there is already and I do attend    82 15795.403 6942.50
+ 2 I know that there is already and I do not attend    50 48767.468 4255.00
+ 3                                               No    36 44751.694 6000.00
+ 4                                           Unsure    80  6278.361 2564.58
+ 5                                              Yes    64 13861.737 2000.00
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+  -48767  -15758  -10362   -2321 1923101 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                          15795      14595   1.082
+ yI know that there is already and I do not attend    32972      23714   1.390
+ yNo                                                  28956      26424   1.096
+ yUnsure                                              -9517      20769  -0.458
+ yYes                                                 -1934      22044  -0.088
+                                                   Pr(>|t|)
+ (Intercept)                                          0.280
+ yI know that there is already and I do not attend    0.165
+ yNo                                                  0.274
+ yUnsure                                              0.647
+ yYes                                                 0.930
+ 
+ Residual standard error: 132200 on 307 degrees of freedom
+ Multiple R-squared:  0.01498,	Adjusted R-squared:  0.002151 
+ F-statistic: 1.168 on 4 and 307 DF,  p-value: 0.3251
+ 
+2016 Donate x ea social
+donate_2016_c ### ea_social
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 7 x 5
+   ea_social     N      mean   median         sd
+       <chr> <int>     <dbl>    <dbl>      <dbl>
+ 1        0%    87 20560.054 2500.000 128474.275
+ 2     1-20%   120 11266.176 4437.500  22462.121
+ 3    21-40%    33 74419.425 5776.000 341240.722
+ 4    41-60%    15 19814.163 2986.590  48312.698
+ 5    61-80%     8  6129.164 1585.935  11206.886
+ 6    81-90%    10  4056.263 2192.335   5222.901
+ 7   90-100%     2  6005.930 6005.930   1243.193
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+  -74419  -18795  -10560   -3444 1897449 
+ 
+ Coefficients:
+             Estimate Std. Error t value Pr(>|t|)  
+ (Intercept)  20560.1    14990.7   1.372   0.1714  
+ y1-20%       -9293.9    19688.6  -0.472   0.6373  
+ y21-40%      53859.4    28586.1   1.884   0.0606 .
+ y41-60%       -745.9    39090.9  -0.019   0.9848  
+ y61-80%     -14430.9    51658.0  -0.279   0.7802  
+ y81-90%     -16503.8    46688.2  -0.353   0.7240  
+ y90-100%    -14554.1   100000.3  -0.146   0.8844  
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 139800 on 268 degrees of freedom
+ Multiple R-squared:  0.02065,	Adjusted R-squared:  -0.001273 
+ F-statistic: 0.9419 on 6 and 268 DF,  p-value: 0.4654
+ 
+2016 % Donate
+         mean        median           min           max            sd 
+    0.10328107    0.07142857    0.00000000    1.67222222    0.15437183 
+        length           sum        num_na num_over_zero 
+  317.00000000   32.53353579    2.00000000  294.00000000 
+2016 Income
+         mean        median           min           max            sd 
+     140913.69      63099.78      10000.00    6572893.39     478738.61 
+        length           sum        num_na num_over_zero 
+        317.00   44669640.55          0.00        317.00 
+2016 Income x member local
+income_2016_individual_c ### member_local_group
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_local_group     N      mean   median       sd
+                <chr> <int>     <dbl>    <dbl>    <dbl>
+ 1                 No   224 162899.29 65728.93 563077.7
+ 2                Yes    93  87959.12 55000.00 121207.3
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.8893, df = 267.48, p-value = 0.05994
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -153037.697    3157.355
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            87959.12           162899.29 
+ 
+2016 Income x member EA Forum
+income_2016_individual_c ### member_ea_forum
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_ea_forum     N     mean   median       sd
+             <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1              No   224 138741.5 66114.46 367868.2
+ 2             Yes    93 146145.7 55000.00 677613.5
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.099466, df = 115.18, p-value = 0.9209
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -140045.0  154853.5
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            146145.7            138741.5 
+ 
+2016 Income x member EA FB
+income_2016_individual_c ### member_ea_fb
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_ea_fb     N     mean   median       sd
+          <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1           No   142 146301.5 70000.00 433657.9
+ 2          Yes   175 136541.8 58156.96 513610.4
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.1834, df = 314.49, p-value = 0.8546
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -114460.78   94941.39
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            136541.8            146301.5 
+ 
+2016 Income x involved local
+income_2016_individual_c ### involved_local_EA
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_local_EA     N     mean   median       sd
+               <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1                No   266 152312.2 65728.93 518525.5
+ 2               Yes    51  81462.4 47471.00 138507.9
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.9024, df = 287.73, p-value = 0.05811
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -144150.715    2451.023
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+             81462.4            152312.2 
+ 
+2016 Income x involved 80K
+income_2016_individual_c ### involved_80K
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_80K     N      mean   median        sd
+          <chr> <int>     <dbl>    <dbl>     <dbl>
+ 1           No   235 160095.63 65728.93 552249.84
+ 2          Yes    82  85941.06 52254.51  94587.01
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.977, df = 269.5, p-value = 0.04906
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -148001.6593    -307.4923
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            85941.06           160095.63 
+ 
+2016 Income x involved GW
+income_2016_individual_c ### involved_givewell
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_givewell     N     mean   median       sd
+               <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1                No   174 130611.5 59248.09 505007.0
+ 2               Yes   143 153449.3 68553.21 446131.7
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.42723, df = 313.33, p-value = 0.6695
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -82340.3 128015.9
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            153449.3            130611.5 
+ 
+2016 Income x involved online
+income_2016_individual_c ### involved_online_ea
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_online_ea     N     mean   median       sd
+                <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1                 No   242 153451.4 65728.93 537850.2
+ 2                Yes    75 100458.7 58000.00 185497.6
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.3029, df = 311.88, p-value = 0.1936
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -133018.09   27032.58
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            100458.7            153451.4 
+ 
+2016 Income x involved book
+income_2016_individual_c ### involved_book_blog
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_book_blog     N     mean   median       sd
+                <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1                 No   214 160603.4 64707.18 574337.3
+ 2                Yes   103 100004.9 60000.00 136769.8
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.4599, df = 258.65, p-value = 0.1455
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -142337.85   21140.89
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            100004.9            160603.4 
+ 
+2016 Income x would attend
+income_2016_individual_c ### would_attend_local_group
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 5 x 5
+                           would_attend_local_group     N      mean   median
+                                              <chr> <int>     <dbl>    <dbl>
+ 1     I know that there is already and I do attend    83 116688.92 63099.78
+ 2 I know that there is already and I do not attend    51 216580.64 58000.00
+ 3                                               No    36 290537.77 84566.52
+ 4                                           Unsure    80  88980.71 62175.00
+ 5                                              Yes    64  96529.47 57578.48
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+ -273538  -86936  -49762  -14618 6356313 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                         116689      52583   2.219
+ yI know that there is already and I do not attend    99892      85234   1.172
+ yNo                                                 173849      95602   1.818
+ yUnsure                                             -27708      75057  -0.369
+ yYes                                                -20160      79692  -0.253
+                                                   Pr(>|t|)  
+ (Intercept)                                         0.0272 *
+ yI know that there is already and I do not attend   0.2421  
+ yNo                                                 0.0700 .
+ yUnsure                                             0.7123  
+ yYes                                                0.8005  
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 479100 on 309 degrees of freedom
+ Multiple R-squared:  0.02056,	Adjusted R-squared:  0.007878 
+ F-statistic: 1.621 on 4 and 309 DF,  p-value: 0.1687
+ 
+2016 Income x ea social
+income_2016_individual_c ### ea_social
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 7 x 5
+   ea_social     N      mean   median         sd
+       <chr> <int>     <dbl>    <dbl>      <dbl>
+ 1        0%    87 147998.20 58000.00  537386.08
+ 2     1-20%   121 100853.37 61098.28  139168.33
+ 3    21-40%    33 324515.23 56000.00 1145966.39
+ 4    41-60%    15 109226.75 58948.06  127244.24
+ 5    61-80%     8  59812.97 46500.00   43283.24
+ 6    81-90%    10  50419.73 53208.26   23505.12
+ 7   90-100%     3  39788.78 45382.00   15075.76
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+ -314515  -96185  -53529   -4813 6248378 
+ 
+ Coefficients:
+             Estimate Std. Error t value Pr(>|t|)   
+ (Intercept)   147998      54366   2.722  0.00691 **
+ y1-20%        -47145      71280  -0.661  0.50892   
+ y21-40%       176517     103672   1.703  0.08978 . 
+ y41-60%       -38772     141769  -0.273  0.78469   
+ y61-80%       -88185     187346  -0.471  0.63823   
+ y81-90%       -97578     169322  -0.576  0.56490   
+ y90-100%     -108209     297775  -0.363  0.71660   
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 507100 on 270 degrees of freedom
+ Multiple R-squared:  0.02101,	Adjusted R-squared:  -0.0007411 
+ F-statistic: 0.9659 on 6 and 270 DF,  p-value: 0.4487
+ 
+2016 % Donate x member local
+p_donate_2016 ### member_local_group
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_local_group     N       mean     median        sd
+                <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                 No   224 0.09771287 0.06030304 0.1569707
+ 2                Yes    91 0.11698740 0.09459459 0.1477276
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 1.0305, df = 176.51, p-value = 0.3042
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.01763653  0.05618560
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.11698740          0.09771287 
+ 
+2016 % Donate x member EA Forum
+p_donate_2016 ### member_ea_forum
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_ea_forum     N       mean median        sd
+             <chr> <int>      <dbl>  <dbl>     <dbl>
+ 1              No   223 0.08829243   0.05 0.1528833
+ 2             Yes    92 0.13961222   0.10 0.1527198
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 2.7111, df = 169.9, p-value = 0.007395
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  0.01395241 0.08868718
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.13961222          0.08829243 
+ 
+2016 % Donate x member EA FB
+p_donate_2016 ### member_ea_fb
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   member_ea_fb     N       mean     median        sd
+          <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1           No   142 0.08194303 0.03879600 0.1609063
+ 2          Yes   173 0.12079552 0.09961946 0.1469554
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 2.2168, df = 289.08, p-value = 0.02741
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  0.004357685 0.073347294
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.12079552          0.08194303 
+ 
+2016 % Donate x involved local
+p_donate_2016 ### involved_local_EA
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_local_EA     N       mean     median        sd
+               <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                No   265 0.10398622 0.07241367 0.1540850
+ 2               Yes    50 0.09954374 0.04324450 0.1574061
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.18365, df = 67.908, p-value = 0.8548
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.05271284  0.04382788
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.09954374          0.10398622 
+ 
+2016 % Donate x involved 80K
+p_donate_2016 ### involved_80K
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_80K     N       mean     median        sd
+          <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1           No   234 0.10453896 0.07573427 0.1574711
+ 2          Yes    81 0.09964715 0.06111097 0.1459303
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.2547, df = 149.17, p-value = 0.7993
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.04284325  0.03305964
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.09964715          0.10453896 
+ 
+2016 % Donate x involved GW
+p_donate_2016 ### involved_givewell
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_givewell     N       mean     median        sd
+               <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                No   173 0.10911720 0.07000000 0.1806443
+ 2               Yes   142 0.09617084 0.07692315 0.1147612
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.7718, df = 295.56, p-value = 0.4408
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.04595837  0.02006565
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.09617084          0.10911720 
+ 
+2016 % Donate x involved online
+p_donate_2016 ### involved_online_ea
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_online_ea     N      mean     median        sd
+                <chr> <int>     <dbl>      <dbl>     <dbl>
+ 1                 No   241 0.0996114 0.07241367 0.1560804
+ 2                Yes    74 0.1152323 0.06606059 0.1490772
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.77967, df = 126.07, p-value = 0.437
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.02402793  0.05526968
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+           0.1152323           0.0996114 
+ 
+2016 % Donate x involved book
+p_donate_2016 ### involved_book_blog
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   involved_book_blog     N       mean     median        sd
+                <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                 No   213 0.11318316 0.07999998 0.1738421
+ 2                Yes   102 0.08260317 0.05408490 0.1000723
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.9737, df = 302.69, p-value = 0.04933
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.0610695853 -0.0000903887
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.08260317          0.11318316 
+ 
+2016 % Donate x would attend
+p_donate_2016 ### would_attend_local_group
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 5 x 5
+                           would_attend_local_group     N       mean     median
+                                              <chr> <int>      <dbl>      <dbl>
+ 1     I know that there is already and I do attend    82 0.14669131 0.10000004
+ 2 I know that there is already and I do not attend    50 0.09692596 0.07750000
+ 3                                               No    36 0.07858671 0.04499999
+ 4                                           Unsure    80 0.07984488 0.04852941
+ 5                                              Yes    64 0.09835908 0.03993644
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+      Min       1Q   Median       3Q      Max 
+ -0.14669 -0.07550 -0.03953  0.01482  1.57386 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                        0.14669    0.01696   8.648
+ yI know that there is already and I do not attend -0.04977    0.02756  -1.806
+ yNo                                               -0.06810    0.03071  -2.218
+ yUnsure                                           -0.06685    0.02414  -2.769
+ yYes                                              -0.04833    0.02562  -1.886
+                                                   Pr(>|t|)    
+ (Intercept)                                       2.98e-16 ***
+ yI know that there is already and I do not attend  0.07196 .  
+ yNo                                                0.02732 *  
+ yUnsure                                            0.00596 ** 
+ yYes                                               0.06018 .  
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 0.1536 on 307 degrees of freedom
+ Multiple R-squared:  0.02998,	Adjusted R-squared:  0.01734 
+ F-statistic: 2.372 on 4 and 307 DF,  p-value: 0.05236
+ 
+2016 % Donate x ea social
+p_donate_2016 ### ea_social
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 7 x 5
+   ea_social     N       mean     median         sd
+       <chr> <int>      <dbl>      <dbl>      <dbl>
+ 1        0%    87 0.07147959 0.05000000 0.07611298
+ 2     1-20%   120 0.10346624 0.07906253 0.12180758
+ 3    21-40%    33 0.17672755 0.10000000 0.22466194
+ 4    41-60%    15 0.12775960 0.09999994 0.13169749
+ 5    61-80%     8 0.06435192 0.03245616 0.07232046
+ 6    81-90%    10 0.07073286 0.04260003 0.08012718
+ 7   90-100%     2 0.12585610 0.12585610 0.03656596
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+      Min       1Q   Median       3Q      Max 
+ -0.17673 -0.07148 -0.03102  0.02852  0.82327 
+ 
+ Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+ (Intercept)  0.0714796  0.0134493   5.315 2.25e-07 ***
+ y1-20%       0.0319866  0.0176643   1.811   0.0713 .  
+ y21-40%      0.1052480  0.0256469   4.104 5.40e-05 ***
+ y41-60%      0.0562800  0.0350716   1.605   0.1097    
+ y61-80%     -0.0071277  0.0463466  -0.154   0.8779    
+ y81-90%     -0.0007467  0.0418878  -0.018   0.9858    
+ y90-100%     0.0543765  0.0897183   0.606   0.5450    
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 0.1254 on 268 degrees of freedom
+ Multiple R-squared:  0.06592,	Adjusted R-squared:  0.04501 
+ F-statistic: 3.152 on 6 and 268 DF,  p-value: 0.005282
+ 
+2016 GWWC adherence (non-student, GWWC member)
+p_donate_2016 >= 0.1 (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "Yes" 
+        TRUE       FALSE 
+ 84 (60.43%) 55 (39.57%) 
+2016 GWWC adherence x local mem (non-student, GWWC member)
+p_donate_2016 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "Yes" 
+        
+             No    Yes
+   FALSE 0.4286 0.3455
+   TRUE  0.5714 0.6545
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 278, df = 3, p-value < 2.2e-16
+ 
+2016 GWWC adherence x local mem (non-student, GWWC member) tab
+p_donate_2016 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "Yes" 
+        
+         No Yes
+   FALSE 36  19
+   TRUE  48  36
+2016 GWWC adherence (non-student non-GWWC member)
+p_donate_2016 >= 0.1 (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "No" 
+        TRUE       FALSE 
+  41 (20.3%) 161 (79.7%) 
+2016 GWWC adherence x local mem (non-student non-GWWC member)
+p_donate_2016 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "No" 
+        
+             No    Yes
+   FALSE 0.7935 0.8085
+   TRUE  0.2065 0.1915
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 404, df = 3, p-value < 2.2e-16
+ 
+2016 GWWC adherence (student GWWC member)
+p_donate_2016 >= 0.01 (nas removed)
+ Filters:  student == "Yes", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "Yes" 
+       FALSE        TRUE 
+  6 (10.71%) 50 (89.29%) 
+2016 GWWC adherence x local mem (student GWWC member)
+p_donate_2016 >= 0.01 ### member_local_group (nas removed)
+ Filters:  student == "Yes", which_year_EA %not_in% c("2016", "2017"), member_gwwc == "Yes" 
+        
+             No    Yes
+   FALSE 0.2174 0.0303
+   TRUE  0.7826 0.9697
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 112, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%?
+p_donate_2015 >= 0.01 (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        FALSE         TRUE 
+  93 (29.71%) 220 (70.29%) 
+2015 Donate 1%? x member local
+p_donate_2015 >= 0.01 ### member_local_group (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.3333 0.1951
+   TRUE  0.6667 0.8049
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x member EA Forum
+p_donate_2015 >= 0.01 ### member_ea_forum (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.3377 0.1829
+   TRUE  0.6623 0.8171
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x member EA FB
+p_donate_2015 >= 0.01 ### member_ea_fb (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.3481 0.2452
+   TRUE  0.6519 0.7548
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x involved local
+p_donate_2015 >= 0.01 ### involved_local_EA (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+            No   Yes
+   FALSE 0.293 0.325
+   TRUE  0.707 0.675
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x involved 80K
+p_donate_2015 >= 0.01 ### involved_80K (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.3036 0.2809
+   TRUE  0.6964 0.7191
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x involved GW
+p_donate_2015 >= 0.01 ### involved_givewell (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.2785 0.3161
+   TRUE  0.7215 0.6839
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x involved online
+p_donate_2015 >= 0.01 ### involved_online_ea (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.2910 0.3188
+   TRUE  0.7090 0.6812
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x involved book
+p_donate_2015 >= 0.01 ### involved_book_blog (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.2967 0.2981
+   TRUE  0.7033 0.7019
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 1%? x would attend
+p_donate_2015 >= 0.01 ### would_attend_local_group (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+         I know that there is already and I do attend
+   FALSE                                       0.1918
+   TRUE                                        0.8082
+        
+         I know that there is already and I do not attend     No Unsure    Yes
+   FALSE                                           0.3111 0.2821 0.3929 0.2714
+   TRUE                                            0.6889 0.7179 0.6071 0.7286
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 622, df = 6, p-value < 2.2e-16
+ 
+2015 Donate 1%? x ea social
+p_donate_2015 >= 0.01 ### ea_social (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   FALSE 0.3579 0.2857 0.2333 0.1429 0.1667 0.3750  0.0000
+   TRUE  0.6421 0.7143 0.7667 0.8571 0.8333 0.6250  1.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 548, df = 8, p-value < 2.2e-16
+ 
+2015 Donate 10%?
+p_donate_2015 >= 0.1 (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+         TRUE        FALSE 
+  94 (30.03%) 219 (69.97%) 
+2015 Donate 10%? x member local
+p_donate_2015 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.7316 0.6098
+   TRUE  0.2684 0.3902
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x member EA Forum
+p_donate_2015 >= 0.1 ### member_ea_forum (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.7922 0.4390
+   TRUE  0.2078 0.5610
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x member EA FB
+p_donate_2015 >= 0.1 ### member_ea_fb (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.7911 0.6065
+   TRUE  0.2089 0.3935
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x involved local
+p_donate_2015 >= 0.1 ### involved_local_EA (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.6923 0.7500
+   TRUE  0.3077 0.2500
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x involved 80K
+p_donate_2015 >= 0.1 ### involved_80K (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.7098 0.6742
+   TRUE  0.2902 0.3258
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x involved GW
+p_donate_2015 >= 0.1 ### involved_givewell (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.6772 0.7226
+   TRUE  0.3228 0.2774
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x involved online
+p_donate_2015 >= 0.1 ### involved_online_ea (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.7131 0.6522
+   TRUE  0.2869 0.3478
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x involved book
+p_donate_2015 >= 0.1 ### involved_book_blog (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             No    Yes
+   FALSE 0.7033 0.6923
+   TRUE  0.2967 0.3077
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 626, df = 3, p-value < 2.2e-16
+ 
+2015 Donate 10%? x would attend
+p_donate_2015 >= 0.1 ### would_attend_local_group (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+         I know that there is already and I do attend
+   FALSE                                       0.5068
+   TRUE                                        0.4932
+        
+         I know that there is already and I do not attend     No Unsure    Yes
+   FALSE                                           0.6889 0.6667 0.8333 0.7571
+   TRUE                                            0.3111 0.3333 0.1667 0.2429
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 622, df = 6, p-value < 2.2e-16
+ 
+2015 Donate 10%? x ea social
+p_donate_2015 >= 0.1 ### ea_social (nas removed)
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+        
+             0%  1-20% 21-40% 41-60% 61-80% 81-90% 90-100%
+   FALSE 0.8316 0.6387 0.5333 0.7857 0.5000 0.7500  0.0000
+   TRUE  0.1684 0.3613 0.4667 0.2143 0.5000 0.2500  1.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 548, df = 8, p-value < 2.2e-16
+ 
+2015 Donate
+         mean        median           min           max            sd 
+      15058.64       1735.24          0.00    1314578.68      95090.43 
+        length           sum        num_na num_over_zero 
+        318.00    4713352.80          5.00        275.00 
+2015 Donate x member local
+donate_2015_c ### member_local_group
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_local_group     N      mean  median        sd
+                <chr> <int>     <dbl>   <dbl>     <dbl>
+ 1                 No   231 17536.122 1400.00 109584.11
+ 2                Yes    82  8079.374 2431.27  25761.28
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.2201, df = 287.41, p-value = 0.2234
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -24712.778   5799.281
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            8079.374           17536.122 
+ 
+2015 Donate x member EA Forum
+donate_2015_c ### member_ea_forum
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_ea_forum     N     mean  median        sd
+             <chr> <int>    <dbl>   <dbl>     <dbl>
+ 1              No   231 10913.81 1275.41  68200.69
+ 2             Yes    82 26734.91 3549.36 146405.84
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.94291, df = 93.764, p-value = 0.3481
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -17495.05  49137.24
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            26734.91            10913.81 
+ 
+2015 Donate x member EA FB
+donate_2015_c ### member_ea_fb
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_ea_fb     N     mean  median        sd
+          <chr> <int>    <dbl>   <dbl>     <dbl>
+ 1           No   158 13535.94 1314.58  82042.39
+ 2          Yes   155 16610.80 2272.62 107015.71
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.2849, df = 288.65, p-value = 0.7759
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -18167.95  24317.66
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            16610.80            13535.94 
+ 
+2015 Donate x involved local
+donate_2015_c ### involved_local_EA
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_local_EA     N      mean  median         sd
+               <chr> <int>     <dbl>   <dbl>      <dbl>
+ 1                No   273 16733.815 2000.00 101694.100
+ 2               Yes    40  3625.535  797.71   7559.665
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -2.0907, df = 290.03, p-value = 0.03743
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -25448.3522   -768.2077
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            3625.535           16733.815 
+ 
+2015 Donate x involved 80K
+donate_2015_c ### involved_80K
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_80K     N      mean  median        sd
+          <chr> <int>     <dbl>   <dbl>     <dbl>
+ 1           No   224 17411.664 2000.00 110918.51
+ 2          Yes    89  9136.405 1314.58  28851.39
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.0322, df = 284.51, p-value = 0.3029
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -24055.943   7505.425
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            9136.405           17411.664 
+ 
+2015 Donate x involved GW
+donate_2015_c ### involved_givewell
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_givewell     N     mean  median       sd
+               <chr> <int>    <dbl>   <dbl>    <dbl>
+ 1                No   158 16953.25 1978.83 107234.8
+ 2               Yes   155 13127.35 1500.00  81169.5
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.35632, df = 292.3, p-value = 0.7219
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -24957.86  17306.06
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            13127.35            16953.25 
+ 
+2015 Donate x involved online
+donate_2015_c ### involved_online_ea
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_online_ea     N      mean median        sd
+                <chr> <int>     <dbl>  <dbl>     <dbl>
+ 1                 No   244 17579.965   1500 107449.22
+ 2                Yes    69  6142.629   2000  11252.92
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.6314, df = 260.81, p-value = 0.104
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -25242.427   2367.754
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            6142.629           17579.965 
+ 
+2015 Donate x involved book
+donate_2015_c ### involved_book_blog
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_book_blog     N      mean median        sd
+                <chr> <int>     <dbl>  <dbl>     <dbl>
+ 1                 No   209 19404.122   2000 115904.64
+ 2                Yes   104  6325.877   1250  12082.78
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.6137, df = 216.98, p-value = 0.108
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -29051.606   2895.116
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            6325.877           19404.122 
+ 
+2015 Donate x would attend
+donate_2015_c ### would_attend_local_group
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 5 x 5
+                           would_attend_local_group     N      mean  median
+                                              <chr> <int>     <dbl>   <dbl>
+ 1     I know that there is already and I do attend    73 12265.611 3286.45
+ 2 I know that there is already and I do not attend    45 33405.358 1000.00
+ 3                                               No    39 34139.973 6000.00
+ 4                                           Unsure    84  3725.747 1000.00
+ 5                                              Yes    70  9574.161 1720.00
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+  -34140  -12266   -8059   -2688 1281173 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                          12266      11152   1.100
+ yI know that there is already and I do not attend    21140      18058   1.171
+ yNo                                                  21874      18898   1.158
+ yUnsure                                              -8540      15246  -0.560
+ yYes                                                 -2692      15939  -0.169
+                                                   Pr(>|t|)
+ (Intercept)                                          0.272
+ yI know that there is already and I do not attend    0.243
+ yNo                                                  0.248
+ yUnsure                                              0.576
+ yYes                                                 0.866
+ 
+ Residual standard error: 95280 on 306 degrees of freedom
+ Multiple R-squared:  0.01518,	Adjusted R-squared:  0.002303 
+ F-statistic: 1.179 on 4 and 306 DF,  p-value: 0.3201
+ 
+2015 Donate x ea social
+donate_2015_c ### ea_social
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 7 x 5
+   ea_social     N      mean   median         sd
+       <chr> <int>     <dbl>    <dbl>      <dbl>
+ 1        0%    95 15412.410 1314.580 102581.155
+ 2     1-20%   119  7723.309 2497.700  16356.041
+ 3    21-40%    30 52171.447 1750.000 238887.926
+ 4    41-60%    14 17722.592 1125.830  59256.236
+ 5    61-80%     6  4255.413 2366.240   4967.875
+ 6    81-90%     8  2477.459  968.400   3297.071
+ 7   90-100%     2  5272.995 5272.995   2995.311
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+  -52171  -14906   -7633   -2477 1262407 
+ 
+ Coefficients:
+             Estimate Std. Error t value Pr(>|t|)  
+ (Intercept)    15412      10358   1.488   0.1380  
+ y1-20%         -7689      13891  -0.554   0.5804  
+ y21-40%        36759      21144   1.739   0.0833 .
+ y41-60%         2310      28903   0.080   0.9364  
+ y61-80%       -11157      42499  -0.263   0.7931  
+ y81-90%       -12935      37168  -0.348   0.7281  
+ y90-100%      -10139      72137  -0.141   0.8883  
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 101000 on 267 degrees of freedom
+ Multiple R-squared:  0.01802,	Adjusted R-squared:  -0.00405 
+ F-statistic: 0.8165 on 6 and 267 DF,  p-value: 0.5579
+ 
+2015 % Donate
+         mean        median           min           max            sd 
+    0.08607202    0.03333326    0.00000000    1.27500000    0.15018787 
+        length           sum        num_na num_over_zero 
+  318.00000000   26.94054381    5.00000000  275.00000000 
+2015 Income
+         mean        median           min           max            sd 
+     117518.58      50753.75      10000.00    6572893.39     441291.42 
+        length           sum        num_na num_over_zero 
+        318.00   37370907.98          0.00        318.00 
+2015 Income x member local
+income_2015_individual_c ### member_local_group
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_local_group     N      mean   median       sd
+                <chr> <int>     <dbl>    <dbl>    <dbl>
+ 1                 No   235 137998.21 57875.95 511017.0
+ 2                Yes    83  59534.09 44238.00  54991.9
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -2.3161, df = 248.83, p-value = 0.02136
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -145186.66  -11741.58
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            59534.09           137998.21 
+ 
+2015 Income x member EA Forum
+income_2015_individual_c ### member_ea_forum
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_ea_forum     N     mean   median       sd
+             <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1              No   233 108774.5 59156.04 287822.2
+ 2             Yes    85 141487.5 42526.00 710851.9
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.41213, df = 94.226, p-value = 0.6812
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -124882.8  190308.8
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            141487.5            108774.5 
+ 
+2015 Income x member EA FB
+income_2015_individual_c ### member_ea_fb
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_ea_fb     N     mean   median       sd
+          <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1           No   159 121756.0 60000.00 341374.4
+ 2          Yes   159 113281.1 46010.25 523580.1
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.17097, df = 271.77, p-value = 0.8644
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -106062.43   89112.64
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            113281.1            121756.0 
+ 
+2015 Income x involved local
+income_2015_individual_c ### involved_local_EA
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_local_EA     N      mean median        sd
+               <chr> <int>     <dbl>  <dbl>     <dbl>
+ 1                No   277 127481.89  55000 471938.65
+ 2               Yes    41  50205.49  44700  34026.61
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -2.6786, df = 293.23, p-value = 0.007811
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -134055.09  -20497.69
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            50205.49           127481.89 
+ 
+2015 Income x involved 80K
+income_2015_individual_c ### involved_80K
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_80K     N      mean   median        sd
+          <chr> <int>     <dbl>    <dbl>     <dbl>
+ 1           No   227 134576.51 55000.00 518268.02
+ 2          Yes    91  74967.48 46010.25  94114.29
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.6657, df = 260.29, p-value = 0.09697
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -130074.98   10856.94
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            74967.48           134576.51 
+ 
+2015 Income x involved GW
+income_2015_individual_c ### involved_givewell
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_givewell     N     mean   median       sd
+               <chr> <int>    <dbl>    <dbl>    <dbl>
+ 1                No   161 120433.5 47725.10 525258.2
+ 2               Yes   157 114529.4 59156.04 335752.4
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.11973, df = 273.01, p-value = 0.9048
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -102984.02   91175.82
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            114529.4            120433.5 
+ 
+2015 Income x involved online
+income_2015_individual_c ### involved_online_ea
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_online_ea     N      mean median        sd
+                <chr> <int>     <dbl>  <dbl>     <dbl>
+ 1                 No   246 131680.00  55000 498928.91
+ 2                Yes    72  69133.72  46098  86090.84
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.8732, df = 287.13, p-value = 0.06205
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -128265.260    3172.694
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            69133.72           131680.00 
+ 
+2015 Income x involved book
+income_2015_individual_c ### involved_book_blog
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_book_blog     N      mean   median       sd
+                <chr> <int>     <dbl>    <dbl>    <dbl>
+ 1                 No   213 136227.10 52583.15 531890.8
+ 2                Yes   105  79567.02 47725.10 121280.3
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.4787, df = 253.33, p-value = 0.1405
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -132123.05   18802.89
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            79567.02           136227.10 
+ 
+2015 Income x would attend
+income_2015_individual_c ### would_attend_local_group
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 5 x 5
+                           would_attend_local_group     N      mean   median
+                                              <chr> <int>     <dbl>    <dbl>
+ 1     I know that there is already and I do attend    73  68879.67 48000.00
+ 2 I know that there is already and I do not attend    46 219266.55 46598.00
+ 3                                               No    39 240557.48 75000.00
+ 4                                           Unsure    86  78553.63 42033.26
+ 5                                              Yes    72  84563.33 52583.15
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+ -230557  -65115  -38644   -2901 6353627 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                          68880      51521   1.337
+ yI know that there is already and I do not attend   150387      82866   1.815
+ yNo                                                 171678      87309   1.966
+ yUnsure                                               9674      70054   0.138
+ yYes                                                 15684      73114   0.215
+                                                   Pr(>|t|)  
+ (Intercept)                                         0.1822  
+ yI know that there is already and I do not attend   0.0705 .
+ yNo                                                 0.0502 .
+ yUnsure                                             0.8903  
+ yYes                                                0.8303  
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 440200 on 311 degrees of freedom
+ Multiple R-squared:  0.02346,	Adjusted R-squared:  0.0109 
+ F-statistic: 1.868 on 4 and 311 DF,  p-value: 0.1158
+ 
+2015 Income x ea social
+income_2015_individual_c ### ea_social
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 7 x 5
+   ea_social     N      mean   median         sd
+       <chr> <int>     <dbl>    <dbl>      <dbl>
+ 1        0%    97 134025.58 50000.00  419526.86
+ 2     1-20%   120  82260.37 59578.02   95389.59
+ 3    21-40%    30 271065.53 41326.61 1191519.32
+ 4    41-60%    15  58299.38 35000.00   90275.76
+ 5    61-80%     6  62731.89 57078.02   36471.55
+ 6    81-90%     8  34609.85 33404.10   21210.86
+ 7   90-100%     3  39240.55 31549.89   21431.32
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+     Min      1Q  Median      3Q     Max 
+ -260549  -93850  -39416   -3147 6301828 
+ 
+ Coefficients:
+             Estimate Std. Error t value Pr(>|t|)   
+ (Intercept)   134026      47399   2.828  0.00504 **
+ y1-20%        -51765      63739  -0.812  0.41742   
+ y21-40%       137040      97524   1.405  0.16110   
+ y41-60%       -75726     129518  -0.585  0.55925   
+ y61-80%       -71294     196386  -0.363  0.71687   
+ y81-90%       -99416     171719  -0.579  0.56311   
+ y90-100%      -94785     273658  -0.346  0.72934   
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 466800 on 272 degrees of freedom
+ Multiple R-squared:  0.01703,	Adjusted R-squared:  -0.004655 
+ F-statistic: 0.7853 on 6 and 272 DF,  p-value: 0.5821
+ 
+2015 % Donate x member local
+p_donate_2015 ### member_local_group
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_local_group     N       mean     median        sd
+                <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                 No   231 0.08343672 0.02880000 0.1596986
+ 2                Yes    82 0.09349587 0.06385739 0.1199604
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.59491, df = 188.68, p-value = 0.5526
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.02329496  0.04341326
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.09349587          0.08343672 
+ 
+2015 % Donate x member EA Forum
+p_donate_2015 ### member_ea_forum
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_ea_forum     N       mean     median        sd
+             <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1              No   231 0.06883352 0.02499994 0.1332233
+ 2             Yes    82 0.13463414 0.10000002 0.1823519
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 2.9961, df = 113.17, p-value = 0.003361
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  0.02228981 0.10931143
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.13463414          0.06883352 
+ 
+2015 % Donate x member EA FB
+p_donate_2015 ### member_ea_fb
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   member_ea_fb     N       mean     median        sd
+          <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1           No   158 0.07248147 0.02500001 0.1491427
+ 2          Yes   155 0.09992563 0.05000000 0.1504631
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 1.6204, df = 310.76, p-value = 0.1062
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.005880318  0.060768641
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.09992563          0.07248147 
+ 
+2015 % Donate x involved local
+p_donate_2015 ### involved_local_EA
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_local_EA     N       mean    median         sd
+               <chr> <int>      <dbl>     <dbl>      <dbl>
+ 1                No   273 0.09011114 0.0375000 0.15632755
+ 2               Yes    40 0.05850509 0.0215278 0.09547809
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.774, df = 74.017, p-value = 0.08018
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.067105590  0.003893493
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.05850509          0.09011114 
+ 
+2015 % Donate x involved 80K
+p_donate_2015 ### involved_80K
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_80K     N       mean     median        sd
+          <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1           No   224 0.08709676 0.03693182 0.1598377
+ 2          Yes    89 0.08349292 0.02880000 0.1233778
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.21344, df = 208, p-value = 0.8312
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.03689066  0.02968299
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.08349292          0.08709676 
+ 
+2015 % Donate x involved GW
+p_donate_2015 ### involved_givewell
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_givewell     N       mean     median        sd
+               <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                No   158 0.09297413 0.03603898 0.1526704
+ 2               Yes   155 0.07903634 0.03125000 0.1477757
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -0.82071, df = 310.94, p-value = 0.4124
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.04735314  0.01947756
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.07903634          0.09297413 
+ 
+2015 % Donate x involved online
+p_donate_2015 ### involved_online_ea
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_online_ea     N       mean     median        sd
+                <chr> <int>      <dbl>      <dbl>     <dbl>
+ 1                 No   244 0.08195472 0.02977259 0.1384282
+ 2                Yes    69 0.10063175 0.04000000 0.1863891
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.77417, df = 90.253, p-value = 0.4409
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.02925006  0.06660412
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.10063175          0.08195472 
+ 
+2015 % Donate x involved book
+p_donate_2015 ### involved_book_blog
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 2 x 5
+   involved_book_blog     N       mean     median         sd
+                <chr> <int>      <dbl>      <dbl>      <dbl>
+ 1                 No   209 0.09266286 0.03260870 0.16984283
+ 2                Yes   104 0.07282698 0.03541663 0.09903332
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = -1.3014, df = 303.35, p-value = 0.1941
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.04982977  0.01015802
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+          0.07282698          0.09266286 
+ 
+2015 % Donate x would attend
+p_donate_2015 ### would_attend_local_group
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 5 x 5
+                           would_attend_local_group     N       mean     median
+                                              <chr> <int>      <dbl>      <dbl>
+ 1     I know that there is already and I do attend    73 0.11860839 0.09999995
+ 2 I know that there is already and I do not attend    45 0.06024854 0.03000000
+ 3                                               No    39 0.09564263 0.03947368
+ 4                                           Unsure    84 0.05974634 0.02162702
+ 5                                              Yes    70 0.09734381 0.02917259
+ # ... with 1 more variables: sd <dbl>
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+      Min       1Q   Median       3Q      Max 
+ -0.11861 -0.07035 -0.04083  0.01943  1.21525 
+ 
+ Coefficients:
+                                                   Estimate Std. Error t value
+ (Intercept)                                        0.11861    0.01751   6.775
+ yI know that there is already and I do not attend -0.05836    0.02835  -2.059
+ yNo                                               -0.02297    0.02967  -0.774
+ yUnsure                                           -0.05886    0.02393  -2.459
+ yYes                                              -0.02126    0.02502  -0.850
+                                                   Pr(>|t|)    
+ (Intercept)                                       6.38e-11 ***
+ yI know that there is already and I do not attend   0.0404 *  
+ yNo                                                 0.4395    
+ yUnsure                                             0.0145 *  
+ yYes                                                0.3961    
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 0.1496 on 306 degrees of freedom
+ Multiple R-squared:  0.02532,	Adjusted R-squared:  0.01258 
+ F-statistic: 1.988 on 4 and 306 DF,  p-value: 0.09628
+ 
+2015 % Donate x ea social
+p_donate_2015 ### ea_social
+ Filters:  student == "No", income_2015_individual_c >= 10000, which_year_EA %not_in% c("2015", "2017") 
+ # A tibble: 7 x 5
+   ea_social     N       mean     median         sd
+       <chr> <int>      <dbl>      <dbl>      <dbl>
+ 1        0%    95 0.05275044 0.02558148 0.06945215
+ 2     1-20%   119 0.09108298 0.04588235 0.13178434
+ 3    21-40%    30 0.14451995 0.08392013 0.24984568
+ 4    41-60%    14 0.10478336 0.05576915 0.16222990
+ 5    61-80%     6 0.06004426 0.06250000 0.04952927
+ 6    81-90%     8 0.06289060 0.04583326 0.07926047
+ 7   90-100%     2 0.10823722 0.10823722 0.01164914
+ 
+ 
+ Call:
+ lm(formula = x ~ y)
+ 
+ Residuals:
+      Min       1Q   Median       3Q      Max 
+ -0.14452 -0.06940 -0.03882  0.02033  1.13048 
+ 
+ Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+ (Intercept) 0.052750   0.013629   3.870 0.000137 ***
+ y1-20%      0.038333   0.018277   2.097 0.036903 *  
+ y21-40%     0.091770   0.027820   3.299 0.001103 ** 
+ y41-60%     0.052033   0.038029   1.368 0.172384    
+ y61-80%     0.007294   0.055918   0.130 0.896317    
+ y81-90%     0.010140   0.048903   0.207 0.835893    
+ y90-100%    0.055487   0.094915   0.585 0.559313    
+ ---
+ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+ 
+ Residual standard error: 0.1328 on 267 degrees of freedom
+ Multiple R-squared:  0.04511,	Adjusted R-squared:  0.02365 
+ F-statistic: 2.102 on 6 and 267 DF,  p-value: 0.05332
+ 
+2015 GWWC adherence (non-student, GWWC member)
+p_donate_2015 >= 0.1 (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+        TRUE       FALSE 
+ 62 (65.26%) 33 (34.74%) 
+2015 GWWC adherence x local mem (non-student, GWWC member)
+p_donate_2015 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+        
+             No    Yes
+   FALSE 0.3818 0.3000
+   TRUE  0.6182 0.7000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 190, df = 3, p-value < 2.2e-16
+ 
+2015 GWWC adherence x local mem (non-student, GWWC member) tab
+p_donate_2015 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+        
+         No Yes
+   FALSE 21  12
+   TRUE  34  28
+2015 GWWC adherence (non-student non-GWWC member)
+p_donate_2015 >= 0.1 (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "No" 
+         TRUE        FALSE 
+  27 (19.57%) 111 (80.43%) 
+2015 GWWC adherence x local mem (non-student non-GWWC member)
+p_donate_2015 >= 0.1 ### member_local_group (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "No" 
+        
+             No    Yes
+   FALSE 0.8000 0.8182
+   TRUE  0.2000 0.1818
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 276, df = 3, p-value < 2.2e-16
+ 
+2015 GWWC adherence (student GWWC member)
+p_donate_2015 >= 0.01 (nas removed)
+ Filters:  student == "Yes", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+       FALSE        TRUE 
+  3 (13.64%) 19 (86.36%) 
+2015 GWWC adherence x local mem (student GWWC member)
+p_donate_2015 >= 0.01 ### member_local_group (nas removed)
+ Filters:  student == "Yes", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+        
+             No    Yes
+   FALSE 0.0769 0.2222
+   TRUE  0.9231 0.7778
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 44, df = 3, p-value = 1.509e-09
+ 
+2015 x 2016 GWWC adherence (non-student, GWWC member)
+p_donate_2015 >= 0.1 ### p_donate_2016 >= 0.1 (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+        
+          FALSE   TRUE
+   FALSE 0.5714 0.2167
+   TRUE  0.4286 0.7833
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 0.022903, df = 1, p-value = 0.8797
+ 
+2016 x 2015 GWWC adherence (non-student, GWWC member)
+p_donate_2016 >= 0.1 ### p_donate_2015 >= 0.1 (nas removed)
+ Filters:  student == "No", which_year_EA %not_in% c("2015", "2016", "2017"), member_gwwc == "Yes" 
+        
+          FALSE   TRUE
+   FALSE 0.6061 0.2419
+   TRUE  0.3939 0.7581
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 0.022903, df = 1, p-value = 0.8797
+ 
+Cities of local groups
+city
+ Filters:  member_local_group == "Yes" 
+ 
+              Other             London             SF Bay Boston / Cambridge 
+                324                 29                 23                 16 
+      New York City             Oxford            Seattle          Vancouver 
+                 14                 13                 12                 11 
+             Berlin          Cambridge               Oslo 
+                 10                  8                  8 
+Top 25 local groups by num people
+group1
+ 
+                            Other                    Unknown Group 
+                             1579                               56 
+                        EA London                      EA Bay Area 
+                               29                               23 
+       Harvard Effective Altruism           Effective Altruism NYU 
+                               16                               14 
+                        EA Oxford                       EA Seattle 
+                               13                               12 
+                     EA Vancouver                        EA Berlin 
+                               11                               10 
+                     EA Cambridge            EA University of Oslo 
+                                8                                8 
+                       EA Chicago                     EA Osnabrück 
+                                7                                6 
+                          EA NTNU Effective Altruism Society of DC 
+                                5                                5 
+         Giving What We Can: Penn                          EA Bonn 
+                                5                                4 
+                       EA Madison                        EA Sydney 
+                                4                                4 
+                       EA Toronto                      EA Tübingen 
+                                4                                4 
+                     EA Amsterdam                       EA Bristol 
+                                3                                3 
+                  EA Christchurch                       EA Cologne 
+                                3                                3 
+People in LEAN groups
+is_lean (nas removed)
+        FALSE         TRUE 
+ 274 (93.84%)   18 (6.16%) 
+Top 25 LEAN groups by num people
+group1
+ Filters:  is_lean == TRUE 
+ 
+                    EA Zürich                  EA Flanders 
+                            3                            2 
+                  EA Montreal                 EA Newcastle 
+                            2                            2 
+                    EA Aarhus                  EA Adelaide 
+                            1                            1 
+                   EA Beijing                  EA Hamilton 
+                            1                            1 
+                 EA Lithuania                 EA San Diego 
+                            1                            1 
+                    EA Taiwan Effective Altruism Cape Town 
+                            1                            1 
+     Effective Altruism Leeds 
+                            1 
+Top 25 non-LEAN groups by num people
+group1
+ Filters:  is_lean == FALSE 
+ 
+                            Other                        EA London 
+                               67                               29 
+                      EA Bay Area       Harvard Effective Altruism 
+                               23                               16 
+           Effective Altruism NYU                        EA Oxford 
+                               14                               13 
+                       EA Seattle                     EA Vancouver 
+                               12                               11 
+                        EA Berlin                     EA Cambridge 
+                               10                                8 
+            EA University of Oslo                       EA Chicago 
+                                8                                7 
+                     EA Osnabrück                          EA NTNU 
+                                6                                5 
+ Effective Altruism Society of DC         Giving What We Can: Penn 
+                                5                                5 
+                          EA Bonn                       EA Madison 
+                                4                                4 
+                        EA Sydney                       EA Toronto 
+                                4                                4 
+                      EA Tübingen                     EA Amsterdam 
+                                4                                3 
+                       EA Bristol                  EA Christchurch 
+                                3                                3 
+                       EA Cologne                           EA DTU 
+                                3                                3 
+Welcoming x LEAN group
+ea_welcoming ### is_lean (nas removed)
+                                    
+                                      FALSE   TRUE
+   Neither welcoming nor unwelcoming 0.2000 0.1429
+   Unwelcoming                       0.0360 0.0000
+   Very unwelcoming                  0.0160 0.0714
+   Very welcoming                    0.2600 0.1429
+   Welcoming                         0.4880 0.6429
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 528, df = 6, p-value < 2.2e-16
+ 
+EA NPS x LEAN group
+ea_nps ### is_lean
+ # A tibble: 2 x 5
+   is_lean     N     mean median       sd
+     <lgl> <int>    <dbl>  <dbl>    <dbl>
+ 1   FALSE   274 46.35036    100 67.43197
+ 2    TRUE    18 50.00000    100 70.71068
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.21272, df = 19.088, p-value = 0.8338
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -32.24984  39.54911
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            50.00000            46.35036 
+ 
+first local x LEAN group
+first_local ### is_lean (nas removed)
+        
+         FALSE        TRUE     
+   FALSE 249 (90.88%) 18 (100%)
+   TRUE  25 (9.12%)   0 (0%)   
+invovled local x LEAN group
+involved_local_EA ### is_lean (nas removed)
+      
+       FALSE        TRUE       
+   No  149 (54.38%) 12 (66.67%)
+   Yes 125 (45.62%) 6 (33.33%) 
+ea_donate x LEAN group
+ea_donate ### is_lean (nas removed)
+      
+        FALSE   TRUE
+   No  0.2044 0.2778
+   Yes 0.7956 0.7222
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 584, df = 3, p-value < 2.2e-16
+ 
+2016 % Donate x LEAN group
+p_donate_2016 ### is_lean
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   is_lean     N      mean     median        sd
+     <lgl> <int>     <dbl>      <dbl>     <dbl>
+ 1   FALSE    68 0.1279990 0.09999998 0.1569156
+ 2    TRUE     3 0.2573851 0.36579161 0.2180628
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 1.0162, df = 2.0924, p-value = 0.4124
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -0.3959236  0.6546958
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+           0.2573851           0.1279990 
+ 
+2016 Donate x LEAN group
+donate_2016_c ### is_lean
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+ # A tibble: 2 x 5
+   is_lean     N     mean   median      sd
+     <lgl> <int>    <dbl>    <dbl>   <dbl>
+ 1   FALSE    68 11440.57  4624.00 25240.1
+ 2    TRUE     3 11742.60 11868.03 11402.0
+ 
+ 
+ 	Welch Two Sample t-test
+ 
+ data:  x by y
+ t = 0.041604, df = 2.9541, p-value = 0.9695
+ alternative hypothesis: true difference in means is not equal to 0
+ 95 percent confidence interval:
+  -23006.08  23610.14
+ sample estimates:
+ mean in group FALSE  mean in group TRUE 
+            11742.60            11440.57 
+ 
+GWWC Membership x LEAN group
+member_gwwc ### is_lean
+       
+        FALSE        TRUE        <NA>        
+   N/A  0 (0%)       0 (0%)      237 (15.32%)
+   No   131 (47.81%) 6 (33.33%)  802 (51.84%)
+   Yes  143 (52.19%) 12 (66.67%) 321 (20.75%)
+   <NA> 0 (0%)       0 (0%)      187 (12.09%)
+GWWC Membership x LEAN group II
+member_gwwc ### is_lean (nas removed)
+      
+       FALSE        TRUE       
+   No  131 (47.81%) 6 (33.33%) 
+   Yes 143 (52.19%) 12 (66.67%)
+GWWC Membership x LEAN group III
+member_gwwc ### is_lean
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+      
+       FALSE       TRUE       <NA>       
+   No  31 (44.29%) 1 (33.33%) 153 (62.7%)
+   Yes 39 (55.71%) 2 (66.67%) 91 (37.3%) 
+GWWC Membership x LEAN group IV
+member_gwwc ### is_lean (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+      
+       FALSE       TRUE      
+   No  31 (44.29%) 1 (33.33%)
+   Yes 39 (55.71%) 2 (66.67%)
+GWWC Membership x LEAN group V
+member_gwwc ### is_lean (nas removed)
+ Filters:  student == "No", income_2016_individual_c >= 10000, which_year_EA %not_in% c("2016", "2017") 
+      
+        FALSE   TRUE
+   No  0.4429 0.3333
+   Yes 0.5571 0.6667
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 146, df = 3, p-value < 2.2e-16
+ 
+GWWC adherence x LEAN group
+p_donate_2016 >= 0.1 ### is_lean (nas removed)
+ Filters:  member_gwwc == "Yes" 
+        
+         FALSE TRUE
+   FALSE   0.5  0.0
+   TRUE    0.5  1.0
+ 
+ 
+ 	Pearson's Chi-squared test with Yates' continuity correction
+ 
+ data:  x and y
+ X-squared = 52.174, df = 1, p-value = 5.08e-13
+ 
+ea_career x LEAN group
+ea_career ### is_lean (nas removed)
+      
+        FALSE   TRUE
+   No  0.6168 0.7222
+   Yes 0.3832 0.2778
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 584, df = 3, p-value < 2.2e-16
+ 
+ea_volunteer x LEAN group
+ea_volunteer ### is_lean (nas removed)
+      
+        FALSE   TRUE
+   No  0.4124 0.4444
+   Yes 0.5876 0.5556
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 584, df = 3, p-value < 2.2e-16
+ 
+vol hrs x LEAN group
+ea_volunteer_hours ### is_lean (nas removed)
+                          
+                            FALSE   TRUE
+   0 hours per month       0.4030 0.4706
+   0.1-1 hours per month   0.0858 0.0588
+   1.1-3 hours per month   0.1007 0.2353
+   10.1-20 hours per month 0.0933 0.1765
+   3.1-5 hours per month   0.1157 0.0000
+   5.1-10 hours per month  0.1119 0.0000
+   over 20 hours per month 0.0896 0.0588
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 570, df = 8, p-value < 2.2e-16
+ 
+paid hrs x LEAN group
+ea_paid_hours ### is_lean (nas removed)
+                            
+                              FALSE   TRUE
+   0                         0.9060 0.8889
+   0.1-9.9                   0.0226 0.0556
+   10-19.9                   0.0150 0.0000
+   160 or higher (full-time) 0.0376 0.0556
+   20-39.9                   0.0038 0.0000
+   40-59.9                   0.0075 0.0000
+   90-119.9                  0.0075 0.0000
+ 
+ 
+ 	Pearson's Chi-squared test
+ 
+ data:  x and y
+ X-squared = 568, df = 8, p-value < 2.2e-16
+ 

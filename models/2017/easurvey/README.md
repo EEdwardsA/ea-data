@@ -1,4 +1,4 @@
-## 2017 .impact Survey Analysis
+## 2017 EA Survey Analysis
 
 Run the model and analysis:
 
@@ -19,5 +19,4 @@ Run the full data pipeline, assuming you possess the confidential un-anonymous C
 source("models/2017/easurvey/ea_id.R")
 source("models/2017/easurvey/convert_money.R")
 run("2017/survey")
-source("models/2017/easurvey/write_comments.R")
 ```
