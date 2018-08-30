@@ -1,6 +1,8 @@
 convert_money <- function(data, as_of) {
+
   first_pass <- data$currency_donate_1 %/>%
                   fn(x, strsplit(x, " - ")[[1]]) %/>%
+                  fn(x, if (identical(x, "- US Dollar")) { "USD" } else { x }) %/>%
                   fn(x, if (length(x) >= 1) { x[[1]] } else { NA }) %/>%
                   function(cc) {
                     if (is.na(cc)) { NA_character_ }
@@ -29,10 +31,9 @@ convert_money <- function(data, as_of) {
   combine <- function(x, y) { if (is.na(x)) { y } else { x }}
   currency_map <- Map(combine, unlist(first_pass), unlist(second_pass)) %>% unlist
   data$currency <- currency_map
-  data$currency_donate_1 <- NULL
-  data$currency_donate_2 <- NULL
 
   currency_vars <- surveytools2::get_vars(data, c("donate_", "income"), collapse = TRUE)
+  currency_vars <- setdiff(currency_vars, c("why_donate_less", "currency_donate_1", "currency_donate_2"))
 
   is_number_string <- function(x) { !is.na(suppressWarnings(as.numeric(x))) }
 

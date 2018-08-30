@@ -25,7 +25,7 @@ packages:
     version: "1.5"
   -
     name: currencyr
-    version: 0.0.0.9005
+    version: 0.0.1.9000
     repo: peterhurford/currencyr
   -
     name: plyr
