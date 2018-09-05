@@ -15,6 +15,7 @@ Ramd::define("variable_names", function(variable_names) {
     stop("Error: some variables did not import -- ",
       paste0(names_that_did_not_work, collapse = ", "))
   }
+  data2018 <- data2018[, unlist(variable_names)]
   hash_email <- function(email, salt) {
     if (is.na(email) || identical(email, "")) { NA }
     else { digest::digest(paste0(email, salt)) }
@@ -23,6 +24,7 @@ Ramd::define("variable_names", function(variable_names) {
   email_salt <- readLines(email_salt_file)
   close(email_salt_file)
   data2018$ea_id <- lapply(data2018$email_address, hash_email, salt = email_salt) %>% unlist
+  data2018$name <- NULL
   data2018$email_address <- NULL
   message("Writing out...")
   readr::write_csv(data2018, "data/2018/2018-ea-survey-anon.csv")

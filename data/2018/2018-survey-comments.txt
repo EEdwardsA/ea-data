@@ -1,3 +1,795 @@
+## improve_survey_comment  ##
+
+
+
+I was sometimes unclear when it was referring to "effective altruism" the set of ideological principles versus "effective altruism" the movement organized under that name.
+
+I'm guessing that you could ask for more data points: maybe there could be a compressed and expanded survey.
+
+Maybe state how many questions there is, or give an estimate of the time it takes.    Perhaps ask, optionally, for an email address to send follow-up information.
+
+optional justifications for why we chose the ranking for the priorities?
+
+Yes - the list of cities that people are from seems very limited and US-centric - I picked London even though it is the other side of the country!
+
+This is a very tough survey to put together and I think you guys have done a great job.  All I would say is that there are too many questions which are too difficult to answer by checking a box.  Keep the 'factual' questions (e.g. age, income, groups that you are a part of, industry, etc.) and maybe try to hone the subjective questions so they give a more definitive answer.  The questions in which charities are the most important to you was impossible to answer correctly and if I had just read an article or seen a headline on one topic or the other I may well have changed my answers.
+
+clarify questions to separate EA movement from individuals who are aligned but not part of the movement.
+
+It was fine although a little US-centric
+
+slightly more detailed questions as some left me thinking that none of the answers applied to me
+
+Change some of the questions to reflect previous answers.
+
+Dunno
+
+Don't ask for the income. It doesn't matter
+
+reduce overlap in relationship question
+
+1. Less discrimination. When you ask someone for their country or city or currency, there should be a drop down menu for all options not just a couple from the Western world (That is less than half the population of the world have far lesser problems than say people in the Middle East or South Asia)   2. The developing world needs much more attention than this survey provides. I am not sure what audience did you have in mind when you guys were creating this but this is clearly meant for an upper-middle class white Western crowd. That is deplorable, considering especially that it is coming from people who are allegedly trying make the world a better place. Disappointing to say the least.  3. Should ask people about specific regions that they are interested in donating to in the world and why.  4. I understand that Public Policy is not your forte but still you can ask people if they would like to get involved in ti and to what degree and which areas etc.  5. Do not mind the critique, it is only meant to make things better. Thanks
+
+not sure
+
+Additional comment boxes should be provided for people who don't really match with any of the provided options (including 'others')
+
+I said this in response to an earlier question: If you put 10% into a DAF years ago, from which you now make annual donations, it's not clear whether the DAF creation years ago should count or the annual donations from that now. To be consistent in comparing to annual income, it should probably be the former, but that's not how I think of our annual donations.    In the relationship question, "married" and "polyamorous" (and multiple relationships) are not mutually exclusive.
+
+Ask for criticisms of EA.
+
+Ask what normative ethical theories they are and why
+
+> 15. What broad career path are you planning to follow?    This one could've been better, I think. I'm not sure which one I will choose, so I had a hard time answering. Adding a "not sure" or "Torn between Earning to give/direct charity" would've been good.    > You should have a question about strategies used to make sure you actually keep giving, and keep giving more (as a percentage) of your income as it keeps growing. I fear many fall in the trap of getting used to higher salaries, and so going into the career with a "pure heart" but getting "corrupted" along the way. A clear strategy is needed for most, I think.    > 31. Which of the following choices best represents your religious beliefs?    There should've been a "spiritual" or something like that option there, I think.    > 32. Which of the following options best represent your political belief    I would've liked a "Green" option here.    > Links to explanations on the list of causes would've been nice.
+
+I am unsure how to put down Secular Jewish when that's not really a religion or a race, but it seems a significant enough population among socially relevant groups that it is worth statistically examining. Maybe make the religious beliefs option a multiple checkbox?
+
+Ask EAs whether they really can assess deeply or at least quickly and roughly scale, neglectedness, and solvability of a problem, or effectiveness of a proposed solution, project or organization. And if they can, how do they do it. I doubt there are many EAs who can do it reliably.
+
+Its good ;)
+
+Great survey, easy to answer and good choice of responses :)
+
+Don't ask students which industry they work in?
+
+The city list was a bit odd. It would make sense to constrain it to the country selected.
+
+Reassure us that survey responses are saved.  Show a progress bar of the percentage of the survey I have done.
+
+Indicate the percentage of the survey that I have already completed, to give a sense of progress / remaining questions.
+
+Ask for new ideas on how EAs can make an impact outside of career alignment or donations, for example could political and policy movements become a key point of action for people interested in certain issues?
+
+Make it more accessible on the forums, we should have a shitposting page that’s more public than the current uber-serious all the time page I currently read through
+
+Provide meetup opportunities / networking
+
+I think you can add an "unsure" option for question 15 "What broad career path are you planning to follow?".
+
+More free text to understand issues/ contradictions participants have with the movement which may be limiting growth...e.g for me, heavy focus on artificial intelligence, and uncertainty about potential harms of a course of action e.g donating to one charity e.g what are the effects of using insecticides on antimalarial nets...could we be doing more harms in future...
+
+All is good.
+
+You're assuming a consensus over EA goals and means that I likely don't share. Consider adding question on what EA means to your subjects.
+
+more ideas for what causes have been suggested to be prioritized, as examples in the "other" section
+
+You need to be more specific when asking "how much have you donated?", since I donate to EA causes like GiveWell/AMF, but also to non-EA things like EFF/DonorsChoose
+
+STOP TRYING TO TRICK ME INTO CREATING A PROFILE
+
+Make the survey more inclusive of people under the age of 18.
+
+Asking what city people live in is personal identifying information for people who are on the EA map and live in a city with few EAs. A person Mike comfortable with being on the map, but not want to share other information like salary. Asking what country, or state or province of a large country, might be better for write in answers.     If you're trying to match up the same people's results over time, bear in mind that things like religion and gender can change.
+
+A couple more comment boxes such that there's one per topic
+
+It was a very well-constructed survey!
+
+I think we should capture emotional and functional reasons, benefits for choosing EA, and also journey to becoming an EA for those who are - This would help you understand how market for more recruits and drive wider behaviour change
+
+You ought to have given an "I don't remember" option for question 39.
+
+The location bit was weird; I expected it to change the list of cities after specifying that I live in Canada, but it didn't, so I guessed that the "London" on the list was the London in the UK, and added London, ON as an "other", but it was a bit off-putting and confusing.
+
+Include section on concerns about the movement and its leaders. Especially with options related to diversity, attitudes, misogyny.
+
+Clarification / elaboration on the cause prioritization question.
+
+For cause prioritization, make it a numbered ranked list (with allowances for equal ranking if desired but honestly I think nonequal forces more info)
+
+Cultural issues (e.g., inclusiveness, broadly construed) within EA are a perennial topic of discussion. Some questions about people's perceptions of EA culture might provide useful data.
+
+Provide options for employees to list more than one work area, some of us have two jobs in different industries (as in, we do non-profit direct work plus supplement income in the cooperate world)
+
+For my perspective it would make sense to not assume everyone has finished school, but that might be not applying only to a small percentage of the people taking this survey. Also for some people other languages might help, but I see the big effort that would take.
+
+The question about religion should contain something like "pantheist" or "religious (no particular denomination)". I felt there was no option to represent my views. I believe in God but do not identify with any established religion. The "atheist / agnostic / non-religious" does not represent me either because I don't DISbelieve in God, neither am I agnostic about the existence of God. I guess in some sense I am "non-religious believer" but the worldview of someone like me is very different from that of an atheist, so that category is too broad.
+
+Add 'Earth Science' to your list-a-ronie back there.
+
+I can't get to my donation history, all the sites seem to be down or have migrated, it's kind of a pain in the ass. I just put in roughly correct round numbers for this survey.
+
+I already mentioned, dont include a broad range of social sciences only under "social science". IR and Law deserves its place, so as legal services and politics in term of my occupation.
+
+Very good job on providing "estimate time to complete the survey"
+
+more clarity on the period that the questions apply to: today I have finished my coursework and am about to graduate from my masters program. I plan to start work full-time in a couple weeks. I was not sure how to classify whether I was a student/worker/out of the labor force.
+
+Maybe introduce the question on occupation before the income question, 'cause that's how it's done in most surveys and I was confused if it was gonna ask.   Otherwise it's agreat survey! Yay survey design!   Thanks for doing the work you guys do.
+
+By making more effort/using different strategies to advertise it in order to get a bigger pool of participants for the survey. Judging by the membership of local and global facebook groups, it looks like there are way more self-identified EAs than the amount that answer this survey. I only found about it by chance myself.
+
+1. It would be interesting to know the donation allocation between EA vs. not EA charities.  2. I am in an open relationship, which in my opinion is neither monogamous nor polymorous. No "other" option was given.
+
+I am a student, but I was asked which industry I work in. I answered education, but to discriminate me from academic staff you might want to add a 'student' or 'unemployed' category.
+
+There was a typo in Question 18 =) A few duplicated words.
+
+In the "priorities" section, it wasn't clear to me whether it was "what should effective altruism prioritise?" or "what should humanity prioritise?". For example, nuclear security is very important, but I think it's already being tackled quite well, whereas climate change is super-important and I don't think we're doing nearly enough.    In short, I guess I wasn't sure whether to take account of neglectedness.
+
+Increase transparency why the data is gathered and how it is used purposefully
+
+Add a "Not sure" option to question 39.
+
+Seems thorough enough. Please share results with the public - I'm especially curious what others believe are causes to consider in the future.
+
+Check concept is understood by giving example
+
+provide a wider range of choices for causes to support.  Include things like biomedical research, climate engineering, anti-asteroid or other threats from space defense, anti-aging research, human augmentation research, fusion research, search for new worlds, and other big pay off research/ engineering projects.   I would recommend splitting out your question on reducing of "global warming" into multiple approaches:  reducing CO2 emissions, building nuclear power plants, and next-gen climate engineering (aerosols /CO2 sequestration/ etc.  People who are in favor of one approach are going to hate the others.
+
+FYI, I can't remember if I did the survey last year, but I probably did.
+
+Differentiate nationality and country of residence. (I'm a UK citizen living in China, which means I'm statistically unrepresentative of my area)  Maybe ask about people's motivations for being involved in EA.
+
+Not sure if I took part in the survey last year.
+
+Question 17 may benefit from having an option between "I do not think this is a priority..." and "This cause deserves significant resources...", as It seems like quite a big leap between these two responses.     Maybe have "Low priority" as an intermediate, or change the phrasing of the first to "I think this is low priority, so should only receive some resources.".
+
+Progress bars are always appreciated
+
+There are some questions where the distinction between effective altruism the idea and EA the organization are blurred.
+
+A spreadsheet with numerical values that summarizes results would be helpful.
+
+Would be good to make this into a panel survey, following people over time. This would save some answers (like "how did you hear about EA and when") which probably get noisier over time with no new information. Would also enable seeing trends. Can be optional, of course. A good way to implement this is to have people e-mail themselves a unique ID with some code so it comes up in search later, then have them enter this unique ID in the survey every year and let them skip questions this way.
+
+Drop down list of countries should have the three most common countries listed twice, once at the top and once in alphabetical order. Do this and 99% of people won't have to waste time scrolling down.
+
+kittens
+
+Question 37, "Which of the following best describes the principal industry of the organization you work for?" would benefit from an option for those not working, like the other questions supplied.
+
+My income/donation questions may be misleading/misinterpreted since I started my first job in 2018.  I'm not sure whether it's worth adding a spot for "predicted income in 2018" or "2017 income divided by time employed" to alleviate this.
+
+Asking about experiencing sexual abuse/any other discriminating/negative experience within the EA community would be interesting.
+
+More questions on improving EA, more self-reflection.
+
+* Ask for survey improvement ideas BEFORE releasing the survey.  * Survey question ideas in this thread http://effective-altruism.com/ea/1g3/why_how_to_make_progress_on_diversity_inclusion/
+
+Turn relationship question into check boxes  Add "I don't remember" to question 39
+
+Connect it to the SSC-survey
+
+Sexual orientation question; allow people to type in their ethnicity.
+
+The issues you ask us to prioritize are not inclusive of the real core systematic problems that we need to address in order for altruism to be sustainable and for the people.
+
+Just a little thing, but in the question about political beliefs (left, center left, etc), you could somehow acknowledge that different countries and even continents operate on different scales (as in, have different ideas about where the center is). I answered as a European (picking center left), so if you assumed the American scale, you'll think I'm more to the right than I am. In America, I would be probably far left, believing in things like single payer healthcare, 15 dollar minimum wage, etc.
+
+EA Forum should probably listed under 38, unless I'm blind
+
+Seems ok!
+
+Start the career title starting with "Telecommunications" with "Technology" so it is easier to find on the list.
+
+Ask people to give feedback about how the movement is doing, why they are more or less involved, what would cause them to become more involved, what things they like about the movement, what their vision for EA is, for the world, etc... More optional long form questions. (ask this question at the end of the survey)
+
+Either get rid of the "in a relationship (polyamorous)" category altogether or just make non-monogamy an extra tickbox (hint: you can be married and poly, and you can also be in a relationship but neither monogamous or polyamorous).    Add option for the "try pledging" bit of gwwc, as better info on the pipeline to a full pledge seems useful.
+
+More questions about polyamory, that shit is interesting    JK. More questions on how EA groups / the EA movement can improve. I know many people, including myself, with deep concerns about EA groups and their effectiveness. A local EA group I've been a member of before doesn't really do much other than reachout events a few times a year and weekly meetings about basic EA topics, which is a big issue IMO. Even EA Global seems like a big waste of money to me, which could be super arrogant of me to say considering I've never been there, but from what I can tell people are individually spending thousands of dollars to attend an event when that money could do way more good elsewhere.    But of course that's a long discussion. My main point is that you might find it useful to get people's thoughts on this stuff within the EA Survey.
+
+Just happy to get the results.
+
+Add Sydney to the cities list :)  Australia does tax years from Jul-Jun (so struggling businesses don't have to get their tax done during the xmas rush)... which makes it slightly awkward to calculate taxable income during the calendar year instead... would it matter if you asked "last financial year" rather than last calendar year?
+
+Ask about the extent of people's moral circle. Does it include non-human mammals, vertebrates, insects, mollusks, artificial intelligences, alien life forms
+
+I don't remember why, but this ones is less frustrating than the one last year.
+
+Would like it if it had a question about disability or something, i am high functioning autistic - suffer from depression
+
+Please consider including questions providing more insights on the well-being and socio-economic life circumstances of effective altruists. Your survey might be very helpful in identifying and addressing many of their problems, leading to adjustments and multiplication of the chapters' positive impact.
+
+Don't know. It's excellent as it is.
+
+Maybe an option about EA local groups for cities where about only you are interested, if you want to attend but have a hard time organizing it, getting people to come etc.
+
+This survey took me longer than 5-10 minutes. However, I think it is good questions you have asked. I would like to have had te possibility to give comments on most (maybe even all) of the question to clarify some things. Especially as I wasn't sure which option to pick when there were no "other" option on some questions.
+
+Ask questions about what is turning people away, what made people get more active, and what support do EAs need.
+
+In the household income survey it wasn't entirely clear whether it was referring to monthly or annual income. In the UK most surveys ask for your annual income, and in other EU countries they tend to ask for monthly.
+
+Understanding what activities make people feel most involved in the community (eg what can meet ups / local communities do?)
+
+It is great as it is.  Maybe you should encourage local group leaders to share it?
+
+Is effective Altruism a known concept within your peers?
+
+Allow us to download our results so I can see what I said in previous surveys.
+
+In question 17, the choice "Meta charities which direct resources to these causes" appeared near the top of the list, below "nuclear" and "climate change". It was confusing whether "these causes" meant the preceding ones or all of the mentioned causes. I ended up assuming the order of the alternatives in Q17 was randomised and thus that "these causes" were all the causes in the list.    I remember it as being longer last year. In any case, it felt quick and easy to answer this year. Good job.
+
+Tell me how many questions there are in advance.     Give a direct link at the end to the current results.
+
+Superb time estimate. It took me 20 min and 19 seconds, and I take relatively long to complete surveys. Thanks so much for being honest about the time commitment required.
+
+I felt that the study did not apply too much to me as a 19 year old, but I guess that is just the nature of things. Maybie shape some questions or options more open to such a demographic
+
+Feels good this year 😀
+
+add state/provinces & countries to the list of cities (for the Q about which city do you live in), since e.g. there are multiple Madison's, maybe multiples of some of the other listed cities, as well.
+
+I think you should include some more questions about how much we value different parts of the EA movement / ideas / development (e.g. from 1 to 5, how well organised do you think the community is etc.).
+
+Add consulting to the survey, or at least management consulting (an 80,000 Hours studied if not recommended career path)
+
+Some of the Hyperlinks dont work
+
+An E-mailed summary of the results would be nice (can't remember if you already do this)
+
+Replace: "Direct Work at Charity or Non-Profit" with "Direct Work, e.g. Charity or Non-Profit". Because if I'm working in industry or policy sector on responsible deployment of AI (that is not a Non-Profit) I shouldn't have to check "Earning to Give"
+
+Can you have one of the "Percentage complete" bars that increases as you go along?
+
+Have a progress bar or note at the beginning how many questions they are.  Also, the city/town question is a little weird to answer if you don't live in one of the listed cities so perhaps consider revising.  Thanks for all your good work!!
+
+No biggie, but check a little closer for typos. Otherwise, I think the actual substance of this thing is pretty good.
+
+Ad a "I don't remember" opinion for question 39 - I am leaning for a "yes" but I am not quite sure. :)
+
+Think more on what you're trying to achieve
+
+I’d be interested in asking people how much they donate to each cause area. Not sure if it’s be *useful* but interesting.
+
+I can't think of any suggestions this year, it seems good!
+
+Add a box for general thoughts about the movement. I have snarky opinions I want to vomit into a textbox.
+
+More open to uncertain people
+
+Add Paris in the cities you propose ;)
+
+a few ideas:   Ask what information EA's would like more of?  Ask what support would EA's would like more of?  Ask what resources would EA's not need more of?  after survey - create a representative sample and ask if they would be available for "flash" survey input from time to time - for future input on topics.
+
+You could add more opportunity for suggestions about how to improve the EA community.
+
+It's a good length! Maybe ask how often people talk about EA, or how open they feel about discussing EA with various groups.
+
+Would be great to use it as a tool to assemble local groups.
+
+It would be nice if you could just pull the data about my donation history from my GWWC profile, especially since the move to effectivealtruism.org has made it more annoying to calculate the numbers since the totals are no longer available.
+
+be more vegan
+
+A few of the questions don't make as much sense if you work at an EA org. For example I don't volunteer I just work long hours at an EA org, I'm not part of a local group because I see a lot of EAs daily etc. That might not be worth fixing if we're not the majority but it could be interesting to get data on how many people work at an EA org and see if their answers different on any dimension.  I'd also be very interested to hear how people would describe effective altruism.
+
+How popular is EA amongst family and friends?  How many high school or below students do you know interested in EA? what is most compelling reason not to be effective altruist? (Reworded) how many people have you persuaded/introduced EA to?
+
+ask about positive and negative experiences with EA and local groups
+
+For question 15. What broad career path are you planning to follow? -- add another category, uncertain. Especially bc there are a lot of young EAs.
+
+Allow people to check multiple for the religious category (I'm Jewish & atheist).
+
+I think so?
+
+It was unclear as someone who is currently a student if I should check "some college but no degree" or "bachelors degree". It was unclear if I should check "education" because the organization I work for is a university, or if I should check "software engineering" because the organization I will intern for this summer is a tech company.
+
+The survey doesn't seem to take into account that many in the EA movement actually work at EA(-minded) organizations. E.g. the question about how much time one volunteers is rather confusing.
+
+I feel like "EA communication/outreach" should have been a separate option for career (since I would separate it from direct NGO work), but not sure
+
+Love that you asked about diet. Curious to hear the results
+
+On some of the "either/or" question you should maybe include an "other" option and a text box for an explanation. A few of these questions required me to choose a least incorrect answer. Great overall though!
+
+Get better industry categories tailored to your audience (include professional services/consulting, social enterprises, entrepreneurship, international organizations, which are highly populated by EAs)
+
+Would be interesting to hear about people's motivations and reasons for engaging with EA, as well as the causal mechanisms (e.g. how they heard about it). Would also be interesting to hear about people's doubts / concerns about the EA movement as well as the EA philosophy.
+
+Add startups and skill building towards startups as an option (it only says charities/non profits)
+
+There ought to be a clearer way to say “I don’t know what my household income is”. I left those options blank without any explanation besides this one. It probably says a lot about how well‐designed this survey is that I can’t think of anything more substantial to put here, I almost always notice at least one big problem with every survey.
+
+Move the EA-specific questions to the end so you don't scare off non-EA people.
+
+Ask us about our stage of life, kids future plans study etc
+
+An option to make it quicker to take if you have taken it in the past.    Make sure results are being used. In particular talk to local groups and make the survey useful for them to measure impact.    The questions on when first find out about EA at confusing because EA didn't really exist until 2011/2012 but earlier years are listed.
+
+Include a text box to describe the "other" religious belief. Like mine is pantheist/spiritual, so I feel like it doesn't belong in any other category.
+
+It’s irritating to me that it sometimes feels like you’re not a real EA if you’re not in tech or in direct action (which for some people is a way bigger step than donating 10%! Maybe you have a job you love! We don’t expect people to live lives of pure aesceticism when they’re earning to give so I don’t know why we have to pressure people into DA work all day every day). But anyway. I think the survey feels unwelcoming by having a million techy job option selections and then lumping all of social sciences together. Or by having lots of questions about DA and 80k hours. It feels judgey.
+
+Re: 39. Did you take the last survey, in 2017?    I'm not sure, but I think I probably missed it.
+
+- I liked the survey. Thanks for doing this!  - Change "EAF/FRI/REG/The Swiss Group" to "EAF/FRI/REG"  - I wasn't sure how to answer the "how much time do you volunteer for EA" question since I work for an EA org, but also do more hours than I would need to. This could be seen as regular overtime, or as volunteering. Not sure if this can be improved – maybe add a "I work for an EA org" option to this question to simplify it?  - FYI, I took the TLYCS pledge two years before taking the GWWC pledge – maybe this is not sufficiently relevant to ask for in the survey, though  - I wasn't sure which year to indicate for "when did you get involved with EA", since it was a gradual process in the beginning. I read Famine, Affluence and Morality in 2010 and took the TLYCS pledge right after, but there was no EA community back then. I got much more involved in 2012/13, when an actual community started to build. Maybe you can give a prompt so that people with a similar background know which criteria to base their answer on.
+
+🐙🐙🐙
+
+Given that malaria and "deworming" are such high priorities to many EA's, seems like a good idea to have global health in the list of causes.
+
+Not the *survey* itself, but make it a lot easier to look up my donations & income from past years. I was tracking this on My Giving on GWWC, but now the data has migrated to effectivealtruism.org, and in the process my income data has been lost, and apparently I'm not allowed to add income data starting more than a year in the past, and my donation data is not aggregated at all. This makes the donation numbers I've reported in this survey rough and imperfect.
+
+Some of the cause priority questions were weird. How would I prioritize cause prioritization, for example?
+
+Include the option to give permission to share (some) data with local groups (if it's linked to an individual person, not sure if it will be as I haven't given personal details yet).  Just pressed the back button to add that now I know you ask for personal details on the next page. Also – more feedback about the next page, I find it annoying to maintain both GWWC and the EA Hubs donation profiles so I've not maintained the EA Hubs one. I needed to check my GWWC account to find out exactly what I've done but the site is currently down.  Also, on the coaching question, I've not received coaching from 80k, but Ben did put me in touch with a couple of people after a random email chain that we had going... that was part of what led to my current career path.
+
+Multiple survey links are confusing.  It makes it hard to authenticate a link.  Please use separate survey=&delivery_method= parameters so that I can use a delivery-method-tracked link with confidence that I am taking the real survey.    Is this a typo?: "18. Are there any other causes *you feel* that *you feel* are priorities?"
+
+Add options based on answers to previous surveys.
+
+Use this survey to gather ideas on spreading the movement and making it mainstream. I myself am coming from the mainstream and find EA a little bit extreme and homogenous, though I can deal. I think the core principles behind EA are valuable and universal but need some mainstream-ified talking points if we want to effect mindset shift.
+
+Preset values for income / insert some plugin from Giving What We Can so that a person does not have to search for the values on another page.
+
+ask more about the factors that led people to donate money/time
+
+Ask more questions about political and philosophical issues
+
+Ask more about positive a negative things about the community. Why do people want to be part, why are people driven away. Then optimize accordingly.    (In my case: driven away from the local student's chapter because of a very authoritarian, cultish and non-emotional-intelligent 'leader' of the chapter who wouldn't allow us to discuss philosophy and cause prio, but would rather just use us as his personal leafletting-for-EA-army. I still love the EA principles and ideas, I am just alienated by a part of the local community. So to optimize better: try to stay in contact with local groups and help them / correct them so they can be effective in finding and keeping new people)
+
+Get info on who would like to get involved how, mistakes/ dangers for the community, what we value in EA, what we don’t
+
+Perhaps include more political questions - I think a detailed breakdown in addition to the self-identified label would be interesting and potentially valuable.
+
+Thank you to you & your colleagues for doing up the survey! And to whoever is reading this, thanks for going through people's comments and improving it for next year! You're awesome.    - I think it would be cool if you asked people if they go to an effort (and if so, to what extent do they go to an effort) to make the EA community welcoming (in addition to the question you already included asking if they find the EA community welcoming). Although I'd be a bit worried about the results, because although some people definitely try hard to make EA welcoming, there are definitely also people who don't see the creation of a welcoming atmosphere as a priority.     In Q17 it might be good to include animal welfare and animal rights as separate cause areas, because you could argue they are quite distinct from each other. I also didn't see any options representative of value spreading or moral circle expansion, but I realise that there aren't 80k profiles on those cause areas yet so I imagine that's why they haven't received as much attention as other cause areas.     - In the career plan question it would be great if you could give people the option to tick more than one box, or to write something else entirely. My career plan didn't fit into any one of the boxes, but I didn't want to click "none" because it was more like a bit of "all" rather than "none" of the options.    - I think it would be awesome if you asked people which organisation/s they volunteered for and for how long, rather than only asking how many hours per month they volunteer.     And again, to whoever is reading this, thanks again for doing what you're doing! Hope you stay awesome =)
+
+Allow choosing several options in question 15.
+
+Felt the survey was quick and good. Perhaps, additionally, there can be some reflective questions about what the respondent feels went well/poorly for EA in the past year, and what they would like to see for EA in the coming years.
+
+I don't know how to improve the survey because I don't know what its purpose is.
+
+Using typeform instead of surveymonkey could improve user experience.    Comments on specific Q's:  - 16: I find the EA community (un) welcoming to different degrees, depending on location (both on- and offline.) I think there are stark differences and it would be great to have more data on that + permit a more nuanced answer.  - 12: I want to say that I used to be involved and that I would be involved would I find my current EA group welcoming.   Specifically for "international people":  - 19: Being able to tick multiple ccy boxes would be great.  - 28: I live in multiple countries.  - 32: I hope you will calibrate the political beliefs answer to the residence country of the responded bc they can differ vastly b/w countries. More nuance could be good (e.g. fiscally conservative but socially liberal is sth I encounter often.)    Thanks everyone!!
+
+Clarify education level - I wasn't totally confident about whether a medical degree counts as 'professional degree'.     Add 'not in employment' option to 'what sector is the organisation you work for in' question.
+
+Have a free text box for gender.
+
+Focusing on actionable insights: including questions where the answers from the community could change how EA behaves.
+
+More probing questions about beliefs and where they come from, to help uncover and address group-think, i.e. the disproportionate amount of EAs all "independently" - and wrongly! - coming to the conclusion that AI risk should be the biggest current concern, that climate change isn't urgent and only has a small chance of causing human extinction in our lifetimes, and that "most animal lives are net negative". Ugh.
+
+Ask stuff like: "Do you feel EA is moving into the right direction politically? Should it move more to the right or to the left?"
+
+You asked for my projected 2018 donations but not for my projected 2018 salary. I’ll be around CHF 100,000.
+
+Better idea how far through you are. Maybe a progress bar?    I don't really like having it in sections, but the benefit from having your answers so far saved if you leave makes it worth it.    If this is the end, there are things you could have asked about but haven't along the lines of moral views. I would be interested to read summaries of this data, but worry that it might put people off answering. If this question isn't at the end, it should be. In either case it should be made clear whether there is more to come before asking this question (the button below just says "next").    Someone commented on facebook that this doesn't play nicely with the browser "back" button.
+
+I pressed the previous button accidentally, and I lost all of my answers which was somewhat frustrating. It would be nice if my answers were saved, or everything was on one page.
+
+Have an option to send us a copy thru email of what we have answered
+
+For political/religious direction, I'm not really sure what to answer (or what e.g. center left/right, the various diet options, and some others even actually mean). It seems difficult to properly categorize the relationships I have towards these topics. (My overall attitude can be summed up as "don't really care, but try to do the 'right' thing when it has low cost.")    However, if the questions have relevance it could be useful to have a text field next to "Other" like the question regarding diet did, to enable some elaboration.    Great survey though, I feel like it has improved over time and the feedback from previous years has been noted. I found it to be very time-efficient, and look forward to seeing the overall results. Thank you!
+
+Just put a box for the city instead of the radio buttons.
+
+Gather data on ripple effect?
+
+I don't know who you are, or how you use this.
+
+What I have put on "other" on some of the other questions may represent alternatives that should be there.
+
+Provide a written response option for gender, rather than just "other".
+
+An open-ended question or two, like something the EA community needs to work on or an x-risk for EA
+
+I'd like to see more diversity in the EA movement. I'd like a post-survey analysis of where and how the diverse section of our movement came to learn about EA. I'd also like to see new questions in the survey that help to identify problems regarding diversity, equity, and inclusion that most of us might not notice or otherwise be unaware of.
+
+Make it even prettier and pay premium to lose the survey monkey branding.
+
+Question 13 was odd/confusing. Hearing about people's perceptions of problems w/in EA or threats to EA could be informative as well
+
+Ask more open-ended questions about how we'd like to get involved or why we are only involved at the level we currently are? Make the goals of the survey more clear at the outset. I'm not sure if this is more of a census or more to understand how to grow and be more effective.
+
+Atheism and agnosticism are far from being similar categories... Atheism is a belief, that there is no god; agnosticism is the knowledge of our own "ignorance".    I would welcome questions to the improvement of the EA movement, e. g. about decision making of the movement, transparency, the culture and the perception of the group, how the group treats low educated people, women, carnivores, criticism...
+
+I wanted to answer that my preferred career path is to continue to work in government to influence decision-making, but I felt that this was different than the option to work directly in a charity/nonprofit.  So I chose "earning to give" as my career path because my current government position does not largely impact EA causes.  However, by working in US government, my salary is lower than similar workers, so my earning to give capacity is lower than many in the EA world.
+
+Explain some key words, e.g. What is Cause Prioritization?  Allow more answers, e.g. I don't remember if I took the survey in 2017.  Allow an indication of how sure one is in each specific answer.
+
+it might be interesting to measure in more detail the level of involvement of self-defined EAs
+
+Asking to evaluate new complex unknows : how many years people tend to stick to EA ?
+
+I would prefer it to be single-page
+
+One question asks what career path we "plan to" follow. This is aimed toward young people/students, which doesn't include everyone taking the survey.
+
+1. That someone is not involved in a local group near them does not mean they cannot be quite involved with a local group they visit often - which is a possibility that did not seem to be acknowledged by the questions.    2. It would be nice if the "other" option for religious identification had a slot for elaboration.    3. It would be nice to be able to opt out of the finance and donation questions, à la "prefer not to answer" (instead of just not filling them), and also to explain why one is opting out.    4. Wouldn't it be quite useful to ask if a person works or has worked for an EA org? I put "nonprofit" in the industry for my work, because a lot of my freelance time is booked by 80,000 Hours.     Thanks so much for doing this!
+
+Replace "gender" with "sex".  The race/ethnicity categories are very US-centric. Split Asian into East/South Asian. Remove American Indian. Broaden Islander to Austronesian.  Ask for family religious background instead of or as well as religion.  Split Christian into Catholic/Protestant/Other. Add Chinese traditionalist. Remove Sikh. This better reflects  https://en.wikipedia.org/wiki/List_of_religious_populations  https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members
+
+Perhaps split the diet question into two, I had a hard time with it.
+
+Maybe more questions about how people get involved, or ask if someone (select few) wants to do follow-up to get a better grip on that
+
+What happened to the question "Which cause would you like to see no EA resources go towards?"?
+
+Remember for me whether I've taken the survey in previous years (and whether I've already taken it this year).
+
+Give more space for open ended feedback? (I'm not sure if you really value this information, but if you posed open ended questions, I'm sure I and others would answer in detail.)
+
+collect information about whether participants have tried to spread the word about EA to family, friends etc
+
+Consider using the LessWrong-survey as inspiration.
+
+Randomly kill pseudorational white cis brodudes infecting the EA community
+
+I wasn't clear whether to put my major or my current job specialty.  I put my major, though I am not a physicist.  I didn't see a place to put lifetime donations, but the next page is asking for it (edit: ah, but I'll leave it in cause it confused me).
+
+I miss a progress bar
+
+Try to have consistent questions from year to year so we can compare across years.
+
+Have 'work for an EA: Org' option on the 'which industry do you work in' question.
+
+Keep being awesome ^.^
+
+Be more clear one what to do about donations in various currencies on the donations bit.
+
+Ask more about inclusion and potential problem areas in the community
+
+Consider getting demographic data on education, parents' income, and disability to learn more about the make-up of our movement.
+
+There was one awkward grammar issue (feel...feel priority cause).  Otherwise, it was quite ideal and quicker than I expected, which is good.
+
+The career choices didn't seem very applicable to me; I want to both get involved in an organization that is doing good work and donate a large fraction of my money, but not optimize overwhelmingly for either
+
+There is no space for general comments about the EA movement, no demand for feedback on what EA organisations could be doing better (rather than just feedback on the survey itself), and the option choices in many questions seem oddly limited. Overall kind of a weird survey.     Also, it's a small thing, but the ethnicity question.. Come on, we're not all American! One box for Hawaiians and one for all Asians? None for mixed-race people? Given your (admittedly minor) focus on poverty, would you not be curious to know whether any people from low-income countries are joining the movement? (you should ask about origin not just current location.. many of us will be working in developing countries but actually from Europe or "the West")    One thing that's off putting about EA is the strong sense it's a community that is very happy to consist of two small clubs: a club of white boys in the Bay area and another club of white boys in Oxford. Now, you may disagree that that's the vibe you *want* to give, but let me tell you: that's the vibe you're giving.    This survey doesn't help, not only because of the US-centric questions, but also cause it just doesn't ask EA-sympathisers for any feedback. Do you think that you are doing nothing wrong? Do you even care?     So (answering the questions you didn't ask), I'll read the research, glance at the newsletter, donate effectively, think carefully about my career, be friends with the occasional non-sectarian EA that bumps into my life, but I really, really don't feel like going to the meetings or events or being closely involved in the "movement", because your movement gives a strong vibe of white-rich-boy exclusive with little appetite for self-reflection - not for me, thanks.
+
+Is that truly the end? Expected many more questions. This also would be 1000x more better if it were done scientifically, which it is not at all.
+
+Memes
+
+My experience of this survey is that it was written by people with little experience of writing surveys.  The questions seemed like they were in an odd order. Also, some of the options were a bit odd too.  To lump agnostic in with atheist and non-religious is problematic. I don't think an option to write in your own religion was provided there either which I think is an oversight.
+
+for the religion question, the "other" option should have scope to explain. More space for explanations generally.  that way you'll learn more.  Numbers don't tell the whole story.
+
+Maybe more about career choices?
+
+It should me more focused on what people expect to do as effective altruists, rather than how much money people expect to donate.
+
+Give an obvious, up-front time estimate of how long it'll take to complete. And then get that under 5 minutes.
+
+Ask for suggestions to improve "EA" (I think - consider doing more marketing/advertising)    Ask about negative experiences (inappropriate behaviour, harassment, etc)
+
+Local Linkedin group / local job search support
+
+Household income is hard to estimate in share houses. Provide some guidance for that.
+
+More open-ended questions to allow respondents to express more nuanced/detailed opinions on experience of EA
+
+Please show the number of questions/pages left.
+
+You might want to let people know that they might be uniquely identifiable by someone familiar with the EA community if they answer all questions. I.e. this survey is pseudo-anonymous rather than anonymous.    (I think there are more than 10 people, and potentially up to 100, who will be able to identify me based on the responses I gave, but that's OK with me.)
+
+For Race, please don’t put just “White” or “Black and African American”. There is a catagory for “Asian” and “hispanic” so why is it not all represented like this. White and Black are not races, they are skin colours. Words like Caucasian or Anglo Saxon, or European, or African, or... may be more appropriate.
+
+Crowd-source survey questions on the most popular EA forums.     Encourage independent local surveys, and request the results be forwarded to global.    Anonymize and publish the data! :D
+
+I feel pretty bamboozled by this survey. I started making donations to 'Giving What We Can' because of my concerns about how effectively some charities were spending their money. My interests are in charities that support people, particularly in their mental and physical health and wellbeing.
+
+SHORTEN IT!
+
+More specific questions, where you can get an insight into how much people agree or disagree with certain EA concepts/arguments
+
+Put other on the religious denominations. I am aQuaker
+
+Sleep better. Do more physical exercise. Smile more :-)
+
+US-centric race options
+
+Put some sort of timeline at the top/bottom so people can see at which point you're at in the survey
+
+It's absolutely optimal.
+
+Show completion rate - I considered leaving the survey several times
+
+Some sort of measure of how far through the survey I am.
+
+excellent survey
+
+You could ask about the charities people support with donations or volunteering
+
+The survey implicitly assumes a lot about channels of doing EA work, e.g., "volunteer" hours. It's actually quite hard to engage with it if you've been optimizing hard for EA ends for a long time because (for me, anyway), the implicit assumptions don't apply.
+
+Some of the choices don't give a "No" option.  Like the 80,000 hours career counseling question...I don't receiving coaching and don't want coaching.
+
+Circle back with the overall results and what you will be doing to action any recommendations
+
+Could you use skip patterns to ensure students are not asked employment questions. Skip patterns would allow respondents to only answer questions relevant to you.
+
+feelfree
+
+It seemed like a good, reliable and valid questionnaire.
+
+Progress bar ;)
+
+It's pretty long.
+
+Ask how people want to contribute to the EA movement. In my case, I would like to get much more involved with the local group and would like to receive coaching.
+
+Ask for general feedback to about EA as a movement?    Heres some short feedback: I think people I've met in EA meetings have far too much confidence in their ability to do good. I don't mean that people in general cannot do good, but rather that people individually underestimate how hard it is for them to excel at doing good.    One small illustration of this is that people call themselves "Effective Altruists", as if being a part of a group that WANTS to be effective at altruism necessarily makes you effective at altruism. Making a facebook group called "Profitable Businesspeople" and calling yourself a member of the Profitable Businesspeople movement doesn't make you profitable in business, and neither does being part of an Effective Altruism movement make you effective at altruism.     This should really be perfectly obvious, yet I too often see "EA's" congratulate each other and themselves simply for being part of this movement, rather than for actually achieving something valuable.    For example, some people promote the idea of funding  housing projects where EA's can live without having to work, so that they can focus on EA. I'm not against this idea IN PRINCIPLE, but the "Effective-Altruist implies effective altruist fallacy" causes some people to not focus on the obvious questions about this, such as: how exactly are we going to make sure that these people do effective work? The world is full of non-effective altruists already, so how do we make sure this housing project doesn't just become another collection of naive hippies that isn't disciplined by real world metrics? The fact that they call themselves Effective Altruists is close to zero information on this.    By the way, none of this criticism apllies to the serious people at CEA, 80k etc. It applies to the young stusents who go to EA meetings but haven't done anything really challenging in their life, and think they can just brainstorm some half-baked ideas, formatted in rationalist-sounding terminology like "Bayesian updating" and "optimization", and that makes them an "effective" altruist.    In summary, I am seeing early signs that this movement is letting people in too easily without slapping their naive and undiaciplined thinking out of them. My prediction: unless people in EA actively work against this process, it will continue to worsen in the near-term future and will waste some of the work that serious EA people have put in this.    (Don't mistake this answer as pessimism about EA though. I'm generally very positive about this movement: this is just a small concern)
+
+City list could have autocompletion instead of a limited list of cities.
+
+Perhaps more information on what you're looking to do with the information
+
+Make it less biased towards people who approve of how Effective Altruism is run. The Effective Altruism charity is highly flawed, but this survey doesn't let me express this opinion or explain why.
+
+Please give me the links and websites to the other effective altruism groups in my email ( including fb groups) provide career advice, and maybe mentorship oppurtunites, I would like to talk to someone about my future
+
+Use score voting without an exclusive top choice -- that unnecessarily skews results.
+
+More write in options about religion. I would've inputted that I was raised Christian and identify as Christian, but that I haven't been practicing and am agnostic.
+
+Politics question: centred on what?  US or UK or Chinese politics?  Better to do a mini 2d politics survey to get some meaningful info.  Otherwise all you get is where people see themselves compared to a random sample of people they are thinking about at the moment.
+
+Maybe add more "Don't know/Don't understand" options. I found the question about political leanings hard to answer, but didn't know how to indicate that, so I left it unanswered.    Maybe it could also be nice to have a progress indicator, like a way for me to know how far along in the survey I am?
+
+More rating answer choices to gauge the common trends
+
+Don't put the attention check on page one.  :)  Lots of potential small improvements to the survey, but generally it works well.
+
+Allow us to suggest what things might be bad with some things I've seen pushed by EA eg open borders and universal income
+
+make it shorter
+
+send me a cookie,lol.
+
+This version was much better (i.e. shorter) than the previous one. However, I don't really like answering the same couple of questions (e.g. how I got involved, where did I hear about the EA the first time, etc.....) multiple times a year - in EA survey, in 80k survey and elsewhere. Would it be possible to create some kind of "profiles" in which I would answer these questions just once and next time 80k or EA survey or anyone else in the community wanted me to fill in their questionnaire these questions would be pre-filled so I dont have to fill them in again? This would also allow you to conduct some longitudinal research e.g. into how does the preference of EA causes changes over the time WITHIN participants or in case of 80k they could see how people gradually leaning towards EA careers - in my opinion it would be much better than comparing group results. Or is there any chance you can connect my results with the ones from previous year? even if I wanted I probably wouldn't be able to recollect e.g. which causes did I prefer last year. You can offer the option of "creating a profile" for example in the very end of the survey which would save all the data and users might be more willing to save all the work they have put into filling the survey as some E-shops/airlines do it.
+
+Pas de question sur les finances
+
+There was no option for 80k career advice that was not wanting it, only yes, no but want it, or none of the above.    Also mild preference that probably doesn't matter, but there were a few questions where it would have made more sense for me to be able to click multiple things, such as atheist and Buddhist. Not that important though.     You didn't ask which causes the donations went to. As an EA, that's one of the survey results I'm most interested in.
+
+Make it shorter
+
+Less questions
+
+maybe some trollyology questions.
+
+Are you in compliance with GDPR regulations? I hope you are bc I am providing  here a lot of info about myself :)
+
+More comment boxes for "other" responses.
+
+Some of the answers don't make sense and I would like to give context. E.g. a new group is starting in my country - it skews a lot of the answers.
+
+Please define and/or give more information about household and individual income. As a non native english speaker I had to research the information and I am not sure if I found the information you were looking for.
+
+Ask for insights into donation decisions, maybe what percent of donation money goes to an EA organization vs non-EA.
+
+How would you express you were married and polyamorous? Also would be good to have more questions about community stuff, eg feeling welcome
+
+it's too long
+
+I don't like ticking a box that mixes atheists with agnostics - and I am surprised EA would blend the two.
+
+Give option to drop e-mail adress to get results send .
+
+- is it monthly or yearly household income?!  - the scale in the cause priorization matrix probably does not produce valid results. it is not a clear increasing scale
+
+no suggestion..here to learn
+
+Have a question which can (noisily probably but ideally not) track attrition rates of long term members.
+
+Not sure
+
+You should ask if single people consider themselves as polyamorous.   You should ask if people who are currently employed are looking for another job
+
+show which page you are on in the survey
+
+tell of findings and outcomes from previous years' survey
+
+awfully long
+
+N/A
+
+By proving us with information most of the time and Products like the T-shirts and Visits.
+
+You could ask about the impact of peoples jobs vs just their monetary donation levels. I do public health research - the job is impactful, but the pay is crap.
+
+You do not talk about wealth (as opposed to income).  This is a general gap with EA campaigns, but is highly relevant for us baby boomers thinking about how much of our savings to pass on as inheritance or to donate.
+
+I noticed that my sense of cause prioritization isn't coherent at all. This isn't feedback on the survey, but its interesting to note that I don't know which cause is most important and I also don't care. I feel my impact will be in the future and I have time to decide.
+
+It would be interesting to ask how often the person brings up EA and explains it to their acquaintances / how many people within their circle are aware of AI
+
+Ask about community of EA - it's effects on members, and what could be done to strengthen the community's bonds / encourage brave EA lifestyle and EA evangelism.
+
+The political spectrum question is unclear about what country's political climate is being used as a standard. For example, there are plenty of American center-leftists that would be seen as right-leaning from a European perspective.
+
+I think it's pretty good.
+
+The question should be : How can we improve EA  and the EA community and communication?
+
+Mobile version tends to jump up the page when you hide the keyboard on my android phone. But I think that's a surveymonkey problem.
+
+Find a way for members who don’t have enough resources to make significant monetary contributions to participate in EA.
+
+maybe survey about people interested in devoting careers into generating/processing EA evidence
+
+It's pretty good, well Done
+
+Questions about what EAs think the community is and is not doing well
+
+Prizes! Like stickers
+
+Provide alternatives for doing good other than money donations, for young people still studying it is not very easy to donate much, which might create a feeling of helplessness.
+
+Include more problems in the priorities:  Pollution is not even in the list, but is the FIRST global cause of death, and unsustainable production and consumption models, the first reason that it is the first cause of deaths and without any actions taken, things will get worse
+
+2.No answers should end the survey. 9. Option for taken the pledge privately but not declared publicly? 15. Option for a combination? 19. Option for different currency in different years? (I’m sure I’m not that unusual in moving around - we’re likely to be a mobile bunch!) 34. Option for freelance? (I’m sure there’s quite a few!) 37. Display conditional on employment. 39. Yes / no questions - include ‘don’t know’ option. A few suggestions - I used to design surveys for a living!
+
+It would be great to know exactly why you are collecting this data
+
+The political delineations are confusing. (1) If you're a US citizen those delineations are going to mean different things than if you're European. (2) Most of the categories seem to be about social views rather than economic views, but libertarian also includes economic stances. It may be worth separating those or specifying that you're asking for stances on social issues only.
+
+Explain what it is for.
+
+Include stuff about ethical views (what theory of right action you subscribe to, what view of well-being you think is correct, etc.)
+
+include law. also some longer form optional answers? also split the questions with multiple sub questions into smaller areas
+
+As I suggested in 2017, briefly spell out the goals of Effective Altruism, and use the term "Effective Altruism" rather than just the initials.
+
+You ask about pre-tax income and then amount donated, but different countries have different tax rates. This will make it hard to calculate % of disposable income donated. Recommend you ask about post-tax income. Also question about how welcoming EA community - are you referring to local chapter or to community as a whole? Local community (Sydney) excellent, broader community insular and dogmatic.
+
+in mobile the cursor jumps sometimes, that sucks
+
+The questions about careers give options of earning to give, doing research or working for a non profit as though those are the only options to be an effective altruist. Working for government, or in consulting, is also valid. Also you can both earn to give and work in an altruistic career - it's not necessarily one or the other.
+
+Provide better options for the "Career" question - I work in software development, and it took me some time to figure out which answer choice best represented me.
+
+Some of the demographic questions are ambiguous/non-exclusive. For example, married does not necessarily imply monogamous. For the religions, each can be interpreted as a set of moral injunctions, cultural practices, or cosmological beliefs, allowing almost any combination across the three aspects.
+
+Add an "I don't remember" option for whether I took the last survey.
+
+Help people remember if they took it or not already
+
+For question 7 I wasn't sure how to interpret "get involved" (I don't currently have any commitments or serious involvement), and put in roughly the year I started reading & following the movement online.
+
+Ask more about the atmosphere in the community- it can feel pretty incestuous!!
+
+There were one or two questions that had options that all didn't apply precisely to me.  So perhaps include an "Other (please specify)" for those questions too (even though that may cause you more work)?
+
+I would like to know more not only about current cause priorities, but also about what people consider their terminal values
+
+Send me an email to remind me to take it next year
+
+The current employment question did not offer an option to select "Effective Altruism." Given I work full time for an EA organisation this presented me with a dilemma about whether to select "Nonprofit," which is somewhat misleading, or write in "Effective Altruism." This could be solved by having a yes or no question which asks if you currently work for an EA org.
+
+Make it longer and send out free EA stickers to respondents
+
+Add more interesting questions or options - e.g. even more causes
+
+Ask questions about the mental health of the members and how connected they feel within the community.
+
+:)
+
+(It is probably worth adding a "there is no local EA community" option, on the local EA community questions?)
+
+Fewer questions.
+
+"Which industry do you work in" needs a "I am not employed" option
+
+I think the survey is really good! :)  You ask if I donate money, but you did not specify if I a donated to EA-related orgs.   You ask me about my career path, but you did not let open a "Other" choice rather than the three you listed.
+
+I'm not sure why the answers to these questions would be useful or interesting.
+
+I prefer Google Forms or Typeform but everything is super clear! Maybe some information about values/political beliefs would be interesting. Otherwise, great :)
+
+Incorporate anticapitalistic ideas. System Change not Clean Meat.
+
+Refer to "Animal rights/welfare" as "Nonhuman rights/welfare" as it's generally a more accurate framing (humans are animals, etc).  Separate options for Atheist and agnostic in religious options, as they are considerably different beliefs.
+
+Checkboxes for gender question
+
+Please add Taiwan (R.O.C) to your list of countries. I realise it hasn't come up on your list because many do not recognise it. However, it is not a political statement to do so. For all practical purposes it is its own country. I do not live in China.
+
+Ask questions about how we would like the EA movement to develop in the future. This question wasn't asked.
+
+I don't remember if I took the survey last year
+
+rather than "Other" as a gender option, self-reporting (fill-in) is more inclusive.
+
+Good survey, not too long
+
+Some questions should probably be more precise. E.g. how did you get into effective altruism? Does it ask what my first contact was? Does it ask what had the largest influence for me becoming into EA?
+
+Need to tighten up your sampling methodology; for me to reply via ACE’s twitter post is convenience sampling =/
+
+Add progress bar or percentage
+
+you guys could provide some concrete example to see how people try to solve problmes
+
+It's good!
+
+Why do you want to know whether we are monogamous or polyamorous? ;-)
+
+Include a progress indicator
+
+Use a different questioning scheme for the question with the priorities.. The way it is now, while spotting the top priorities of each survey taker, it fails to to extract the information of the real prioritisation. I think it would be better to let people rank the different causes in an order.
+
+Provide incentive by entering participants in a raffle.
+
+Clarify what's meant by the cause priorities question - is this what we personally can justify to ourselves based on our own opinions/beliefs, or what we genuinely believe to be true (which should be based on how what other more intelligent people think)? In other words, would it be ok to go straight to 80k and see how they prioritise the issues, and answer according to that?
+
+Allow my EA hub answers to be counted here so I'm not double answering things.
+
+The Technology (or Software) sector is weirdly described in your business field pop-up. I had a hard time finding it.
+
+Put the most common options first e.g. US, UK for country
+
+I don't know if you'll give me an option to have my answers sent to me, but that would be nice (would also increase likelihood I can answer Q39 next year...I can't remember if I took the survey last year and can't find a Thank You email indicating that I did).
+
+Adapting income boxes to more flexible circumstances, ask questions about future EA plans not just current EA activity
+
+You need a place to say if people work for an EA org right now! That makes things like the volunteer question a bit odd for someone like me, who works full time at CEA. If I didn't I might indeed volunteer.
+
+Include more diverse gender options and perhaps a section on sexual orientation. Would also be interesting to get minorities’ perspectives (ethnic, gender, etc.) on how EA treats them as minorities - I think diversity in EA is a major issue and we should track our progress regarding how we welcome people from minority backgrounds.
+
+If you could add some forecastable outcomes that surveyees could put probability estimates on we could see how likely the community thinks various outcomes are and how accurate the community is.
+
+- I tried taking the survey in the last three years I think, and never finished because it was super stressful, in part because there were too many questions that required me to have strong opinions on difficult topics iirc. This year's survey was much less stressful, I don't know which things you changed, but good job  - cause priorization question: I would have liked an option for indicating that I (do not) think a cause is important, without having to do a ranking of all causes I deem important. ("not sure" might mean that, might also mean "I'm not sure if I support this cause at all", so that didn't help)  - politics question: Could have used a reference frame. Right/Center/Left as conceived in the US, Europe, ?
+
+The survey was an appropriate length and asked straightforward answers. I don't think it needs improvement.
+
+1 - Write-in option for the religion question. I'm an atheist but I also identify as Unitarian Universalist and I'd like to be able to write that in.  2 - Broader, less America-centric ethnicity options. (I, Bruno Parga, would be happy to talk more deeply about this with survey organizers.)
+
+Include S-Risks as a cause. Even MacAskill mentions them nowadays! More questions about what developments we like and what we currently don't like in the movement. Wasn't the last survey longer in that regard?
+
+The survey is fairly quantitative rather than qualitative, I suspect there are useful qualitative questions you could be asking regarding perceptions of different groups.
+
+It took me back to the beginning after finishing this question... not sure what happened. Also questions about EA's moral beleifs and whether they are considered unusual by their friends and family would be interesting.
+
+Not have the survey time out if I stay on the same page for 10 minutes. Specifically, once I press the Next button it just redirects to the first page of the survey. Fortunately all pages (except the last I filled out) remember my answers.
+
+I do research on the psychology of effective altruism. Questions about the psychological characteristics of EAs seems really important and should probably be included.
+
+I actually don't remember if I did the survey last year, so answered no to be conservative.    For the is EA Welcoming questioning I answered how I perceived it before joining, and how I see others reacting to it/people talking about not wanting to talk to new people.    Slightly disappointed not to see any questions related to sexual harassment/assault after Kathy's efforts on that front.
+
+Put Sydney on the cities list :(
+
+add "for profit direct work" as option in career path
+
+Shorter and less invasive.  Politics relegion and ethnicities are meaningless labels
+
+Ask for commentary on how EA is doing in general.  I was very disappointed to be rejected from EA global.  Why do you have to limit the numbers in the conference?  Makes you seem very exclusive and ive blocked some communications from EA groups I used to enjoy following.
+
+You could include a question about mental health :)
+
+I think this might be a good way to get feedback on projects/efforts, e.g. some of CEA's community work. That type of coordination to help with feedback and planning could be valuable.    I also think it could be worth considering linking up with local groups in hubs to add on a few location specific questions for similar reasons as above, though perhaps not depending on time/effort tradeoffs.
+
+*Concretize the political sympathies. Left/centre/right in relation to what?  * A calculator for ones income/donations might be helpful. Or a link to an appropriate tool.  *Perhaps change ethnicities? My gut feeling is screaming americocentric when I pick white.
+
+Publish more engaging visuals of the results.
+
+multiple choice for income has the same result but feels less invasive.
+
+The option for EA career plans includes direct work for a non-profit, but not direct work if it's at a for-profit, which is also a possibility if no non-profits exists in a given area.
+
+Ask weird/cool optional questions like the LW and SSC surveys. Ask about birth order, personality types, family income growing up, things people do/don't like about EA, LGBT status, results on personality tests, etc. so we figure out who EAs really are
+
+I tried just yesterday to find the 2017 results on political affiliation and couldn't
+
+The religious option should let people check multiple choices. It says you can but currently you can't.
+
 ## donation_plans_comment  ##
 
 
@@ -1773,798 +2565,6 @@ I hope to donate everything above a basic level to support my household (will be
 I plan to start donating more when once graduate.
 
 My fiancé and I are currently collectively giving 10% and intend to increase it overtime. I would like to do at least 20% if I make $100K, and more as it goes up.
-
-## improve_survey_comment  ##
-
-
-
-I was sometimes unclear when it was referring to "effective altruism" the set of ideological principles versus "effective altruism" the movement organized under that name.
-
-I'm guessing that you could ask for more data points: maybe there could be a compressed and expanded survey.
-
-Maybe state how many questions there is, or give an estimate of the time it takes.    Perhaps ask, optionally, for an email address to send follow-up information.
-
-optional justifications for why we chose the ranking for the priorities?
-
-Yes - the list of cities that people are from seems very limited and US-centric - I picked London even though it is the other side of the country!
-
-This is a very tough survey to put together and I think you guys have done a great job.  All I would say is that there are too many questions which are too difficult to answer by checking a box.  Keep the 'factual' questions (e.g. age, income, groups that you are a part of, industry, etc.) and maybe try to hone the subjective questions so they give a more definitive answer.  The questions in which charities are the most important to you was impossible to answer correctly and if I had just read an article or seen a headline on one topic or the other I may well have changed my answers.
-
-clarify questions to separate EA movement from individuals who are aligned but not part of the movement.
-
-It was fine although a little US-centric
-
-slightly more detailed questions as some left me thinking that none of the answers applied to me
-
-Change some of the questions to reflect previous answers.
-
-Dunno
-
-Don't ask for the income. It doesn't matter
-
-reduce overlap in relationship question
-
-1. Less discrimination. When you ask someone for their country or city or currency, there should be a drop down menu for all options not just a couple from the Western world (That is less than half the population of the world have far lesser problems than say people in the Middle East or South Asia)   2. The developing world needs much more attention than this survey provides. I am not sure what audience did you have in mind when you guys were creating this but this is clearly meant for an upper-middle class white Western crowd. That is deplorable, considering especially that it is coming from people who are allegedly trying make the world a better place. Disappointing to say the least.  3. Should ask people about specific regions that they are interested in donating to in the world and why.  4. I understand that Public Policy is not your forte but still you can ask people if they would like to get involved in ti and to what degree and which areas etc.  5. Do not mind the critique, it is only meant to make things better. Thanks
-
-not sure
-
-Additional comment boxes should be provided for people who don't really match with any of the provided options (including 'others')
-
-I said this in response to an earlier question: If you put 10% into a DAF years ago, from which you now make annual donations, it's not clear whether the DAF creation years ago should count or the annual donations from that now. To be consistent in comparing to annual income, it should probably be the former, but that's not how I think of our annual donations.    In the relationship question, "married" and "polyamorous" (and multiple relationships) are not mutually exclusive.
-
-Ask for criticisms of EA.
-
-Ask what normative ethical theories they are and why
-
-> 15. What broad career path are you planning to follow?    This one could've been better, I think. I'm not sure which one I will choose, so I had a hard time answering. Adding a "not sure" or "Torn between Earning to give/direct charity" would've been good.    > You should have a question about strategies used to make sure you actually keep giving, and keep giving more (as a percentage) of your income as it keeps growing. I fear many fall in the trap of getting used to higher salaries, and so going into the career with a "pure heart" but getting "corrupted" along the way. A clear strategy is needed for most, I think.    > 31. Which of the following choices best represents your religious beliefs?    There should've been a "spiritual" or something like that option there, I think.    > 32. Which of the following options best represent your political belief    I would've liked a "Green" option here.    > Links to explanations on the list of causes would've been nice.
-
-I am unsure how to put down Secular Jewish when that's not really a religion or a race, but it seems a significant enough population among socially relevant groups that it is worth statistically examining. Maybe make the religious beliefs option a multiple checkbox?
-
-Ask EAs whether they really can assess deeply or at least quickly and roughly scale, neglectedness, and solvability of a problem, or effectiveness of a proposed solution, project or organization. And if they can, how do they do it. I doubt there are many EAs who can do it reliably.
-
-Its good ;)
-
-Great survey, easy to answer and good choice of responses :)
-
-Don't ask students which industry they work in?
-
-The city list was a bit odd. It would make sense to constrain it to the country selected.
-
-Reassure us that survey responses are saved.  Show a progress bar of the percentage of the survey I have done.
-
-Indicate the percentage of the survey that I have already completed, to give a sense of progress / remaining questions.
-
-Ask for new ideas on how EAs can make an impact outside of career alignment or donations, for example could political and policy movements become a key point of action for people interested in certain issues?
-
-Make it more accessible on the forums, we should have a shitposting page that’s more public than the current uber-serious all the time page I currently read through
-
-Provide meetup opportunities / networking
-
-I think you can add an "unsure" option for question 15 "What broad career path are you planning to follow?".
-
-More free text to understand issues/ contradictions participants have with the movement which may be limiting growth...e.g for me, heavy focus on artificial intelligence, and uncertainty about potential harms of a course of action e.g donating to one charity e.g what are the effects of using insecticides on antimalarial nets...could we be doing more harms in future...
-
-All is good.
-
-You're assuming a consensus over EA goals and means that I likely don't share. Consider adding question on what EA means to your subjects.
-
-more ideas for what causes have been suggested to be prioritized, as examples in the "other" section
-
-You need to be more specific when asking "how much have you donated?", since I donate to EA causes like GiveWell/AMF, but also to non-EA things like EFF/DonorsChoose
-
-STOP TRYING TO TRICK ME INTO CREATING A PROFILE
-
-Make the survey more inclusive of people under the age of 18.
-
-Asking what city people live in is personal identifying information for people who are on the EA map and live in a city with few EAs. A person Mike comfortable with being on the map, but not want to share other information like salary. Asking what country, or state or province of a large country, might be better for write in answers.     If you're trying to match up the same people's results over time, bear in mind that things like religion and gender can change.
-
-A couple more comment boxes such that there's one per topic
-
-It was a very well-constructed survey!
-
-I think we should capture emotional and functional reasons, benefits for choosing EA, and also journey to becoming an EA for those who are - This would help you understand how market for more recruits and drive wider behaviour change
-
-You ought to have given an "I don't remember" option for question 39.
-
-The location bit was weird; I expected it to change the list of cities after specifying that I live in Canada, but it didn't, so I guessed that the "London" on the list was the London in the UK, and added London, ON as an "other", but it was a bit off-putting and confusing.
-
-Include section on concerns about the movement and its leaders. Especially with options related to diversity, attitudes, misogyny.
-
-Clarification / elaboration on the cause prioritization question.
-
-For cause prioritization, make it a numbered ranked list (with allowances for equal ranking if desired but honestly I think nonequal forces more info)
-
-Cultural issues (e.g., inclusiveness, broadly construed) within EA are a perennial topic of discussion. Some questions about people's perceptions of EA culture might provide useful data.
-
-Provide options for employees to list more than one work area, some of us have two jobs in different industries (as in, we do non-profit direct work plus supplement income in the cooperate world)
-
-For my perspective it would make sense to not assume everyone has finished school, but that might be not applying only to a small percentage of the people taking this survey. Also for some people other languages might help, but I see the big effort that would take.
-
-The question about religion should contain something like "pantheist" or "religious (no particular denomination)". I felt there was no option to represent my views. I believe in God but do not identify with any established religion. The "atheist / agnostic / non-religious" does not represent me either because I don't DISbelieve in God, neither am I agnostic about the existence of God. I guess in some sense I am "non-religious believer" but the worldview of someone like me is very different from that of an atheist, so that category is too broad.
-
-Add 'Earth Science' to your list-a-ronie back there.
-
-I can't get to my donation history, all the sites seem to be down or have migrated, it's kind of a pain in the ass. I just put in roughly correct round numbers for this survey.
-
-I already mentioned, dont include a broad range of social sciences only under "social science". IR and Law deserves its place, so as legal services and politics in term of my occupation.
-
-Very good job on providing "estimate time to complete the survey"
-
-more clarity on the period that the questions apply to: today I have finished my coursework and am about to graduate from my masters program. I plan to start work full-time in a couple weeks. I was not sure how to classify whether I was a student/worker/out of the labor force.
-
-Maybe introduce the question on occupation before the income question, 'cause that's how it's done in most surveys and I was confused if it was gonna ask.   Otherwise it's agreat survey! Yay survey design!   Thanks for doing the work you guys do.
-
-By making more effort/using different strategies to advertise it in order to get a bigger pool of participants for the survey. Judging by the membership of local and global facebook groups, it looks like there are way more self-identified EAs than the amount that answer this survey. I only found about it by chance myself.
-
-1. It would be interesting to know the donation allocation between EA vs. not EA charities.  2. I am in an open relationship, which in my opinion is neither monogamous nor polymorous. No "other" option was given.
-
-I am a student, but I was asked which industry I work in. I answered education, but to discriminate me from academic staff you might want to add a 'student' or 'unemployed' category.
-
-There was a typo in Question 18 =) A few duplicated words.
-
-In the "priorities" section, it wasn't clear to me whether it was "what should effective altruism prioritise?" or "what should humanity prioritise?". For example, nuclear security is very important, but I think it's already being tackled quite well, whereas climate change is super-important and I don't think we're doing nearly enough.    In short, I guess I wasn't sure whether to take account of neglectedness.
-
-Increase transparency why the data is gathered and how it is used purposefully
-
-Add a "Not sure" option to question 39.
-
-Seems thorough enough. Please share results with the public - I'm especially curious what others believe are causes to consider in the future.
-
-Check concept is understood by giving example
-
-provide a wider range of choices for causes to support.  Include things like biomedical research, climate engineering, anti-asteroid or other threats from space defense, anti-aging research, human augmentation research, fusion research, search for new worlds, and other big pay off research/ engineering projects.   I would recommend splitting out your question on reducing of "global warming" into multiple approaches:  reducing CO2 emissions, building nuclear power plants, and next-gen climate engineering (aerosols /CO2 sequestration/ etc.  People who are in favor of one approach are going to hate the others.
-
-FYI, I can't remember if I did the survey last year, but I probably did.
-
-Differentiate nationality and country of residence. (I'm a UK citizen living in China, which means I'm statistically unrepresentative of my area)  Maybe ask about people's motivations for being involved in EA.
-
-Not sure if I took part in the survey last year.
-
-Question 17 may benefit from having an option between "I do not think this is a priority..." and "This cause deserves significant resources...", as It seems like quite a big leap between these two responses.     Maybe have "Low priority" as an intermediate, or change the phrasing of the first to "I think this is low priority, so should only receive some resources.".
-
-Progress bars are always appreciated
-
-There are some questions where the distinction between effective altruism the idea and EA the organization are blurred.
-
-A spreadsheet with numerical values that summarizes results would be helpful.
-
-Would be good to make this into a panel survey, following people over time. This would save some answers (like "how did you hear about EA and when") which probably get noisier over time with no new information. Would also enable seeing trends. Can be optional, of course. A good way to implement this is to have people e-mail themselves a unique ID with some code so it comes up in search later, then have them enter this unique ID in the survey every year and let them skip questions this way.
-
-Drop down list of countries should have the three most common countries listed twice, once at the top and once in alphabetical order. Do this and 99% of people won't have to waste time scrolling down.
-
-kittens
-
-Question 37, "Which of the following best describes the principal industry of the organization you work for?" would benefit from an option for those not working, like the other questions supplied.
-
-My income/donation questions may be misleading/misinterpreted since I started my first job in 2018.  I'm not sure whether it's worth adding a spot for "predicted income in 2018" or "2017 income divided by time employed" to alleviate this.
-
-Asking about experiencing sexual abuse/any other discriminating/negative experience within the EA community would be interesting.
-
-More questions on improving EA, more self-reflection.
-
-* Ask for survey improvement ideas BEFORE releasing the survey.  * Survey question ideas in this thread http://effective-altruism.com/ea/1g3/why_how_to_make_progress_on_diversity_inclusion/
-
-Turn relationship question into check boxes  Add "I don't remember" to question 39
-
-Connect it to the SSC-survey
-
-Sexual orientation question; allow people to type in their ethnicity.
-
-The issues you ask us to prioritize are not inclusive of the real core systematic problems that we need to address in order for altruism to be sustainable and for the people.
-
-Just a little thing, but in the question about political beliefs (left, center left, etc), you could somehow acknowledge that different countries and even continents operate on different scales (as in, have different ideas about where the center is). I answered as a European (picking center left), so if you assumed the American scale, you'll think I'm more to the right than I am. In America, I would be probably far left, believing in things like single payer healthcare, 15 dollar minimum wage, etc.
-
-EA Forum should probably listed under 38, unless I'm blind
-
-Seems ok!
-
-Start the career title starting with "Telecommunications" with "Technology" so it is easier to find on the list.
-
-Ask people to give feedback about how the movement is doing, why they are more or less involved, what would cause them to become more involved, what things they like about the movement, what their vision for EA is, for the world, etc... More optional long form questions. (ask this question at the end of the survey)
-
-Either get rid of the "in a relationship (polyamorous)" category altogether or just make non-monogamy an extra tickbox (hint: you can be married and poly, and you can also be in a relationship but neither monogamous or polyamorous).    Add option for the "try pledging" bit of gwwc, as better info on the pipeline to a full pledge seems useful.
-
-More questions about polyamory, that shit is interesting    JK. More questions on how EA groups / the EA movement can improve. I know many people, including myself, with deep concerns about EA groups and their effectiveness. A local EA group I've been a member of before doesn't really do much other than reachout events a few times a year and weekly meetings about basic EA topics, which is a big issue IMO. Even EA Global seems like a big waste of money to me, which could be super arrogant of me to say considering I've never been there, but from what I can tell people are individually spending thousands of dollars to attend an event when that money could do way more good elsewhere.    But of course that's a long discussion. My main point is that you might find it useful to get people's thoughts on this stuff within the EA Survey.
-
-Just happy to get the results.
-
-Add Sydney to the cities list :)  Australia does tax years from Jul-Jun (so struggling businesses don't have to get their tax done during the xmas rush)... which makes it slightly awkward to calculate taxable income during the calendar year instead... would it matter if you asked "last financial year" rather than last calendar year?
-
-Ask about the extent of people's moral circle. Does it include non-human mammals, vertebrates, insects, mollusks, artificial intelligences, alien life forms
-
-I don't remember why, but this ones is less frustrating than the one last year.
-
-Would like it if it had a question about disability or something, i am high functioning autistic - suffer from depression
-
-Please consider including questions providing more insights on the well-being and socio-economic life circumstances of effective altruists. Your survey might be very helpful in identifying and addressing many of their problems, leading to adjustments and multiplication of the chapters' positive impact.
-
-Don't know. It's excellent as it is.
-
-Maybe an option about EA local groups for cities where about only you are interested, if you want to attend but have a hard time organizing it, getting people to come etc.
-
-This survey took me longer than 5-10 minutes. However, I think it is good questions you have asked. I would like to have had te possibility to give comments on most (maybe even all) of the question to clarify some things. Especially as I wasn't sure which option to pick when there were no "other" option on some questions.
-
-Ask questions about what is turning people away, what made people get more active, and what support do EAs need.
-
-In the household income survey it wasn't entirely clear whether it was referring to monthly or annual income. In the UK most surveys ask for your annual income, and in other EU countries they tend to ask for monthly.
-
-Understanding what activities make people feel most involved in the community (eg what can meet ups / local communities do?)
-
-It is great as it is.  Maybe you should encourage local group leaders to share it?
-
-Is effective Altruism a known concept within your peers?
-
-Allow us to download our results so I can see what I said in previous surveys.
-
-In question 17, the choice "Meta charities which direct resources to these causes" appeared near the top of the list, below "nuclear" and "climate change". It was confusing whether "these causes" meant the preceding ones or all of the mentioned causes. I ended up assuming the order of the alternatives in Q17 was randomised and thus that "these causes" were all the causes in the list.    I remember it as being longer last year. In any case, it felt quick and easy to answer this year. Good job.
-
-Tell me how many questions there are in advance.     Give a direct link at the end to the current results.
-
-Superb time estimate. It took me 20 min and 19 seconds, and I take relatively long to complete surveys. Thanks so much for being honest about the time commitment required.
-
-I felt that the study did not apply too much to me as a 19 year old, but I guess that is just the nature of things. Maybie shape some questions or options more open to such a demographic
-
-Feels good this year 😀
-
-add state/provinces & countries to the list of cities (for the Q about which city do you live in), since e.g. there are multiple Madison's, maybe multiples of some of the other listed cities, as well.
-
-I think you should include some more questions about how much we value different parts of the EA movement / ideas / development (e.g. from 1 to 5, how well organised do you think the community is etc.).
-
-Add consulting to the survey, or at least management consulting (an 80,000 Hours studied if not recommended career path)
-
-Some of the Hyperlinks dont work
-
-An E-mailed summary of the results would be nice (can't remember if you already do this)
-
-Replace: "Direct Work at Charity or Non-Profit" with "Direct Work, e.g. Charity or Non-Profit". Because if I'm working in industry or policy sector on responsible deployment of AI (that is not a Non-Profit) I shouldn't have to check "Earning to Give"
-
-Can you have one of the "Percentage complete" bars that increases as you go along?
-
-Have a progress bar or note at the beginning how many questions they are.  Also, the city/town question is a little weird to answer if you don't live in one of the listed cities so perhaps consider revising.  Thanks for all your good work!!
-
-No biggie, but check a little closer for typos. Otherwise, I think the actual substance of this thing is pretty good.
-
-Ad a "I don't remember" opinion for question 39 - I am leaning for a "yes" but I am not quite sure. :)
-
-Think more on what you're trying to achieve
-
-I’d be interested in asking people how much they donate to each cause area. Not sure if it’s be *useful* but interesting.
-
-I can't think of any suggestions this year, it seems good!
-
-Add a box for general thoughts about the movement. I have snarky opinions I want to vomit into a textbox.
-
-More open to uncertain people
-
-Add Paris in the cities you propose ;)
-
-a few ideas:   Ask what information EA's would like more of?  Ask what support would EA's would like more of?  Ask what resources would EA's not need more of?  after survey - create a representative sample and ask if they would be available for "flash" survey input from time to time - for future input on topics.
-
-You could add more opportunity for suggestions about how to improve the EA community.
-
-It's a good length! Maybe ask how often people talk about EA, or how open they feel about discussing EA with various groups.
-
-Would be great to use it as a tool to assemble local groups.
-
-It would be nice if you could just pull the data about my donation history from my GWWC profile, especially since the move to effectivealtruism.org has made it more annoying to calculate the numbers since the totals are no longer available.
-
-be more vegan
-
-A few of the questions don't make as much sense if you work at an EA org. For example I don't volunteer I just work long hours at an EA org, I'm not part of a local group because I see a lot of EAs daily etc. That might not be worth fixing if we're not the majority but it could be interesting to get data on how many people work at an EA org and see if their answers different on any dimension.  I'd also be very interested to hear how people would describe effective altruism.
-
-How popular is EA amongst family and friends?  How many high school or below students do you know interested in EA? what is most compelling reason not to be effective altruist? (Reworded) how many people have you persuaded/introduced EA to?
-
-ask about positive and negative experiences with EA and local groups
-
-For question 15. What broad career path are you planning to follow? -- add another category, uncertain. Especially bc there are a lot of young EAs.
-
-Allow people to check multiple for the religious category (I'm Jewish & atheist).
-
-I think so?
-
-It was unclear as someone who is currently a student if I should check "some college but no degree" or "bachelors degree". It was unclear if I should check "education" because the organization I work for is a university, or if I should check "software engineering" because the organization I will intern for this summer is a tech company.
-
-The survey doesn't seem to take into account that many in the EA movement actually work at EA(-minded) organizations. E.g. the question about how much time one volunteers is rather confusing.
-
-I feel like "EA communication/outreach" should have been a separate option for career (since I would separate it from direct NGO work), but not sure
-
-Love that you asked about diet. Curious to hear the results
-
-On some of the "either/or" question you should maybe include an "other" option and a text box for an explanation. A few of these questions required me to choose a least incorrect answer. Great overall though!
-
-Get better industry categories tailored to your audience (include professional services/consulting, social enterprises, entrepreneurship, international organizations, which are highly populated by EAs)
-
-Would be interesting to hear about people's motivations and reasons for engaging with EA, as well as the causal mechanisms (e.g. how they heard about it). Would also be interesting to hear about people's doubts / concerns about the EA movement as well as the EA philosophy.
-
-Add startups and skill building towards startups as an option (it only says charities/non profits)
-
-There ought to be a clearer way to say “I don’t know what my household income is”. I left those options blank without any explanation besides this one. It probably says a lot about how well‐designed this survey is that I can’t think of anything more substantial to put here, I almost always notice at least one big problem with every survey.
-
-Move the EA-specific questions to the end so you don't scare off non-EA people.
-
-Ask us about our stage of life, kids future plans study etc
-
-An option to make it quicker to take if you have taken it in the past.    Make sure results are being used. In particular talk to local groups and make the survey useful for them to measure impact.    The questions on when first find out about EA at confusing because EA didn't really exist until 2011/2012 but earlier years are listed.
-
-Include a text box to describe the "other" religious belief. Like mine is pantheist/spiritual, so I feel like it doesn't belong in any other category.
-
-It’s irritating to me that it sometimes feels like you’re not a real EA if you’re not in tech or in direct action (which for some people is a way bigger step than donating 10%! Maybe you have a job you love! We don’t expect people to live lives of pure aesceticism when they’re earning to give so I don’t know why we have to pressure people into DA work all day every day). But anyway. I think the survey feels unwelcoming by having a million techy job option selections and then lumping all of social sciences together. Or by having lots of questions about DA and 80k hours. It feels judgey.
-
-Re: 39. Did you take the last survey, in 2017?    I'm not sure, but I think I probably missed it.
-
-- I liked the survey. Thanks for doing this!  - Change "EAF/FRI/REG/The Swiss Group" to "EAF/FRI/REG"  - I wasn't sure how to answer the "how much time do you volunteer for EA" question since I work for an EA org, but also do more hours than I would need to. This could be seen as regular overtime, or as volunteering. Not sure if this can be improved – maybe add a "I work for an EA org" option to this question to simplify it?  - FYI, I took the TLYCS pledge two years before taking the GWWC pledge – maybe this is not sufficiently relevant to ask for in the survey, though  - I wasn't sure which year to indicate for "when did you get involved with EA", since it was a gradual process in the beginning. I read Famine, Affluence and Morality in 2010 and took the TLYCS pledge right after, but there was no EA community back then. I got much more involved in 2012/13, when an actual community started to build. Maybe you can give a prompt so that people with a similar background know which criteria to base their answer on.
-
-🐙🐙🐙
-
-Given that malaria and "deworming" are such high priorities to many EA's, seems like a good idea to have global health in the list of causes.
-
-Not the *survey* itself, but make it a lot easier to look up my donations & income from past years. I was tracking this on My Giving on GWWC, but now the data has migrated to effectivealtruism.org, and in the process my income data has been lost, and apparently I'm not allowed to add income data starting more than a year in the past, and my donation data is not aggregated at all. This makes the donation numbers I've reported in this survey rough and imperfect.
-
-Some of the cause priority questions were weird. How would I prioritize cause prioritization, for example?
-
-Include the option to give permission to share (some) data with local groups (if it's linked to an individual person, not sure if it will be as I haven't given personal details yet).  Just pressed the back button to add that now I know you ask for personal details on the next page. Also – more feedback about the next page, I find it annoying to maintain both GWWC and the EA Hubs donation profiles so I've not maintained the EA Hubs one. I needed to check my GWWC account to find out exactly what I've done but the site is currently down.  Also, on the coaching question, I've not received coaching from 80k, but Ben did put me in touch with a couple of people after a random email chain that we had going... that was part of what led to my current career path.
-
-Multiple survey links are confusing.  It makes it hard to authenticate a link.  Please use separate survey=&delivery_method= parameters so that I can use a delivery-method-tracked link with confidence that I am taking the real survey.    Is this a typo?: "18. Are there any other causes *you feel* that *you feel* are priorities?"
-
-Add options based on answers to previous surveys.
-
-Use this survey to gather ideas on spreading the movement and making it mainstream. I myself am coming from the mainstream and find EA a little bit extreme and homogenous, though I can deal. I think the core principles behind EA are valuable and universal but need some mainstream-ified talking points if we want to effect mindset shift.
-
-Preset values for income / insert some plugin from Giving What We Can so that a person does not have to search for the values on another page.
-
-ask more about the factors that led people to donate money/time
-
-Ask more questions about political and philosophical issues
-
-Ask more about positive a negative things about the community. Why do people want to be part, why are people driven away. Then optimize accordingly.    (In my case: driven away from the local student's chapter because of a very authoritarian, cultish and non-emotional-intelligent 'leader' of the chapter who wouldn't allow us to discuss philosophy and cause prio, but would rather just use us as his personal leafletting-for-EA-army. I still love the EA principles and ideas, I am just alienated by a part of the local community. So to optimize better: try to stay in contact with local groups and help them / correct them so they can be effective in finding and keeping new people)
-
-Get info on who would like to get involved how, mistakes/ dangers for the community, what we value in EA, what we don’t
-
-Perhaps include more political questions - I think a detailed breakdown in addition to the self-identified label would be interesting and potentially valuable.
-
-Thank you to you & your colleagues for doing up the survey! And to whoever is reading this, thanks for going through people's comments and improving it for next year! You're awesome.    - I think it would be cool if you asked people if they go to an effort (and if so, to what extent do they go to an effort) to make the EA community welcoming (in addition to the question you already included asking if they find the EA community welcoming). Although I'd be a bit worried about the results, because although some people definitely try hard to make EA welcoming, there are definitely also people who don't see the creation of a welcoming atmosphere as a priority.     In Q17 it might be good to include animal welfare and animal rights as separate cause areas, because you could argue they are quite distinct from each other. I also didn't see any options representative of value spreading or moral circle expansion, but I realise that there aren't 80k profiles on those cause areas yet so I imagine that's why they haven't received as much attention as other cause areas.     - In the career plan question it would be great if you could give people the option to tick more than one box, or to write something else entirely. My career plan didn't fit into any one of the boxes, but I didn't want to click "none" because it was more like a bit of "all" rather than "none" of the options.    - I think it would be awesome if you asked people which organisation/s they volunteered for and for how long, rather than only asking how many hours per month they volunteer.     And again, to whoever is reading this, thanks again for doing what you're doing! Hope you stay awesome =)
-
-Allow choosing several options in question 15.
-
-Felt the survey was quick and good. Perhaps, additionally, there can be some reflective questions about what the respondent feels went well/poorly for EA in the past year, and what they would like to see for EA in the coming years.
-
-I don't know how to improve the survey because I don't know what its purpose is.
-
-Using typeform instead of surveymonkey could improve user experience.    Comments on specific Q's:  - 16: I find the EA community (un) welcoming to different degrees, depending on location (both on- and offline.) I think there are stark differences and it would be great to have more data on that + permit a more nuanced answer.  - 12: I want to say that I used to be involved and that I would be involved would I find my current EA group welcoming.   Specifically for "international people":  - 19: Being able to tick multiple ccy boxes would be great.  - 28: I live in multiple countries.  - 32: I hope you will calibrate the political beliefs answer to the residence country of the responded bc they can differ vastly b/w countries. More nuance could be good (e.g. fiscally conservative but socially liberal is sth I encounter often.)    Thanks everyone!!
-
-Clarify education level - I wasn't totally confident about whether a medical degree counts as 'professional degree'.     Add 'not in employment' option to 'what sector is the organisation you work for in' question.
-
-Have a free text box for gender.
-
-Focusing on actionable insights: including questions where the answers from the community could change how EA behaves.
-
-More probing questions about beliefs and where they come from, to help uncover and address group-think, i.e. the disproportionate amount of EAs all "independently" - and wrongly! - coming to the conclusion that AI risk should be the biggest current concern, that climate change isn't urgent and only has a small chance of causing human extinction in our lifetimes, and that "most animal lives are net negative". Ugh.
-
-Ask stuff like: "Do you feel EA is moving into the right direction politically? Should it move more to the right or to the left?"
-
-You asked for my projected 2018 donations but not for my projected 2018 salary. I’ll be around CHF 100,000.
-
-Better idea how far through you are. Maybe a progress bar?    I don't really like having it in sections, but the benefit from having your answers so far saved if you leave makes it worth it.    If this is the end, there are things you could have asked about but haven't along the lines of moral views. I would be interested to read summaries of this data, but worry that it might put people off answering. If this question isn't at the end, it should be. In either case it should be made clear whether there is more to come before asking this question (the button below just says "next").    Someone commented on facebook that this doesn't play nicely with the browser "back" button.
-
-I pressed the previous button accidentally, and I lost all of my answers which was somewhat frustrating. It would be nice if my answers were saved, or everything was on one page.
-
-Have an option to send us a copy thru email of what we have answered
-
-For political/religious direction, I'm not really sure what to answer (or what e.g. center left/right, the various diet options, and some others even actually mean). It seems difficult to properly categorize the relationships I have towards these topics. (My overall attitude can be summed up as "don't really care, but try to do the 'right' thing when it has low cost.")    However, if the questions have relevance it could be useful to have a text field next to "Other" like the question regarding diet did, to enable some elaboration.    Great survey though, I feel like it has improved over time and the feedback from previous years has been noted. I found it to be very time-efficient, and look forward to seeing the overall results. Thank you!
-
-Just put a box for the city instead of the radio buttons.
-
-Gather data on ripple effect?
-
-I don't know who you are, or how you use this.
-
-What I have put on "other" on some of the other questions may represent alternatives that should be there.
-
-Provide a written response option for gender, rather than just "other".
-
-An open-ended question or two, like something the EA community needs to work on or an x-risk for EA
-
-I'd like to see more diversity in the EA movement. I'd like a post-survey analysis of where and how the diverse section of our movement came to learn about EA. I'd also like to see new questions in the survey that help to identify problems regarding diversity, equity, and inclusion that most of us might not notice or otherwise be unaware of.
-
-Make it even prettier and pay premium to lose the survey monkey branding.
-
-Question 13 was odd/confusing. Hearing about people's perceptions of problems w/in EA or threats to EA could be informative as well
-
-Ask more open-ended questions about how we'd like to get involved or why we are only involved at the level we currently are? Make the goals of the survey more clear at the outset. I'm not sure if this is more of a census or more to understand how to grow and be more effective.
-
-Atheism and agnosticism are far from being similar categories... Atheism is a belief, that there is no god; agnosticism is the knowledge of our own "ignorance".    I would welcome questions to the improvement of the EA movement, e. g. about decision making of the movement, transparency, the culture and the perception of the group, how the group treats low educated people, women, carnivores, criticism...
-
-I wanted to answer that my preferred career path is to continue to work in government to influence decision-making, but I felt that this was different than the option to work directly in a charity/nonprofit.  So I chose "earning to give" as my career path because my current government position does not largely impact EA causes.  However, by working in US government, my salary is lower than similar workers, so my earning to give capacity is lower than many in the EA world.
-
-Explain some key words, e.g. What is Cause Prioritization?  Allow more answers, e.g. I don't remember if I took the survey in 2017.  Allow an indication of how sure one is in each specific answer.
-
-it might be interesting to measure in more detail the level of involvement of self-defined EAs
-
-Asking to evaluate new complex unknows : how many years people tend to stick to EA ?
-
-I would prefer it to be single-page
-
-One question asks what career path we "plan to" follow. This is aimed toward young people/students, which doesn't include everyone taking the survey.
-
-1. That someone is not involved in a local group near them does not mean they cannot be quite involved with a local group they visit often - which is a possibility that did not seem to be acknowledged by the questions.    2. It would be nice if the "other" option for religious identification had a slot for elaboration.    3. It would be nice to be able to opt out of the finance and donation questions, à la "prefer not to answer" (instead of just not filling them), and also to explain why one is opting out.    4. Wouldn't it be quite useful to ask if a person works or has worked for an EA org? I put "nonprofit" in the industry for my work, because a lot of my freelance time is booked by 80,000 Hours.     Thanks so much for doing this!
-
-Replace "gender" with "sex".  The race/ethnicity categories are very US-centric. Split Asian into East/South Asian. Remove American Indian. Broaden Islander to Austronesian.  Ask for family religious background instead of or as well as religion.  Split Christian into Catholic/Protestant/Other. Add Chinese traditionalist. Remove Sikh. This better reflects  https://en.wikipedia.org/wiki/List_of_religious_populations  https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members
-
-Perhaps split the diet question into two, I had a hard time with it.
-
-Maybe more questions about how people get involved, or ask if someone (select few) wants to do follow-up to get a better grip on that
-
-What happened to the question "Which cause would you like to see no EA resources go towards?"?
-
-Remember for me whether I've taken the survey in previous years (and whether I've already taken it this year).
-
-Give more space for open ended feedback? (I'm not sure if you really value this information, but if you posed open ended questions, I'm sure I and others would answer in detail.)
-
-collect information about whether participants have tried to spread the word about EA to family, friends etc
-
-Consider using the LessWrong-survey as inspiration.
-
-Randomly kill pseudorational white cis brodudes infecting the EA community
-
-I wasn't clear whether to put my major or my current job specialty.  I put my major, though I am not a physicist.  I didn't see a place to put lifetime donations, but the next page is asking for it (edit: ah, but I'll leave it in cause it confused me).
-
-I miss a progress bar
-
-Try to have consistent questions from year to year so we can compare across years.
-
-Have 'work for an EA: Org' option on the 'which industry do you work in' question.
-
-Keep being awesome ^.^
-
-Be more clear one what to do about donations in various currencies on the donations bit.
-
-Ask more about inclusion and potential problem areas in the community
-
-Consider getting demographic data on education, parents' income, and disability to learn more about the make-up of our movement.
-
-There was one awkward grammar issue (feel...feel priority cause).  Otherwise, it was quite ideal and quicker than I expected, which is good.
-
-The career choices didn't seem very applicable to me; I want to both get involved in an organization that is doing good work and donate a large fraction of my money, but not optimize overwhelmingly for either
-
-There is no space for general comments about the EA movement, no demand for feedback on what EA organisations could be doing better (rather than just feedback on the survey itself), and the option choices in many questions seem oddly limited. Overall kind of a weird survey.     Also, it's a small thing, but the ethnicity question.. Come on, we're not all American! One box for Hawaiians and one for all Asians? None for mixed-race people? Given your (admittedly minor) focus on poverty, would you not be curious to know whether any people from low-income countries are joining the movement? (you should ask about origin not just current location.. many of us will be working in developing countries but actually from Europe or "the West")    One thing that's off putting about EA is the strong sense it's a community that is very happy to consist of two small clubs: a club of white boys in the Bay area and another club of white boys in Oxford. Now, you may disagree that that's the vibe you *want* to give, but let me tell you: that's the vibe you're giving.    This survey doesn't help, not only because of the US-centric questions, but also cause it just doesn't ask EA-sympathisers for any feedback. Do you think that you are doing nothing wrong? Do you even care?     So (answering the questions you didn't ask), I'll read the research, glance at the newsletter, donate effectively, think carefully about my career, be friends with the occasional non-sectarian EA that bumps into my life, but I really, really don't feel like going to the meetings or events or being closely involved in the "movement", because your movement gives a strong vibe of white-rich-boy exclusive with little appetite for self-reflection - not for me, thanks.
-
-Is that truly the end? Expected many more questions. This also would be 1000x more better if it were done scientifically, which it is not at all.
-
-Memes
-
-My experience of this survey is that it was written by people with little experience of writing surveys.  The questions seemed like they were in an odd order. Also, some of the options were a bit odd too.  To lump agnostic in with atheist and non-religious is problematic. I don't think an option to write in your own religion was provided there either which I think is an oversight.
-
-for the religion question, the "other" option should have scope to explain. More space for explanations generally.  that way you'll learn more.  Numbers don't tell the whole story.
-
-Maybe more about career choices?
-
-It should me more focused on what people expect to do as effective altruists, rather than how much money people expect to donate.
-
-Give an obvious, up-front time estimate of how long it'll take to complete. And then get that under 5 minutes.
-
-Ask for suggestions to improve "EA" (I think - consider doing more marketing/advertising)    Ask about negative experiences (inappropriate behaviour, harassment, etc)
-
-Local Linkedin group / local job search support
-
-Household income is hard to estimate in share houses. Provide some guidance for that.
-
-More open-ended questions to allow respondents to express more nuanced/detailed opinions on experience of EA
-
-Please show the number of questions/pages left.
-
-You might want to let people know that they might be uniquely identifiable by someone familiar with the EA community if they answer all questions. I.e. this survey is pseudo-anonymous rather than anonymous.    (I think there are more than 10 people, and potentially up to 100, who will be able to identify me based on the responses I gave, but that's OK with me.)
-
-For Race, please don’t put just “White” or “Black and African American”. There is a catagory for “Asian” and “hispanic” so why is it not all represented like this. White and Black are not races, they are skin colours. Words like Caucasian or Anglo Saxon, or European, or African, or... may be more appropriate.
-
-Crowd-source survey questions on the most popular EA forums.     Encourage independent local surveys, and request the results be forwarded to global.    Anonymize and publish the data! :D
-
-I feel pretty bamboozled by this survey. I started making donations to 'Giving What We Can' because of my concerns about how effectively some charities were spending their money. My interests are in charities that support people, particularly in their mental and physical health and wellbeing.
-
-SHORTEN IT!
-
-More specific questions, where you can get an insight into how much people agree or disagree with certain EA concepts/arguments
-
-Put other on the religious denominations. I am aQuaker
-
-Sleep better. Do more physical exercise. Smile more :-)
-
-US-centric race options
-
-Put some sort of timeline at the top/bottom so people can see at which point you're at in the survey
-
-It's absolutely optimal.
-
-Show completion rate - I considered leaving the survey several times
-
-Some sort of measure of how far through the survey I am.
-
-excellent survey
-
-You could ask about the charities people support with donations or volunteering
-
-The survey implicitly assumes a lot about channels of doing EA work, e.g., "volunteer" hours. It's actually quite hard to engage with it if you've been optimizing hard for EA ends for a long time because (for me, anyway), the implicit assumptions don't apply.
-
-Some of the choices don't give a "No" option.  Like the 80,000 hours career counseling question...I don't receiving coaching and don't want coaching.
-
-Circle back with the overall results and what you will be doing to action any recommendations
-
-Could you use skip patterns to ensure students are not asked employment questions. Skip patterns would allow respondents to only answer questions relevant to you.
-
-feelfree
-
-It seemed like a good, reliable and valid questionnaire.
-
-Progress bar ;)
-
-It's pretty long.
-
-Ask how people want to contribute to the EA movement. In my case, I would like to get much more involved with the local group and would like to receive coaching.
-
-Ask for general feedback to about EA as a movement?    Heres some short feedback: I think people I've met in EA meetings have far too much confidence in their ability to do good. I don't mean that people in general cannot do good, but rather that people individually underestimate how hard it is for them to excel at doing good.    One small illustration of this is that people call themselves "Effective Altruists", as if being a part of a group that WANTS to be effective at altruism necessarily makes you effective at altruism. Making a facebook group called "Profitable Businesspeople" and calling yourself a member of the Profitable Businesspeople movement doesn't make you profitable in business, and neither does being part of an Effective Altruism movement make you effective at altruism.     This should really be perfectly obvious, yet I too often see "EA's" congratulate each other and themselves simply for being part of this movement, rather than for actually achieving something valuable.    For example, some people promote the idea of funding  housing projects where EA's can live without having to work, so that they can focus on EA. I'm not against this idea IN PRINCIPLE, but the "Effective-Altruist implies effective altruist fallacy" causes some people to not focus on the obvious questions about this, such as: how exactly are we going to make sure that these people do effective work? The world is full of non-effective altruists already, so how do we make sure this housing project doesn't just become another collection of naive hippies that isn't disciplined by real world metrics? The fact that they call themselves Effective Altruists is close to zero information on this.    By the way, none of this criticism apllies to the serious people at CEA, 80k etc. It applies to the young stusents who go to EA meetings but haven't done anything really challenging in their life, and think they can just brainstorm some half-baked ideas, formatted in rationalist-sounding terminology like "Bayesian updating" and "optimization", and that makes them an "effective" altruist.    In summary, I am seeing early signs that this movement is letting people in too easily without slapping their naive and undiaciplined thinking out of them. My prediction: unless people in EA actively work against this process, it will continue to worsen in the near-term future and will waste some of the work that serious EA people have put in this.    (Don't mistake this answer as pessimism about EA though. I'm generally very positive about this movement: this is just a small concern)
-
-City list could have autocompletion instead of a limited list of cities.
-
-Perhaps more information on what you're looking to do with the information
-
-Make it less biased towards people who approve of how Effective Altruism is run. The Effective Altruism charity is highly flawed, but this survey doesn't let me express this opinion or explain why.
-
-Please give me the links and websites to the other effective altruism groups in my email ( including fb groups) provide career advice, and maybe mentorship oppurtunites, I would like to talk to someone about my future
-
-Use score voting without an exclusive top choice -- that unnecessarily skews results.
-
-More write in options about religion. I would've inputted that I was raised Christian and identify as Christian, but that I haven't been practicing and am agnostic.
-
-Politics question: centred on what?  US or UK or Chinese politics?  Better to do a mini 2d politics survey to get some meaningful info.  Otherwise all you get is where people see themselves compared to a random sample of people they are thinking about at the moment.
-
-Maybe add more "Don't know/Don't understand" options. I found the question about political leanings hard to answer, but didn't know how to indicate that, so I left it unanswered.    Maybe it could also be nice to have a progress indicator, like a way for me to know how far along in the survey I am?
-
-More rating answer choices to gauge the common trends
-
-Don't put the attention check on page one.  :)  Lots of potential small improvements to the survey, but generally it works well.
-
-Allow us to suggest what things might be bad with some things I've seen pushed by EA eg open borders and universal income
-
-make it shorter
-
-send me a cookie,lol.
-
-This version was much better (i.e. shorter) than the previous one. However, I don't really like answering the same couple of questions (e.g. how I got involved, where did I hear about the EA the first time, etc.....) multiple times a year - in EA survey, in 80k survey and elsewhere. Would it be possible to create some kind of "profiles" in which I would answer these questions just once and next time 80k or EA survey or anyone else in the community wanted me to fill in their questionnaire these questions would be pre-filled so I dont have to fill them in again? This would also allow you to conduct some longitudinal research e.g. into how does the preference of EA causes changes over the time WITHIN participants or in case of 80k they could see how people gradually leaning towards EA careers - in my opinion it would be much better than comparing group results. Or is there any chance you can connect my results with the ones from previous year? even if I wanted I probably wouldn't be able to recollect e.g. which causes did I prefer last year. You can offer the option of "creating a profile" for example in the very end of the survey which would save all the data and users might be more willing to save all the work they have put into filling the survey as some E-shops/airlines do it.
-
-Pas de question sur les finances
-
-There was no option for 80k career advice that was not wanting it, only yes, no but want it, or none of the above.    Also mild preference that probably doesn't matter, but there were a few questions where it would have made more sense for me to be able to click multiple things, such as atheist and Buddhist. Not that important though.     You didn't ask which causes the donations went to. As an EA, that's one of the survey results I'm most interested in.
-
-Make it shorter
-
-Less questions
-
-maybe some trollyology questions.
-
-Are you in compliance with GDPR regulations? I hope you are bc I am providing  here a lot of info about myself :)
-
-More comment boxes for "other" responses.
-
-Some of the answers don't make sense and I would like to give context. E.g. a new group is starting in my country - it skews a lot of the answers.
-
-Please define and/or give more information about household and individual income. As a non native english speaker I had to research the information and I am not sure if I found the information you were looking for.
-
-Ask for insights into donation decisions, maybe what percent of donation money goes to an EA organization vs non-EA.
-
-How would you express you were married and polyamorous? Also would be good to have more questions about community stuff, eg feeling welcome
-
-it's too long
-
-I don't like ticking a box that mixes atheists with agnostics - and I am surprised EA would blend the two.
-
-Give option to drop e-mail adress to get results send .
-
-- is it monthly or yearly household income?!  - the scale in the cause priorization matrix probably does not produce valid results. it is not a clear increasing scale
-
-no suggestion..here to learn
-
-Have a question which can (noisily probably but ideally not) track attrition rates of long term members.
-
-Not sure
-
-You should ask if single people consider themselves as polyamorous.   You should ask if people who are currently employed are looking for another job
-
-show which page you are on in the survey
-
-tell of findings and outcomes from previous years' survey
-
-awfully long
-
-N/A
-
-By proving us with information most of the time and Products like the T-shirts and Visits.
-
-You could ask about the impact of peoples jobs vs just their monetary donation levels. I do public health research - the job is impactful, but the pay is crap.
-
-You do not talk about wealth (as opposed to income).  This is a general gap with EA campaigns, but is highly relevant for us baby boomers thinking about how much of our savings to pass on as inheritance or to donate.
-
-I noticed that my sense of cause prioritization isn't coherent at all. This isn't feedback on the survey, but its interesting to note that I don't know which cause is most important and I also don't care. I feel my impact will be in the future and I have time to decide.
-
-It would be interesting to ask how often the person brings up EA and explains it to their acquaintances / how many people within their circle are aware of AI
-
-Ask about community of EA - it's effects on members, and what could be done to strengthen the community's bonds / encourage brave EA lifestyle and EA evangelism.
-
-The political spectrum question is unclear about what country's political climate is being used as a standard. For example, there are plenty of American center-leftists that would be seen as right-leaning from a European perspective.
-
-I think it's pretty good.
-
-The question should be : How can we improve EA  and the EA community and communication?
-
-Mobile version tends to jump up the page when you hide the keyboard on my android phone. But I think that's a surveymonkey problem.
-
-Find a way for members who don’t have enough resources to make significant monetary contributions to participate in EA.
-
-maybe survey about people interested in devoting careers into generating/processing EA evidence
-
-It's pretty good, well Done
-
-Questions about what EAs think the community is and is not doing well
-
-Prizes! Like stickers
-
-Provide alternatives for doing good other than money donations, for young people still studying it is not very easy to donate much, which might create a feeling of helplessness.
-
-Include more problems in the priorities:  Pollution is not even in the list, but is the FIRST global cause of death, and unsustainable production and consumption models, the first reason that it is the first cause of deaths and without any actions taken, things will get worse
-
-2.No answers should end the survey. 9. Option for taken the pledge privately but not declared publicly? 15. Option for a combination? 19. Option for different currency in different years? (I’m sure I’m not that unusual in moving around - we’re likely to be a mobile bunch!) 34. Option for freelance? (I’m sure there’s quite a few!) 37. Display conditional on employment. 39. Yes / no questions - include ‘don’t know’ option. A few suggestions - I used to design surveys for a living!
-
-It would be great to know exactly why you are collecting this data
-
-The political delineations are confusing. (1) If you're a US citizen those delineations are going to mean different things than if you're European. (2) Most of the categories seem to be about social views rather than economic views, but libertarian also includes economic stances. It may be worth separating those or specifying that you're asking for stances on social issues only.
-
-Explain what it is for.
-
-Include stuff about ethical views (what theory of right action you subscribe to, what view of well-being you think is correct, etc.)
-
-include law. also some longer form optional answers? also split the questions with multiple sub questions into smaller areas
-
-As I suggested in 2017, briefly spell out the goals of Effective Altruism, and use the term "Effective Altruism" rather than just the initials.
-
-You ask about pre-tax income and then amount donated, but different countries have different tax rates. This will make it hard to calculate % of disposable income donated. Recommend you ask about post-tax income. Also question about how welcoming EA community - are you referring to local chapter or to community as a whole? Local community (Sydney) excellent, broader community insular and dogmatic.
-
-in mobile the cursor jumps sometimes, that sucks
-
-The questions about careers give options of earning to give, doing research or working for a non profit as though those are the only options to be an effective altruist. Working for government, or in consulting, is also valid. Also you can both earn to give and work in an altruistic career - it's not necessarily one or the other.
-
-Provide better options for the "Career" question - I work in software development, and it took me some time to figure out which answer choice best represented me.
-
-Some of the demographic questions are ambiguous/non-exclusive. For example, married does not necessarily imply monogamous. For the religions, each can be interpreted as a set of moral injunctions, cultural practices, or cosmological beliefs, allowing almost any combination across the three aspects.
-
-Add an "I don't remember" option for whether I took the last survey.
-
-Help people remember if they took it or not already
-
-For question 7 I wasn't sure how to interpret "get involved" (I don't currently have any commitments or serious involvement), and put in roughly the year I started reading & following the movement online.
-
-Ask more about the atmosphere in the community- it can feel pretty incestuous!!
-
-There were one or two questions that had options that all didn't apply precisely to me.  So perhaps include an "Other (please specify)" for those questions too (even though that may cause you more work)?
-
-I would like to know more not only about current cause priorities, but also about what people consider their terminal values
-
-Send me an email to remind me to take it next year
-
-The current employment question did not offer an option to select "Effective Altruism." Given I work full time for an EA organisation this presented me with a dilemma about whether to select "Nonprofit," which is somewhat misleading, or write in "Effective Altruism." This could be solved by having a yes or no question which asks if you currently work for an EA org.
-
-Make it longer and send out free EA stickers to respondents
-
-Add more interesting questions or options - e.g. even more causes
-
-Ask questions about the mental health of the members and how connected they feel within the community.
-
-:)
-
-(It is probably worth adding a "there is no local EA community" option, on the local EA community questions?)
-
-Fewer questions.
-
-"Which industry do you work in" needs a "I am not employed" option
-
-I think the survey is really good! :)  You ask if I donate money, but you did not specify if I a donated to EA-related orgs.   You ask me about my career path, but you did not let open a "Other" choice rather than the three you listed.
-
-I'm not sure why the answers to these questions would be useful or interesting.
-
-I prefer Google Forms or Typeform but everything is super clear! Maybe some information about values/political beliefs would be interesting. Otherwise, great :)
-
-Incorporate anticapitalistic ideas. System Change not Clean Meat.
-
-Refer to "Animal rights/welfare" as "Nonhuman rights/welfare" as it's generally a more accurate framing (humans are animals, etc).  Separate options for Atheist and agnostic in religious options, as they are considerably different beliefs.
-
-Checkboxes for gender question
-
-Please add Taiwan (R.O.C) to your list of countries. I realise it hasn't come up on your list because many do not recognise it. However, it is not a political statement to do so. For all practical purposes it is its own country. I do not live in China.
-
-Ask questions about how we would like the EA movement to develop in the future. This question wasn't asked.
-
-I don't remember if I took the survey last year
-
-rather than "Other" as a gender option, self-reporting (fill-in) is more inclusive.
-
-Good survey, not too long
-
-Some questions should probably be more precise. E.g. how did you get into effective altruism? Does it ask what my first contact was? Does it ask what had the largest influence for me becoming into EA?
-
-Need to tighten up your sampling methodology; for me to reply via ACE’s twitter post is convenience sampling =/
-
-Add progress bar or percentage
-
-you guys could provide some concrete example to see how people try to solve problmes
-
-It's good!
-
-Why do you want to know whether we are monogamous or polyamorous? ;-)
-
-Include a progress indicator
-
-Use a different questioning scheme for the question with the priorities.. The way it is now, while spotting the top priorities of each survey taker, it fails to to extract the information of the real prioritisation. I think it would be better to let people rank the different causes in an order.
-
-Provide incentive by entering participants in a raffle.
-
-Clarify what's meant by the cause priorities question - is this what we personally can justify to ourselves based on our own opinions/beliefs, or what we genuinely believe to be true (which should be based on how what other more intelligent people think)? In other words, would it be ok to go straight to 80k and see how they prioritise the issues, and answer according to that?
-
-Allow my EA hub answers to be counted here so I'm not double answering things.
-
-The Technology (or Software) sector is weirdly described in your business field pop-up. I had a hard time finding it.
-
-Put the most common options first e.g. US, UK for country
-
-I don't know if you'll give me an option to have my answers sent to me, but that would be nice (would also increase likelihood I can answer Q39 next year...I can't remember if I took the survey last year and can't find a Thank You email indicating that I did).
-
-Adapting income boxes to more flexible circumstances, ask questions about future EA plans not just current EA activity
-
-You need a place to say if people work for an EA org right now! That makes things like the volunteer question a bit odd for someone like me, who works full time at CEA. If I didn't I might indeed volunteer.
-
-Include more diverse gender options and perhaps a section on sexual orientation. Would also be interesting to get minorities’ perspectives (ethnic, gender, etc.) on how EA treats them as minorities - I think diversity in EA is a major issue and we should track our progress regarding how we welcome people from minority backgrounds.
-
-If you could add some forecastable outcomes that surveyees could put probability estimates on we could see how likely the community thinks various outcomes are and how accurate the community is.
-
-- I tried taking the survey in the last three years I think, and never finished because it was super stressful, in part because there were too many questions that required me to have strong opinions on difficult topics iirc. This year's survey was much less stressful, I don't know which things you changed, but good job  - cause priorization question: I would have liked an option for indicating that I (do not) think a cause is important, without having to do a ranking of all causes I deem important. ("not sure" might mean that, might also mean "I'm not sure if I support this cause at all", so that didn't help)  - politics question: Could have used a reference frame. Right/Center/Left as conceived in the US, Europe, ?
-
-The survey was an appropriate length and asked straightforward answers. I don't think it needs improvement.
-
-1 - Write-in option for the religion question. I'm an atheist but I also identify as Unitarian Universalist and I'd like to be able to write that in.  2 - Broader, less America-centric ethnicity options. (I, Bruno Parga, would be happy to talk more deeply about this with survey organizers.)
-
-Include S-Risks as a cause. Even MacAskill mentions them nowadays! More questions about what developments we like and what we currently don't like in the movement. Wasn't the last survey longer in that regard?
-
-The survey is fairly quantitative rather than qualitative, I suspect there are useful qualitative questions you could be asking regarding perceptions of different groups.
-
-It took me back to the beginning after finishing this question... not sure what happened. Also questions about EA's moral beleifs and whether they are considered unusual by their friends and family would be interesting.
-
-Not have the survey time out if I stay on the same page for 10 minutes. Specifically, once I press the Next button it just redirects to the first page of the survey. Fortunately all pages (except the last I filled out) remember my answers.
-
-I do research on the psychology of effective altruism. Questions about the psychological characteristics of EAs seems really important and should probably be included.
-
-I actually don't remember if I did the survey last year, so answered no to be conservative.    For the is EA Welcoming questioning I answered how I perceived it before joining, and how I see others reacting to it/people talking about not wanting to talk to new people.    Slightly disappointed not to see any questions related to sexual harassment/assault after Kathy's efforts on that front.
-
-Put Sydney on the cities list :(
-
-add "for profit direct work" as option in career path
-
-Shorter and less invasive.  Politics relegion and ethnicities are meaningless labels
-
-Ask for commentary on how EA is doing in general.  I was very disappointed to be rejected from EA global.  Why do you have to limit the numbers in the conference?  Makes you seem very exclusive and ive blocked some communications from EA groups I used to enjoy following.
-
-You could include a question about mental health :)
-
-I think this might be a good way to get feedback on projects/efforts, e.g. some of CEA's community work. That type of coordination to help with feedback and planning could be valuable.    I also think it could be worth considering linking up with local groups in hubs to add on a few location specific questions for similar reasons as above, though perhaps not depending on time/effort tradeoffs.
-
-*Concretize the political sympathies. Left/centre/right in relation to what?  * A calculator for ones income/donations might be helpful. Or a link to an appropriate tool.  *Perhaps change ethnicities? My gut feeling is screaming americocentric when I pick white.
-
-Publish more engaging visuals of the results.
-
-multiple choice for income has the same result but feels less invasive.
-
-The option for EA career plans includes direct work for a non-profit, but not direct work if it's at a for-profit, which is also a possibility if no non-profits exists in a given area.
-
-Ask weird/cool optional questions like the LW and SSC surveys. Ask about birth order, personality types, family income growing up, things people do/don't like about EA, LGBT status, results on personality tests, etc. so we figure out who EAs really are
-
-I tried just yesterday to find the 2017 results on political affiliation and couldn't
-
-The religious option should let people check multiple choices. It says you can but currently you can't.
 
 ## improve_ea_comment  ##
 

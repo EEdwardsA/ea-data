@@ -29,6 +29,12 @@ list(
         df$age <- ifelse(df$age >= 100, NA, df$age)
         df
     }
+    , "Make GWWC year" = function(df) {
+      df$gwwc_year <- as.numeric(sub("[^0-9]", "", df$gwwc_year))
+      df$gwwc_year <- ifelse(df$gwwc_year < 2009, NA, df$gwwc_year)
+      df$gwwc_year <- ifelse(df$gwwc_year > 2019, NA, df$gwwc_year)
+      df
+    }
     , "Make % inc donate" = function(df) {
         p <- df$donate_2017_c / df$income_2017_individual_c
         p[is.infinite(p)] <- NA
@@ -105,8 +111,42 @@ list(
       }
       df
     }
+    , "Create scales" = function(df) {
+      df$search_scale <- df$search_1 + df$search_2 + df$search_7 + df$search_8 + df$search_9
+
+      df$maximizing_scale <- df$maximizing_1 + df$maximizing_2 + df$maximizing_3 + df$maximizing_4 + df$maximizing_7 + df$search_scale
+
+      df$nfc_2_r <- reverse_code(df$nfc_2)
+      df$nfc_2 <- NULL
+      df$nfc_scale <- df$nfc_1 + df$nfc_2_r + df$nfc_3 + df$nfc_4
+
+      df$big_five_extraverted_2_r <- reverse_code(df$big_five_extraverted_2)
+      df$big_five_extraverted_2 <- NULL
+      df$big_five_extraverted_scale <- df$big_five_extraverted_1 + df$big_five_extraverted_2_r
+
+      df$big_five_conscientious_2_r <- reverse_code(df$big_five_conscientious_2)
+      df$big_five_conscientious_2 <- NULL
+      df$big_five_conscientious_scale <- df$big_five_conscientious_1 + df$big_five_conscientious_2_r
+
+      df$big_five_agreeable_1_r <- reverse_code(df$big_five_agreeable_1)
+      df$big_five_agreeable_1 <- NULL
+      df$big_five_agreeable_scale <- df$big_five_agreeable_1_r + df$big_five_agreeable_2
+
+      df$big_five_emotionally_stable_2_r <- reverse_code(df$big_five_emotionally_stable_2)
+      df$big_five_emotionally_stable_2 <- NULL
+      df$big_five_emotionally_stable_scale <- df$big_five_emotionally_stable_1 + df$big_five_emotionally_stable_2_r
+
+      df$big_five_open_2_r <- reverse_code(df$big_five_open_2)
+      df$big_five_open_2 <- NULL
+      df$big_five_open_scale <- df$big_five_open_1 + df$big_five_open_2_r
+
+      df$ec_scale <- df$ec_1 + df$ec_2
+      df$pd_scale <- df$pd_1 + df$pd_2 + df$pd_3
+      df$pt_scale <- df$pt_1 + df$pt_2
+      df
+    }
     , "Export DF" = function(df) {
-      readr::write_csv(data, "data/2018/2018-ea-survey-anon-currencied-processed.csv")
+      readr::write_csv(df, "data/2018/2018-ea-survey-anon-currencied-processed.csv")
       df
     }
   )
