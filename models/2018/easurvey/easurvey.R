@@ -112,9 +112,9 @@ list(
       df
     }
     , "Create scales" = function(df) {
-      df$search_scale <- df$search_1 + df$search_2 + df$search_7 + df$search_8 + df$search_9
-
-      df$maximizing_scale <- df$maximizing_1 + df$maximizing_2 + df$maximizing_3 + df$maximizing_4 + df$maximizing_7 + df$search_scale
+      df$search_subscale <- df$search_1 + df$search_2 + df$search_7 + df$search_8 + df$search_9
+      df$maximizing_subscale <- df$maximizing_1 + df$maximizing_2 + df$maximizing_3 + df$maximizing_4 + df$maximizing_7
+      df$maximizing_scale <- df$maximizing_subscale + df$search_subscale
 
       df$nfc_2_r <- reverse_code(df$nfc_2)
       df$nfc_2 <- NULL
