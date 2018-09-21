@@ -25,7 +25,7 @@ packages:
     version: "1.5"
   -
     name: currencyr
-    version: 0.0.0.9005
+    version: 0.0.1.9000
     repo: peterhurford/currencyr
   -
     name: plyr
@@ -35,7 +35,7 @@ packages:
     version: 0.4.3
   -
     name: surveytools2
-    version: 0.6.3
+    version: 0.7
     repo: peterhurford/surveytools2
   -
     name: funtools

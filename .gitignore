@@ -12,6 +12,8 @@ data/2017/2017-lgs-comments.txt
 data/2017/2017-lgs-analysis-tables.txt
 data/2017/2017-survey-comments.txt
 data/2017/ea_comments.txt
-data/email_salt.txt
 data/2017/2017-local-groups-survey-confidential-no-anon.csv
 data/2017/2017-local-groups-survey-parsed.csv
+data/2018/2018-ea-survey-anon.csv
+data/2018/2018-ea-survey-confidential-no-anon.csv
+data/email_salt.txt
