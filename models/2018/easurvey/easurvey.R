@@ -29,10 +29,11 @@ list(
         df$age <- ifelse(df$age >= 100, NA, df$age)
         df
     }
-    , "Make GWWC year" = function(df) {
+    , "Make GWWC year and GWWC membership" = function(df) {
       df$gwwc_year <- as.numeric(sub("[^0-9]", "", df$gwwc_year))
       df$gwwc_year <- ifelse(df$gwwc_year < 2009, NA, df$gwwc_year)
       df$gwwc_year <- ifelse(df$gwwc_year > 2019, NA, df$gwwc_year)
+      df$member_gwwc <- (df$member_gwwc == "Year I took the pledge:")
       df
     }
     , "Make % inc donate" = function(df) {
@@ -106,6 +107,7 @@ list(
     , "Clean binary variables" = function(df) {
       vars_to_clean <- c("ea_career_shifted_path", "ea_career_will_shift_path", "race", "employed", "studied", "referrer", "can_share", "donation_kind", "involved", "member") 
       vars_to_clean <- lapply(vars_to_clean, get_vars, df = df) %>% flatten
+      vars_to_clean <- setdiff(vars_to_clean, "member_gwwc")
       for (var in vars_to_clean) {
         df[[var]] <- ifelse(is.na(df[[var]]), FALSE, TRUE)
       }
