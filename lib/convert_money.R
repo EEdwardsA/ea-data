@@ -14,6 +14,7 @@ convert_money <- function(data, as_of) {
     strsplit(currency, sep)[[c(1, 1)]] %>% trimws
   }
   clean_currency <- function(currency) {
+    currency <- toupper(gsub("[^a-zA-Z0-9!-.,?/ ]", "", currency))
     if (grepl("-", currency)) { split_currency(currency, "-") }
     else if (grepl("\\(", currency)) { split_currency(currency, "\\(") }
     else { currency }
@@ -26,7 +27,7 @@ convert_money <- function(data, as_of) {
     return(NA_character_)
   }
 
-  second_pass <- data$currency_donate_2 %>% toupper %/>% clean_currency %/>% try_to_get_currency
+  second_pass <- data$currency_donate_2 %/>% clean_currency %/>% try_to_get_currency
 
   combine <- function(x, y) { if (is.na(x)) { y } else { x }}
   currency_map <- Map(combine, unlist(first_pass), unlist(second_pass)) %>% unlist
@@ -39,6 +40,8 @@ convert_money <- function(data, as_of) {
 
   to_usd <- function(num, current_currency) {
     if (!checkr::is.simple_string(current_currency)) { return(as.numeric(NA)) }
+    current_currency <- gsub("[^a-zA-Z]", "", current_currency)
+    num <- as.numeric(gsub("[^0-9]", "", num))
     if (identical(as.numeric(num), 0)) { return(0) }
     if (identical(current_currency, "USD")) { return(as.numeric(num)) }
     if (!is_number_string(num)) { return(as.numeric(NA)) }

@@ -16,4 +16,6 @@ data/2017/2017-local-groups-survey-confidential-no-anon.csv
 data/2017/2017-local-groups-survey-parsed.csv
 data/2018/2018-ea-survey-anon.csv
 data/2018/2018-ea-survey-confidential-no-anon.csv
+data/2018/2018-ea-survey-anon-currencied.csv
+data/2018/2018-survey-comments.txt
 data/email_salt.txt

@@ -1,5 +1,4 @@
-#TODO: recode gwwc_year, ea_volunteer_hours, extra_cause_*, employed_*, referrer_self_report_*
-# TODO: Add scales
+#TODO: recode ea_volunteer_hours, extra_cause_*, employed_*, referrer_self_report_*
 #TODO: analyze plan_donate_2018, relationship_status, how_feel_donate, why_donate_less, cost_effectiveness_ratio
 list(
   import = list(file = "data/2018/2018-ea-survey-anon-currencied.csv"),
@@ -13,20 +12,14 @@ list(
     }
     , "Drop non-EA I"    = function(df) {
         message(length(na.omit(df$is_ea1)), " answered EA I question")
-        df <- df[df$is_ea1 == 1, ]
+        df <- df[df$is_ea1 == "Yes" & !is.na(df$is_ea1), ]
         message(NROW(df), " after dropping non-EA I")
         df
     }
     , "Drop non-EA II"    = function(df) {
         message(length(na.omit(df$is_ea2)), " answered EA II question")
-        df <- df[df$is_ea2 == 1, ]
+        df <- df[df$is_ea2 == "Yes" & !is.na(df$is_ea2), ]
         message(NROW(df), " after dropping non-EA II")
-        df
-    }
-    , "Make age"     = function(df) {
-        df$age <- 2018 - as.numeric(df$birth_year)
-        df$age <- ifelse(df$age <= 0, NA, df$age)
-        df$age <- ifelse(df$age >= 100, NA, df$age)
         df
     }
     , "Make GWWC year and GWWC membership" = function(df) {
@@ -58,11 +51,11 @@ list(
         # I know gender is not a binary, but this is still useful for analysis. My apologies.
         df$gender_b <- drop_values(df$gender, c("Other", "Prefer Not to Answer"))
         df
-      }
+    }
     , "Make diet (veg*n vs. other) binary" = function(df) {
         df$veg_b <- df$veg %in% c("Vegan", "Vegetarian")
         df
-      }
+    }
     , "Politics (left vs. non-left)" = function(df) {
         df$left <- swap_by_value(df, "politics", list("Center Left" = "Left",
                                                       "Left" = "Left",
@@ -73,7 +66,7 @@ list(
                                                       "Center Right" = "Non-Left",
                                                       "Right" = "Non-Left"))$politics
         df
-      }
+    }
     , "Donations by cause area" = function(df) {
         orgs_by_cause <- list("meta" = c("RC", "80K", "CFAR", "CEA", "CS", "EF", "TLYCS"),
                               "cause_pri" = c("ACE", "FRI", "GW"),
@@ -91,14 +84,6 @@ list(
           df[[paste("donate", "cause", cause, "2017", "c", sep = "_")]] <- out
         }
         df
-      }
-    , "Write and drop comments" = function(df) {
-      write_comments <- resource("lib/write_comments")
-      write_comments(df, "data/2018/2018-survey-comments.txt")
-      for (var in get_vars(df, "comment")) {
-        df[[var]] <- NULL
-      }
-      df
     }
     , "Add student" = function(df) {
       df$student <- ifelse(is.na(df$employed_student_part), ifelse(is.na(df$employed_student_full), FALSE, TRUE), TRUE)
@@ -114,34 +99,42 @@ list(
       df
     }
     , "Create scales" = function(df) {
-      df$search_subscale <- df$search_1 + df$search_2 + df$search_7 + df$search_8 + df$search_9
-      df$maximizing_subscale <- df$maximizing_1 + df$maximizing_2 + df$maximizing_3 + df$maximizing_4 + df$maximizing_7
+      n <- function(x) as.numeric(gsub("[^0-9]", "", x))
+      df$search_subscale <- n(df$search_1) + n(df$search_2) + n(df$search_7) + n(df$search_8) + n(df$search_9)
+      df$maximizing_subscale <- n(df$maximizing_1) + n(df$maximizing_2) + n(df$maximizing_3) + n(df$maximizing_4) + n(df$maximizing_7)
       df$maximizing_scale <- df$maximizing_subscale + df$search_subscale
 
-      df$nfc_2_r <- reverse_code(df$nfc_2)
+      df$nfc_2_r <- reverse_code(n(df$nfc_2))
       df$nfc_2 <- NULL
-      df$nfc_scale <- df$nfc_1 + df$nfc_2_r + df$nfc_3 + df$nfc_4
+      df$nfc_scale <- n(df$nfc_1) + df$nfc_2_r + n(df$nfc_3) + n(df$nfc_4)
 
-      df$big_five_extraverted_2_r <- reverse_code(df$big_five_extraverted_2)
+      df$big_five_extraverted_2_r <- reverse_code(n(df$big_five_extraverted_2))
       df$big_five_extraverted_2 <- NULL
-      df$big_five_extraverted_scale <- df$big_five_extraverted_1 + df$big_five_extraverted_2_r
+      df$big_five_extraverted_scale <- n(df$big_five_extraverted_1) + df$big_five_extraverted_2_r
 
-      df$big_five_conscientious_2_r <- reverse_code(df$big_five_conscientious_2)
+      df$big_five_conscientious_2_r <- reverse_code(n(df$big_five_conscientious_2))
       df$big_five_conscientious_2 <- NULL
-      df$big_five_conscientious_scale <- df$big_five_conscientious_1 + df$big_five_conscientious_2_r
+      df$big_five_conscientious_scale <- n(df$big_five_conscientious_1) + df$big_five_conscientious_2_r
 
-      df$big_five_agreeable_1_r <- reverse_code(df$big_five_agreeable_1)
+      df$big_five_agreeable_1_r <- reverse_code(n(df$big_five_agreeable_1))
       df$big_five_agreeable_1 <- NULL
-      df$big_five_agreeable_scale <- df$big_five_agreeable_1_r + df$big_five_agreeable_2
+      df$big_five_agreeable_scale <- df$big_five_agreeable_1_r + n(df$big_five_agreeable_2)
 
-      df$big_five_emotionally_stable_2_r <- reverse_code(df$big_five_emotionally_stable_2)
+      df$big_five_emotionally_stable_2_r <- reverse_code(n(df$big_five_emotionally_stable_2))
       df$big_five_emotionally_stable_2 <- NULL
-      df$big_five_emotionally_stable_scale <- df$big_five_emotionally_stable_1 + df$big_five_emotionally_stable_2_r
+      df$big_five_emotionally_stable_scale <- n(df$big_five_emotionally_stable_1) + df$big_five_emotionally_stable_2_r
 
-      df$big_five_open_2_r <- reverse_code(df$big_five_open_2)
+      df$big_five_open_2_r <- reverse_code(n(df$big_five_open_2))
       df$big_five_open_2 <- NULL
-      df$big_five_open_scale <- df$big_five_open_1 + df$big_five_open_2_r
+      df$big_five_open_scale <- n(df$big_five_open_1) + df$big_five_open_2_r
 
+      df$ec_1 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$ec_1))))))
+      df$ec_2 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$ec_2))))))
+      df$pd_1 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$pd_1))))))
+      df$pd_2 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$pd_2))))))
+      df$pd_3 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$pd_3))))))
+      df$pt_1 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$pt_1))))))
+      df$pt_2 <- n(gsub("E", 5, gsub("D", 4, gsub("C", 3, gsub("B", 2, gsub("A", 1, df$pt_2))))))
       df$ec_scale <- df$ec_1 + df$ec_2
       df$pd_scale <- df$pd_1 + df$pd_2 + df$pd_3
       df$pt_scale <- df$pt_1 + df$pt_2
@@ -173,16 +166,6 @@ list(
       , "binary cause view x diet"           = function(df) { for (var in get_vars(df, "cause_import.+_b")) { print(tab_(df, list("veg_b", var), freq = FALSE, percent = TRUE)) } }
       , "diet x cause_import_animal_welfare" = function(df) ctab(df, veg, cause_import_animal_welfare, na.rm = TRUE)
       , "diet x cause_import_animal_welfare 2"    = function(df) tab(df, veg %in% c("Vegan", "Vegetarian"), cause_import_animal_welfare_b, na.rm = TRUE, percent = TRUE)
-      , "city x cause area"                       = function(df) {
-                                                      top_ten_cities <- tab(df, city, top = 10) %>% names %>% .[-1]
-                                                      for (city in top_ten_cities) {
-                                                        message(city)
-                                                        for (var in get_vars(df, "cause_import.+_b")) {
-                                                          df %>% dplyr::filter_(paste0("city == '", city, "'")) %>% tab_(., var) %>% print(.)
-                                                        }
-                                                      }
-                                                    }
-      , "Bay Area x AI"                           = function(df) ctab(df, cause_import_ai_b, city == "SF Bay", na.rm = TRUE)
       , "AI by joining 2013 or earlier"           = function(df) tab(df, cause_import_ai_b, which_year_EA %in%  c("Before 2009", "2009", "2010", "2011", "2012", "2013"), percent = TRUE, na.rm = TRUE, byrow = FALSE)
       , "AI by joining 2013 or earlier II"        = function(df) tab(df, cause_import_ai_b, which_year_EA %in%  c("Before 2009", "2009", "2010", "2011", "2012", "2013"), percent = TRUE, byrow = FALSE)
       , "AI by joining 2013 or earlier III"       = function(df) ctab(df, cause_import_ai_b, which_year_EA %in%  c("Before 2009", "2009", "2010", "2011", "2012", "2013"), na.rm = TRUE)
@@ -249,7 +232,6 @@ list(
       , "Far Future Cause Donations 2017 (Total)"  = function(df) var_summary(df$donate_cause_far_future_2017_c, verbose = TRUE)
       , "Did donate to Far Future Cause 2017?"     = function(df) tab(df, donate_cause_far_future_2017_c > 0)
       , "age"                           = function(df) tab(df, age)
-      , "age plot"                      = function(df) { ggplot(df, aes(age)) + geom_histogram(color="black", fill="lightblue") + scale_x_continuous("Age") + ggtitle("Ages of EAs") }
       , "gender"                        = function(df) tab(df, gender)
       , "race_white"                    = function(df) tab(df, race_white)
       , "race_black"                    = function(df) tab(df, race_black)
@@ -262,14 +244,8 @@ list(
       , "left"                          = function(df) tab(df, left)
       , "binary cause view x left"      = function(df) { for (var in get_vars(df, "cause_import.+_b")) { print(comparison_table_(df, var, "left", na.rm = TRUE)) } }
       , "left x race"                   = function(df) ctab(df, race_white, left, na.rm = TRUE)
-      , "left x city"                   = function(df) ctab(df, left, city, top = 5, na.rm = TRUE)
-      , "left x Bay"                    = function(df) ctab(df, left, city == "SF Bay", na.rm = TRUE)
-      , "left x NYC"                    = function(df) ctab(df, left, city == "New York City", na.rm = TRUE)
-      , "race x city"                   = function(df) ctab(df, race_white, city, top = 5, na.rm = TRUE)
-      , "race x NYC"                    = function(df) ctab(df, race_white, city == "New York City", na.rm = TRUE)
       , "student"                       = function(df) tab(df, student, percent = TRUE)
       , "country"                       = function(df) tab(df, country)
-      , "city"                          = function(df) tab(df, city)
       , "religion"                      = function(df) tab(df, religion)
       , "veg"                           = function(df) tab(df, veg)
       , "veg x left"                    = function(df) ctab(df, veg_b, left, na.rm = TRUE)
@@ -345,7 +321,6 @@ list(
       , "member_local x year"           = function(df) ctab(df, member_local_group, which_year_EA)
       , "member_local x donate"         = function(df) ctab(df, donate_2017_c, member_local_group)
       , "member_gwwc x involved local"  = function(df) ctab(df, member_gwwc, involved_local_EA)
-      , "city x member_gwwc"            = function(df) ctab(df, city, member_gwwc, top = 10)
       , "GWWC non-students donating >10%" = function(df) tab(df, filters(student == FALSE, income_2017_individual_c > 10000, which_year_EA %not_in% c(2017, 2018)), member_gwwc, p_donate_2017 >= 0.1, na.rm = TRUE, percent = TRUE)
       , "binary cause view x GWWC"      = function(df) { for (var in get_vars(df, "cause_import.+_b")) { print(tab_(df, list("member_gwwc", var), percent = TRUE)) } }
       , "cause donations x GWWC"        = function(df) { for (var in get_vars(df, "donate_2017_cause_.+2017")) { print(tab_(df, list(lazyeval::as.lazy(paste(var, "> 0")), "member_gwwc"), na.rm = TRUE)) } }
@@ -353,7 +328,6 @@ list(
       #, "referrer self report"          = function(df) tab(df, referrer_self_report)
       #, "referrer URL"                  = function(df) tab(df, referrer2)
       #, "referrer URL (narrower)"       = function(df) tab(df, referrer3)
-      #, "referrer3 x age"               = function(df) ctab(df, age, referrer3)
       #, "referrer3 x gender"            = function(df) ctab(df, gender_b, referrer3)
       #, "referrer3 x white"             = function(df) ctab(df, race_white, referrer3, na.rm = TRUE)
       #, "referrer3 x USA"               = function(df) ctab(df, country == "United States", referrer3, na.rm = TRUE)
