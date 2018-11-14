@@ -1,5 +1,5 @@
 N
-[1] 184 393
+[1] 184 386
 [check] population aging
          mean        median           min           max            sd 
       2.087302      2.000000      1.000000      3.000000      0.335138 
@@ -277,14 +277,14 @@ summarize 2014 donations
         184.00    1990740.86         49.00        106.00 
 summarize 2015 donations
          mean        median           min           max            sd 
-      16472.47       1424.16          0.00    1000000.00      82994.89 
+      16449.74       1413.36          0.00    1000000.00      82967.43 
         length           sum        num_na num_over_zero 
-        184.00    2685013.36         21.00        134.00 
+        184.00    2681307.04         21.00        134.00 
 summarize 2016 donations
          mean        median           min           max            sd 
-      20554.75       2975.50          0.00    1200000.00      99145.42 
+      20524.53       2975.50          0.00    1200000.00      99122.16 
         length           sum        num_na num_over_zero 
-        184.00    3453198.12         16.00        152.00 
+        184.00    3448121.47         16.00        152.00 
 increase don? 2014->2015
 df$s17_donate_2015_c > df$s15_donate_2014_c
  
@@ -307,14 +307,14 @@ summarize 2014 income
         184.00   19137623.60         51.00        117.00 
 summarize 2015 income
          mean        median           min           max            sd 
-      185882.2       30062.0      -50000.0    19000000.0     1534948.3 
+     186395.99      31291.53          0.00   19000000.00    1534876.96 
         length           sum        num_na num_over_zero 
-         184.0    29555270.4          25.0         127.0 
+        184.00   29636961.67         25.00        128.00 
 summarize 2016 income
          mean        median           min           max            sd 
-        188571         38000             0      15000000       1239832 
+      188444.3       38000.0           0.0    15000000.0     1239835.7 
         length           sum        num_na num_over_zero 
-           184      30548509            22           140 
+         184.0    30527974.7          22.0         140.0 
 keep EA career
 s15_ea_career ### s17_ea_career (nas removed)
         
@@ -364,34 +364,34 @@ s15_p_donate_2014_c >= 0.1 ### s17_p_donate_2015 >= 0.1
         
          FALSE TRUE <NA>
    FALSE    31   25   10
-   TRUE      5   31    6
-   <NA>     23   11   42
+   TRUE      4   32    6
+   <NA>     22   12   42
 donate 10%? [2015-2016]
 s17_p_donate_2015 >= 0.1 ### s17_p_donate_2016 >= 0.1
         
          FALSE TRUE <NA>
-   FALSE    42   15    2
-   TRUE     12   54    1
-   <NA>     10    5   43
+   FALSE    42   13    2
+   TRUE     13   55    1
+   <NA>     11    4   43
 donate 10% [2014-2016]
 , ,  = FALSE
  
         
          FALSE TRUE
    FALSE    21    5
-   TRUE      2    6
+   TRUE      3    6
  
  , ,  = TRUE
  
         
          FALSE TRUE
    FALSE     8   20
-   TRUE      3   25
+   TRUE      1   26
  
 donate 10% [2014-2016] II
 
   0  1  2  3 
- 21 15 29 25 
+ 21 16 27 26 
 donate? [2014-2016]
 , ,  = FALSE
  
