@@ -28,9 +28,8 @@ convert_money <- function(data, as_of) {
   }
 
   second_pass <- data$currency_donate_2 %/>% clean_currency %/>% try_to_get_currency
-
   combine <- function(x, y) { if (is.na(x)) { y } else { x }}
-  currency_map <- Map(combine, unlist(first_pass), unlist(second_pass)) %>% unlist
+  currency_map <- Vectorize(combine)(first_pass, second_pass)
   data$currency <- currency_map
 
   currency_vars <- surveytools2::get_vars(data, c("donate_", "income"), collapse = TRUE)
@@ -39,19 +38,45 @@ convert_money <- function(data, as_of) {
   is_number_string <- function(x) { !is.na(suppressWarnings(as.numeric(x))) }
 
   to_usd <- function(num, current_currency) {
-    if (!checkr::is.simple_string(current_currency)) { return(as.numeric(NA)) }
-    current_currency <- gsub("[^a-zA-Z]", "", current_currency)
-    num <- as.numeric(gsub("[^0-9]", "", num))
+    if (is.na(num)) { return(as.numeric(NA)) }
+    if (is.na(current_currency)) { return(as.numeric(NA)) }
     if (identical(as.numeric(num), 0)) { return(0) }
     if (identical(current_currency, "USD")) { return(as.numeric(num)) }
-    if (!is_number_string(num)) { return(as.numeric(NA)) }
     currencyr::convert(as.numeric(num),
                        from = current_currency,
                        as_of = as_of)$value
   }
+
+  get_numbers <- function(str) {
+    # Go character by character until you find a number, then take numbers until
+    # you don't have one, then stop.
+    #
+    # get_numbers("hello") -> NA 
+    # get_numbers("16") -> 16
+    # get_numbers("3,000") -> 3000
+    # get_numbers("I donated 16") -> 16
+    # get_numbers("3,000 - 4,000") -> 3000
+    str <- strsplit(str, "")[[1]]
+    new_number <- ""
+    started <- FALSE
+    for (letter in str) {
+      if (letter %in% strsplit("0123456789,", "")[[1]]) {
+        if (letter != ",") {
+          new_number <- paste0(new_number, letter)
+          started <- TRUE
+        }
+      } else {
+        if (started) { break }
+      }
+    }
+    as.numeric(new_number)
+  }
+
+
   for (var in currency_vars) {
     message("...Processing ", var)
-    data[[paste0(var, "_c")]] <- unname(unlist(Map(to_usd, data[[var]], currency_map)))
+    values <- unlist(lapply(data[[var]], function(num) suppressWarnings(get_numbers(num))))
+    data[[paste0(var, "_c")]] <- unlist(Map(to_usd, values, currency_map))
   }
   data
 }
