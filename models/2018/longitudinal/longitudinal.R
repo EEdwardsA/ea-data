@@ -1,4 +1,7 @@
 list(import = function() {
+       run("2018/easurvey", to = "data")
+       df2018 <- df %>% filter(ea_id != "" & !is.na(ea_id))
+       names(df2018) <- paste0("s18_", names(df2018))
        run("2017/easurvey", to = "data")
        df2017 <- df %>% filter(ea_id != "" & !is.na(ea_id))
        names(df2017) <- paste0("s17_", names(df2017))
@@ -8,7 +11,7 @@ list(import = function() {
        inner_join(df2015, df2017, by = c("s15_ea_id" = "s17_ea_id"))
      },
      analyze = list(
-       list(write = "data/2017/2017-longitudinal-analysis-tables.txt"),
+       list(write = "data/2018/2018-longitudinal-analysis-tables.txt"),
        # list(write = "stdout"), # <-- toggle this to print to the screen.
        list(
          "N"                          = function(df) dim(df)
