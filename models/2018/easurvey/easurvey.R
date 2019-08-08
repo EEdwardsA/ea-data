@@ -120,9 +120,9 @@ list(
       df$big_five_agreeable_1 <- NULL
       df$big_five_agreeable_scale <- df$big_five_agreeable_1_r + n(df$big_five_agreeable_2)
 
-      df$big_five_emotionally_stable_2_r <- reverse_code(n(df$big_five_emotionally_stable_2))
-      df$big_five_emotionally_stable_2 <- NULL
-      df$big_five_emotionally_stable_scale <- n(df$big_five_emotionally_stable_1) + df$big_five_emotionally_stable_2_r
+      df$big_five_emotionally_stable_1_r <- reverse_code(n(df$big_five_emotionally_stable_1))
+      df$big_five_emotionally_stable_1 <- NULL
+      df$big_five_emotionally_stable_scale <- n(df$big_five_emotionally_stable_2) + df$big_five_emotionally_stable_1_r
 
       df$big_five_open_2_r <- reverse_code(n(df$big_five_open_2))
       df$big_five_open_2 <- NULL
