@@ -24,15 +24,15 @@ packages:
     name: magrittr
     version: "1.5"
   -
+    name: readr
+    version: 0.2.1
+  -
     name: currencyr
     version: 0.0.1.9000
     repo: peterhurford/currencyr
   -
-    name: plyr
-    version: 1.8.3
-  -
     name: dplyr
-    version: 0.4.3
+    version: 0.8.3
   -
     name: surveytools2
     version: 0.7
