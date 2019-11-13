@@ -96,6 +96,10 @@ list(
       }
       df
     }
+    , "Fix favor formatting" = function(df) {
+      df$ea_know_favor <- gsub("-", " to ", df$ea_know_favor)
+      df
+    }
     , "Export DF" = function(df) {
       readr::write_csv(df, "data/2019/2019-ea-survey-anon-currencied-processed.csv")
       df
