@@ -3,7 +3,10 @@ packages:
     name: stagerunner
     version: 0.5.7
     repo: syberia/stagerunner
-    ref: structure_list
+  -
+    name: objectdiff
+    version: 0.2.3.9003
+    repo: robertzk/objectdiff
   -
     name: Ramd
     version: 0.3.8
@@ -31,6 +34,9 @@ packages:
     version: 0.0.1.9000
     repo: peterhurford/currencyr
   -
+    name: rlang
+    version: 0.4.0
+  -
     name: dplyr
     version: 0.8.3
   -
@@ -38,13 +44,13 @@ packages:
     version: 0.7
     repo: peterhurford/surveytools2
   -
-    name: funtools
-    version: 0.0.0.9004
-    repo: peterhurford/funtools
-  -
-    name: checkr
-    version: 0.1.4
-    repo: peterhurford/checkr
-  -
     name: ggplot2
     version: 2.2.1
+  -
+    name: checkr
+    repo: peterhurford/checkr
+    version: 0.1.4
+  -
+    name: funtools
+    repo: peterhurford/funtools
+    version: 0.0.0.9004
