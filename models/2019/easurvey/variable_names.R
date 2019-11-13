@@ -1,4 +1,5 @@
 list(
+ "Collector ID" = "referrer",
  "Are you giving genuine, sincere answers?" = "sincere",
  "Do you broadly subscribe to the basic ideas behind effective altruism?" = "is_ea1",
  "Could you, however loosely, be described as an \"Effective Altruist\"?" = "is_ea2",

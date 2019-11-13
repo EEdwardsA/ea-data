@@ -79,8 +79,9 @@ Ramd::define("variable_names", function(variable_names) {
   data2019$age <- ifelse(data2019$age %within% c(13, 17), "13-17",
                          ifelse(data2019$age %within% c(18, 24), "18-24",
                          ifelse(data2019$age %within% c(25, 34), "25-34",
+                         ifelse(data2019$age %within% c(34, 44), "34-44",
                          ifelse(data2019$age %within% c(45, 54), "45-54",
-                         ifelse(data2019$age %within% c(55, 64), "55-64", "65+")))))
+                         ifelse(data2019$age %within% c(55, 64), "55-64", "65+"))))))
 
   message("Writing comments...")
   write_comments <- resource("lib/write_comments")

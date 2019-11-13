@@ -66,11 +66,11 @@ list(
     #     df
     # }
     , "Donations by cause area" = function(df) {
-        orgs_by_cause <- list("meta" = c("RC", "80K", "CFAR", "CEA", "CS", "EF", "TLYCS"),
-                              "cause_pri" = c("ACE", "FRI", "GW"),
-                              "poverty" = c("AMF", "DTW", "END", "GD", "MC", "SCI", "Sightsavers"),
-                              "animal_welfare" = c("faunalytics", "GF", "MFA", "SP", "THL"),
-                              "far_future" = c("FHI", "MIRI"))
+        orgs_by_cause <- list("meta" = c("RC", "80K", "CFAR", "CEA", "EF", "ea_fund_meta"),
+                              "cause_pri" = c("ACE", "GW"),
+                              "poverty" = c("AMF", "DTW", "GD", "SCI", "ea_fund_global_health"),
+                              "animal_welfare" = c("GF", "MFA", "THL", "ea_fund_animal_welfare"),
+                              "far_future" = c("MIRI", "ea_fund_ltf"))
 
         for (cause in names(orgs_by_cause)) {
           out <- paste(orgs_by_cause[[cause]], "2018", "c", sep = "_") %>%
@@ -88,7 +88,7 @@ list(
       df
     }
     , "Clean binary variables" = function(df) {
-      vars_to_clean <- c("ea_career_shifted_path", "ea_career_will_shift_path", "race", "employed", "studied", "referrer", "can_share", "donation_kind", "involved", "member") 
+      vars_to_clean <- c("race", "employed", "studied", "involved", "member") 
       vars_to_clean <- lapply(vars_to_clean, get_vars, df = df) %>% flatten
       vars_to_clean <- setdiff(vars_to_clean, "member_gwwc")
       for (var in vars_to_clean) {
@@ -100,8 +100,12 @@ list(
       df$ea_know_favor <- gsub("-", " to ", df$ea_know_favor)
       df
     }
+    , "Clean DPE" = function(df) {
+      df$dpe2 <- as.numeric(df$dpe2)
+      df
+    }
     , "Export DF" = function(df) {
-      readr::write_csv(df, "data/2019/2019-ea-survey-anon-currencied-processed.csv")
+      readr::write_csv(df, "data/2019/2019-ea-survey-anon-currencied-processed-draft6.csv")
       df
     }
   )
