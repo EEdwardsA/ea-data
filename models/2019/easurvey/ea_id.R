@@ -66,36 +66,6 @@ Ramd::define("variable_names", function(variable_names) {
   data2019$first_name <- NULL
   data2019$last_name <- NULL
 
-  message("Censoring... location...")
-  data2019$city <- NULL
-  ok_countries <- c("United States of America", "United Kingdom of Great Britain and Northern Ireland", "Germany", "Australia", "Canada", "Switzerland", "Netherlands", "Sweden")
-  data2019$country <- ifelse(data2019$country %in% ok_countries, data2019$country, "Other")
-
-  message("Censoring... age...")
-  data2019$age <- 2019 - as.numeric(gsub("[^a-zA-Z0-9!-.,?/ ]", "", data2019$birth_year))
-  data2019$age <- ifelse(data2019$age <= 0, NA, data2019$age)
-  data2019$age <- ifelse(data2019$age >= 100, NA, data2019$age)
-  data2019$birth_year <- NULL
-  data2019$age <- ifelse(data2019$age %within% c(13, 17), "13-17",
-                         ifelse(data2019$age %within% c(18, 24), "18-24",
-                         ifelse(data2019$age %within% c(25, 34), "25-34",
-                         ifelse(data2019$age %within% c(34, 44), "34-44",
-                         ifelse(data2019$age %within% c(45, 54), "45-54",
-                         ifelse(data2019$age %within% c(55, 64), "55-64", "65+"))))))
-
-  message("Writing comments...")
-  write_comments <- resource("lib/write_comments")
-  write_comments(data2019, "data/2019/2019-survey-comments.txt")
-  message("Written...")
-  message("Censoring... comments...")
-  censored_cols <- 7
-  for (var in get_vars(data2019, "comment")) {
-    data2019[[var]] <- NULL
-    censored_cols <- censored_cols + 1
-  }
-
-  message("Censored ", censored_cols, " columns due to privacy...")
-
   message("Writing out...")
   readr::write_csv(data2019, "data/2019/2019-ea-survey-anon.csv")
   message("Written...")

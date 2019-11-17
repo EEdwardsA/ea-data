@@ -22,4 +22,5 @@ data/2019/2019-ea-survey-anon.csv
 data/2019/2019-ea-survey-confidential-no-anon.csv
 data/2019/2019-ea-survey-anon-currencied.csv
 data/2019/2019-survey-comments.txt
+data/2019/2019-ea-survey-INTERNAL-*
 data/email_salt.txt
