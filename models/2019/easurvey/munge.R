@@ -1,3 +1,5 @@
+DRAFT_NUM <- 7
+
 csv_path <- "data/2019/2019-ea-survey-anon-currencied.csv"
 tryCatch({
   data <- readr::read_csv(csv_path)
@@ -70,11 +72,15 @@ message("student")
 data$student <- ifelse(is.na(data$employed_student_part), ifelse(is.na(data$employed_student_full), FALSE, TRUE), TRUE)
 
 message("clean binary vars")
-vars_to_clean <- c("race", "employed", "studied", "involved", "member") 
+vars_to_clean <- c("race", "employed", "studied", "involved", "member", "activity",
+                   "done_80K", "80K_coach_applied", "ea_career", "religion",
+                   "experience", "ea_barrier", "retention", "drift_reason") 
 vars_to_clean <- lapply(vars_to_clean, function(v) get_vars(data, v)) %>% flatten
 vars_to_clean <- setdiff(vars_to_clean, "member_gwwc")
 for (var in vars_to_clean) {
-  data[[var]] <- ifelse(is.na(data[[var]]), FALSE, TRUE)
+  if (length(unique(data[[var]])) == 2) {
+    data[[var]] <- ifelse(is.na(data[[var]]), FALSE, TRUE)
+  }
 }
 
 message("clean favor")
@@ -84,7 +90,7 @@ message("clean DPE")
 data$dpe2 <- as.numeric(data$dpe2)
 
 message("Writing INTERNAL draft")
-readr::write_csv(data, "data/2019/2019-ea-survey-INTERNAL-draft7.csv")
+readr::write_csv(data, paste0("data/2019/2019-ea-survey-INTERNAL-draft", DRAFT_NUM, ".csv"))
 message("...Written")
 
 message("Censoring... location...")
@@ -130,5 +136,5 @@ data$donate_2018_c <- ifelse(data$donate_2018_c %within% c(0, 100), "$0 to 100",
                                "Over $200,000"))))))))
 
 message("Writing PUBLIC draft")
-readr::write_csv(data, "data/2019/2019-ea-survey-PUBLIC-draft7.csv")
+readr::write_csv(data, paste0("data/2019/2019-ea-survey-PUBLIC-draft", DRAFT_NUM, ".csv"))
 message("...Written!")

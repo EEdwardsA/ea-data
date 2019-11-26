@@ -87,7 +87,7 @@ list(
  "What is your race/ethnicity? Check all that apply. Asian" = "race_asian",
  "In which country do you live?" = "country",
  "How would you describe your diet?" = "veg",
- "Which of the following choices best represents your religious beliefs?" = "religion",
+ "Which of the following choices best represents your religious beliefs?" = "religion_atheist_agnostic",
  "Which of the following choices best represents your religious beliefs? Buddhist" = "religion_buddhist",
  "Which of the following choices best represents your religious beliefs? Christian" = "religion_christian",
  "Which of the following choices best represents your religious beliefs? Hindu" = "religion_hindu",
