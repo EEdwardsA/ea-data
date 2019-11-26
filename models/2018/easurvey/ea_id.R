@@ -57,6 +57,8 @@ Ramd::define("variable_names", function(variable_names) {
     data2018[[var]] <- NULL
     censored_cols <- censored_cols + 1
   }
+  data2018$why_donate_less <- NULL
+  censored_cols <- censored_cols + 1
 
   message("Censoring... based on share preferences...")
   share_count <- apply(apply(data2018[, get_vars(data2018, "no_share")], 2, is.na), 1, sum)
