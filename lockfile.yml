@@ -41,7 +41,7 @@ packages:
     version: 0.8.3
   -
     name: surveytools2
-    version: 0.7
+    version: 0.8
     repo: peterhurford/surveytools2
   -
     name: ggplot2
