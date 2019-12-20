@@ -140,6 +140,8 @@ list(
  "Roughly how much did you donate to the following organizations in 2018? The Humane League" = "donate_thl_2018",
 	"Do you have over 3 years of work experience or graduate study in any of the following areas?" = "experience_generalist_research",
 	"Do you have over 3 years of work experience or graduate study in any of the following areas? Management" = "experience_management",
+	"Do you have over 3 years of work experience or graduate study in any of the following areas? Economics" = "experience_economics",
+	"Do you have over 3 years of work experience or graduate study in any of the following areas? Philosophy" = "experience_philosophy",
 	"Do you have over 3 years of work experience or graduate study in any of the following areas? Government and policy" = "experience_government",
 	"Do you have over 3 years of work experience or graduate study in any of the following areas? Operations" = "experience_operations",
 	"Do you have over 3 years of work experience or graduate study in any of the following areas? Machine learning" = "experience_ml",
