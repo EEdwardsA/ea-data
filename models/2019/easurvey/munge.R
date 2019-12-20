@@ -35,7 +35,8 @@ for (variable in get_vars(data, "cause_import")) {
 
 # I know gender is not a binary, but this is still useful for analysis. My apologies.
 message("can gender be binary?")
-data$gender_b <- drop_values(data$gender, c("Other", "Prefer Not to Answer"))
+data$gender_b <- drop_values(data$gender, c("Other (further details optional)",
+                                            "Prefer Not to Answer"))
 
 message("veg binary")
 data$veg_b <- data$veg %in% c("Vegan", "Vegetarian")
