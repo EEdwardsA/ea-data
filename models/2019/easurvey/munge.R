@@ -1,4 +1,4 @@
-DRAFT_NUM <- 9
+DRAFT_NUM <- 10
 
 csv_path <- "data/2019/2019-ea-survey-anon-currencied.csv"
 tryCatch({
@@ -31,6 +31,10 @@ for (variable in get_vars(data, "cause_import")) {
                                          "2" = ":(",
                                          "1" = ":("))[[variable]]
 }
+
+data$left <- swap_by_value(data, "politics", list("Left" = TRUE,
+                                                  "Center left" = TRUE))$politics
+data$left <- ifelse(data$left == "TRUE", TRUE, ifelse(is.na(data$left), NA, FALSE))
 
 
 # I know gender is not a binary, but this is still useful for analysis. My apologies.
@@ -123,6 +127,11 @@ for (drop in drops) {
   data[[drop]] <- NULL
 }
 
+data$age <- 2019 - as.numeric(gsub("[^a-zA-Z0-9!-.,?/ ]", "", data$birth_year))
+data$age <- ifelse(data$age <= 0, NA, data$age)
+data$age <- ifelse(data$age >= 100, NA, data$age)
+data$birth_year <- NULL
+
 message("Writing INTERNAL draft")
 readr::write_csv(data, paste0("data/2019/2019-ea-survey-INTERNAL-draft", DRAFT_NUM, ".csv"))
 message("...Written")
@@ -143,10 +152,6 @@ ok_countries <- c("United States of America", "United Kingdom of Great Britain a
 data$country <- ifelse(data$country %in% ok_countries, data$country, "Other")
 
 message("Censoring... age...")
-data$age <- 2019 - as.numeric(gsub("[^a-zA-Z0-9!-.,?/ ]", "", data$birth_year))
-data$age <- ifelse(data$age <= 0, NA, data$age)
-data$age <- ifelse(data$age >= 100, NA, data$age)
-data$birth_year <- NULL
 data$age <- ifelse(data$age %within% c(13, 17), "13-17",
                        ifelse(data$age %within% c(18, 24), "18-24",
                        ifelse(data$age %within% c(25, 34), "25-34",

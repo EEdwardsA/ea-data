@@ -1,8 +1,7 @@
 list(
-  import = list(file = "data/2019/2019-ea-survey-anon-currencied.csv"),
-
+  import = list(file = "data/2019/2019-ea-survey-INTERNAL-draft10.csv")
   , analyze = list(
-    # list(write = "data/2018/2018-survey-analysis-tables.txt"),
+    # list(write = "data/2019/2019-survey-analysis-tables.txt"),
     list(write = "stdout"), # <-- toggle this to print to the screen.
     list(
       "cause_import_animal_welfare"          = function(df) tab(df, cause_import_animal_welfare)
@@ -95,15 +94,14 @@ list(
       , "race_pacific_islander"         = function(df) tab(df, race_pacific_islander)
       , "race_asian"                    = function(df) tab(df, race_asian)
       , "multi-racial"                  = function(df) table(get_vars(df, "race") %/>% fn(x, df[[x]]) %/>% fn(x, ifelse(x == "Yes", 1, 0)) %_>% fn(x, y, x + y))
-      # , "politics"                      = function(df) tab(df, politics)
-      # , "left"                          = function(df) tab(df, left)
-      # , "binary cause view x left"      = function(df) { for (var in get_vars(df, "cause_import.+_b")) { print(comparison_table_(df, var, "left", na.rm = TRUE)) } }
-      # , "left x race"                   = function(df) ctab(df, race_white, left, na.rm = TRUE)
+      , "politics"                      = function(df) tab(df, politics)
+      , "left"                          = function(df) tab(df, left)
+      , "binary cause view x left"      = function(df) { for (var in get_vars(df, "cause_import.+_b")) { print(comparison_table_(df, var, "left", na.rm = TRUE)) } }
+      , "left x race"                   = function(df) ctab(df, race_white, left, na.rm = TRUE)
       , "student"                       = function(df) tab(df, student, percent = TRUE)
       , "country"                       = function(df) tab(df, country)
-      , "religion"                      = function(df) tab(df, religion)
       , "veg"                           = function(df) tab(df, veg)
-      # , "veg x left"                    = function(df) ctab(df, veg_b, left, na.rm = TRUE)
+      , "veg x left"                    = function(df) ctab(df, veg_b, left, na.rm = TRUE)
       , "studied_cs"                    = function(df) tab(df, studied_cs)
       , "studied_econ"                  = function(df) tab(df, studied_econ)
       , "studied_engineering"           = function(df) tab(df, studied_engineering)
