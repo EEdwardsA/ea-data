@@ -41,9 +41,8 @@ Ramd::define("variable_names", function(variable_names) {
   data2019 <- plyr::rename(data2019, variable_names)
 	no_resolution <- setdiff(unlist(unname(variable_names)), names(data2019))
   if (length(no_resolution) > 0) {
-    warning("Warning: these variables don't resolve -- ",
+    stop("Error: the following variables don't resolve -- ",
       paste0(no_resolution, collapse = ", "))
-    # TODO: Error
   }
 	no_definition <- setdiff(names(data2019), unlist(unname(variable_names)))
   if (length(no_definition) > 0) {
