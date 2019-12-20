@@ -63,7 +63,7 @@ message("clean binary vars")
 vars_to_clean <- c("race", "employed", "studied", "involved", "member", "activity",
                    "done_80K", "80K_coach_applied", "ea_career", "religion",
                    "experience", "ea_barrier", "retention", "ea_know_drift_reason",
-                   "current_work")
+                   "current_work", "career_interest")
 vars_to_clean <- vars_to_clean %/>%
                   (function(v) get_vars(data, paste0("^", v))) %>%
                   setNames(vars_to_clean)
