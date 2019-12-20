@@ -41,6 +41,12 @@ data$gender_b <- drop_values(data$gender, c("Other (further details optional)",
 message("veg binary")
 data$veg_b <- data$veg %in% c("Vegan", "Vegetarian")
 
+message("EA engaged scale")
+data$ea_engaged_scale <- strsplit(data$ea_engaged_scale, "") %/>%
+                          (function(x) x[2]) %/>%
+                          join %>%
+                          as.numeric
+
 message("orgs by cause")
 orgs_by_cause <- list("meta" = c("RC", "80K", "CFAR", "CEA", "EF", "ea_fund_meta"),
                       "cause_pri" = c("ACE", "GW"),
