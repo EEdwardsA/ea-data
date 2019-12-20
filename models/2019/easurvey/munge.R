@@ -63,7 +63,8 @@ message("clean binary vars")
 vars_to_clean <- c("race", "employed", "studied", "involved", "member", "activity",
                    "done_80K", "80K_coach_applied", "ea_career", "religion",
                    "experience", "ea_barrier", "retention", "ea_know_drift_reason",
-                   "current_work", "career_interest", "heard_survey")
+                   "current_work", "career_interest", "heard_survey", "employed_at",
+                   "permissions")
 vars_to_clean <- vars_to_clean %/>%
                   (function(v) get_vars(data, paste0("^", v))) %>%
                   setNames(vars_to_clean)
@@ -109,9 +110,25 @@ message(length(na.omit(data$is_ea2)), " answered EA II question")
 data <- data[data$is_ea2 & !is.na(data$is_ea2), ]
 message(NROW(data), " after dropping non-EA II")
 
+message("Dropping variables from INTERNAL and public dataset")
+drops <- c("name", "email_address", "linkedin", "cv_link")
+for (drop in drops) {
+  data[[drop]] <- NULL
+}
+
 message("Writing INTERNAL draft")
 readr::write_csv(data, paste0("data/2019/2019-ea-survey-INTERNAL-draft", DRAFT_NUM, ".csv"))
 message("...Written")
+
+message("Dropping variables from public dataset")
+drops <- c("first_heard_EA_other", "first_heard_EA_which_book", "list_personal_connections",
+           "which_local_group", "which_university", get_vars(data, "employed_at"),
+           "cause_import_other_which", "studied_other", "ea_career_type_other",
+           "experience_other", "city", "city_other", get_vars(data, "permissions"),
+           "career_interest_other")
+for (drop in drops) {
+  data[[drop]] <- NULL
+}
 
 message("Censoring... location...")
 data$city <- NULL

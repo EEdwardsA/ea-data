@@ -59,11 +59,6 @@ Ramd::define("variable_names", function(variable_names) {
   email_salt <- readLines(email_salt_file)
   close(email_salt_file)
   data2019$ea_id <- lapply(data2019$email_address, hash_email, salt = email_salt) %>% unlist
-  data2019$email_address <- NULL
-
-  message("Censoring... name...")
-  data2019$first_name <- NULL
-  data2019$last_name <- NULL
 
   message("Writing out...")
   readr::write_csv(data2019, "data/2019/2019-ea-survey-anon.csv")
