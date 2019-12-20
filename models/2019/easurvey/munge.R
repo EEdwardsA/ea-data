@@ -1,4 +1,4 @@
-DRAFT_NUM <- 7
+DRAFT_NUM <- 9
 
 csv_path <- "data/2019/2019-ea-survey-anon-currencied.csv"
 tryCatch({
@@ -9,18 +9,6 @@ tryCatch({
        "and that the public data is already the data produced by this script.",
        " Running this script is not necessary to do the analysis.")
 })
-
-message(NROW(data), " results before dropping insincere")
-data <- dplyr::filter(data, grepl("Yes", sincere))
-message(NROW(data), " results after dropping insincere")
-
-message(length(na.omit(data$is_ea1)), " answered EA I question")
-data <- data[data$is_ea1 == "Yes" & !is.na(data$is_ea1), ]
-message(NROW(data), " after dropping non-EA I")
-
-message(length(na.omit(data$is_ea2)), " answered EA II question")
-data <- data[data$is_ea2 == "Yes" & !is.na(data$is_ea2), ]
-message(NROW(data), " after dropping non-EA II")
 
 message("GWWC Year")
 data$gwwc_year <- as.numeric(sub("[^0-9]", "", data$gwwc_year))
@@ -74,13 +62,29 @@ data$student <- ifelse(is.na(data$employed_student_part), ifelse(is.na(data$empl
 message("clean binary vars")
 vars_to_clean <- c("race", "employed", "studied", "involved", "member", "activity",
                    "done_80K", "80K_coach_applied", "ea_career", "religion",
-                   "experience", "ea_barrier", "retention", "drift_reason") 
-vars_to_clean <- lapply(vars_to_clean, function(v) get_vars(data, v)) %>% flatten
-vars_to_clean <- setdiff(vars_to_clean, "member_gwwc")
-for (var in vars_to_clean) {
+                   "experience", "ea_barrier", "retention", "ea_know_drift_reason",
+                   "current_work")
+vars_to_clean <- vars_to_clean %/>%
+                  (function(v) get_vars(data, paste0("^", v))) %>%
+                  setNames(vars_to_clean)
+vars_to_clean$ea_know_drift_reason <- c(vars_to_clean$ea_know_drift_reason,
+                                        "ea_dont_know_drift_reason")
+vars_to_clean$member <- setdiff(vars_to_clean$member, "member_gwwc")
+for (var in vars_to_clean %>% flatten) {
   if (length(unique(data[[var]])) == 2) {
     data[[var]] <- ifelse(is.na(data[[var]]), FALSE, TRUE)
   }
+}
+for (vars in vars_to_clean) {
+  if (length(vars) > 1) {
+    is_all_false <- apply(data[vars], 1, function(c) all(lapply(c, is_false)))
+    for (var in vars) {
+      data[[var]] <- ifelse(is_all_false, NA, data[[var]])
+    }
+  }
+}
+for (var in c("is_ea1", "is_ea2", "sincere")) {
+  data[[var]] <- grepl("Yes", data[[var]])
 }
 
 message("clean favor")
@@ -88,6 +92,22 @@ data$ea_know_favor <- gsub("-", " to ", data$ea_know_favor)
 
 message("clean DPE")
 data$dpe2 <- as.numeric(data$dpe2)
+
+message("Writing INTERNAL WITH NON-EAS draft")
+readr::write_csv(data, paste0("data/2019/2019-ea-survey-INTERNAL-WITH-NONEA-draft", DRAFT_NUM, ".csv"))
+message("...Written")
+
+message(NROW(data), " results before dropping insincere")
+data <- dplyr::filter(data, sincere)
+message(NROW(data), " results after dropping insincere")
+
+message(length(na.omit(data$is_ea1)), " answered EA I question")
+data <- data[data$is_ea1 & !is.na(data$is_ea1), ]
+message(NROW(data), " after dropping non-EA I")
+
+message(length(na.omit(data$is_ea2)), " answered EA II question")
+data <- data[data$is_ea2 & !is.na(data$is_ea2), ]
+message(NROW(data), " after dropping non-EA II")
 
 message("Writing INTERNAL draft")
 readr::write_csv(data, paste0("data/2019/2019-ea-survey-INTERNAL-draft", DRAFT_NUM, ".csv"))
