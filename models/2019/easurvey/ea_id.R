@@ -49,6 +49,9 @@ Ramd::define("variable_names", function(variable_names) {
     warning("Warning: ", length(no_definition), " items in the dataset did not get a variable assignment.")
   }
   data2019 <- data2019[, unlist(setdiff(variable_names, no_resolution))]
+
+  message("Writing out...")
+  readr::write_csv(data2019, "data/2019/2019-ea-survey-confidential-no-anon-processed.csv")
   
   message("Censoring... email...")
   hash_email <- function(email, salt) {

@@ -19,9 +19,9 @@ data/2018/2018-ea-survey-confidential-no-anon.csv
 data/2018/2018-ea-survey-anon-currencied.csv
 data/2018/2018-survey-comments.txt
 data/2019/2019-ea-survey-anon.csv
-data/2019/2019-ea-survey-confidential-no-anon.csv
 data/2019/2019-ea-survey-anon-currencied.csv
 data/2019/2019-survey-comments.txt
 data/2019/2019-ea-survey-INTERNAL-*
+data/2019/2019-ea-survey-confidential-*
 data/email_salt.txt
 supplemental
