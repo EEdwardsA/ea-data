@@ -35,7 +35,7 @@ packages:
     repo: peterhurford/currencyr
   -
     name: rlang
-    version: 0.4.0
+    version: 0.4.7
   -
     name: dplyr
     version: 0.8.3
