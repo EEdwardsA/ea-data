@@ -24,4 +24,4 @@ data/2019/2019-survey-comments.txt
 data/2019/2019-ea-survey-INTERNAL-*
 data/2019/2019-ea-survey-confidential-*
 data/email_salt.txt
-supplemental
+models/2019/easurvey/supplemental
